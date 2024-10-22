@@ -1,0 +1,619 @@
+{
+    "welcome": "Web & AI Studio",
+    "description": "Web | AI | Marketing | Automations",
+    "subscribe": "Subscribe",
+    "features": {
+        "header": {
+          "title": "How can I help you?",
+          "subtitle": "My Services and Specializations",
+          "description": "Tailored to your needs - Solving your problems"
+           
+        },
+        "websitesTitle": "Websites and Landing Pages",
+        "websitesDescription": "Modern and tailored websites, created in any technology or using selected templates - but always created to achieve your goals",
+        "marketingTitle": "Marketing & Lead Generation",
+        "marketingDescription": "I understand that reaching your target audience and turning new customers into loyal customers is definitely the main priorities for your business - that I will help You with it at all.",
+        "aiTitle": "AI Assistant and Agents",
+        "aiDescription": "With the help of AI, I will create AI Assistants and Agents tailored to your needs, which will help you with the most important aspects of your business.",
+        "designTitle": "Design & Branding with AI",
+        "designDescription": "Together we can create a complete branding for your organization, including photos and videos, as product sessions and AI influencers. I also train generative AI models for individual needs.",
+        "ecommerceTitle": "Ecommerce and Internet Platforms",
+        "ecommerceDescription": "Tailored to your e-commerce business and internet platforms that increase sales, improve user experiences, and grow your business.",
+        "automationsTitle": "Automations and CRMs",
+        "automationsDescription": "I will implement Management Systems tailored to your needs with automations of the most repetitive and time-consuming tasks, which will give you a lot of time in whatever you do."
+      },
+      "featuresTab": {
+        "title": {
+          "one": "Workflow",
+          "two": "Details of our process",
+          "three": "To make everything easy" 
+        },
+        "header": {
+          "tabOne": "Audits and Consultations",
+          "tabTwo": "Strategies and Implementations",
+          "tabThree": "Analyses and Automations" 
+        },
+        "tab1Title": "Audits, results analysis, and consultations",
+        "tab1Description1": "Unlock the full potential of your web and AI initiatives with audit and consultation. I delve deep into existing systems, analyzing every aspect for inefficiencies, gaps, and opportunities.",
+        "tab1Description2": "We provide comprehensive assessments that highlight areas for improvement and optimization. From technical audits to strategic consultations, I am your partner in data-driven decision-making that leads to growth and success.",
+        "tab2Title": "Modern Solutions For Your Business",
+        "tab2Description1": "Turn your ideas into reality with smart strategy and implementation. I don't just create plans - I bring them to life to develop personalized strategies that align with your goals.",
+        "tab2Description2": "I utilize advanced monitoring and data analysis tools to identify weaknesses and strengths. By staying one step ahead, I ensure that your results are always growing.",
+        "tab3Title": "Automations and Analyses",
+        "tab3Description1": "Advanced services will allow you to automate many processes in your company, gaining a lot of time, which allows you to focus on the essence of your business.",
+        "tab3Description2": "Using advanced analytical tools, I provide you with valuable insights that help make more informed business decisions. With automation and analysis, your company can achieve better results and become significantly more competitive in the market."
+      },
+      "about": {
+        "header1": {
+          "header1": "Individual",
+          "header2": "Strategies",
+          "header3": "Complete Solutions",
+          "header4": "For Business",
+          "desc1": "Based on unique needs, I deliver personalized solutions that save a lot of time and solve the most pressing problems in any business."
+      },
+      "header2": {
+          "header1": "Elevate Your Business",
+          "header2": "To The Next Level",
+          "desc1": "Leveraging the latest artificial intelligence technologies, which are one of the greatest revolutions of our time, allows the creation of modern, personalized solutions tailored to your specific industry and goals.",
+          "button": "Let's Start the Project"
+      }
+         },
+        "genai": 
+         {
+              "header1": "Generative AI",
+              "header2": "Images, Photographies and Videos",
+              "header3": "For Business",
+              "more": "See more"
+        },
+        "funfact": {
+            "header1": "Technologies & Frameworks",
+            "header2": "I always select technologies and tools based on the projects needs - but always using the best available on the market for those needs and requirements.",
+            "item1-1": "Happy",
+            "item1-2": "Clients",
+            "item2-1": "Automated",
+            "item2-2": "Processes",
+            "item3-1": "Saved",
+            "item3-2": "Hours",
+            "item4-1": "Clients",
+            "item4-2": "Revenue"
+        },
+        "pricing": {
+            "header": {
+                "header1": "My Services",
+                "header2": "Pricing",
+                "desc1": "To receive a detailed quote, we encourage you to chat with our AI chatbot or fill out the form on the 'Contact' page." 
+              },
+              "marketing": {
+                "header": "Marketing / Social Media",
+                "desc": "Intended to directly attract new customers",
+                "item1": "Ad campaigns: from from 249 $", 
+                "item2": "Social media management + content: from from 249 $", 
+                "item3": "Consultations and audits: from from 49 $", 
+                "item4": "SEO and Google positioning: from 249 $", 
+                "more": "Detailed Pricing" 
+              },
+              "web": {
+                "header": "Websites and Ecom platforms",
+                "desc": "Created precisely for your needs.",
+                "item1": "Landing page/business card websites: 249 $", 
+                "item2": "Business card website: from 299 $", 
+                "item3": "Online store: from 449 $", 
+                "item4": "Custom projects: from 499 $", 
+                "more": "Detailed Pricing" 
+              },
+              "ai": {
+                "header": "AI & Automations",
+                "desc": "Processes and various repetitive tasks in your company",
+                "item1": "AI chatbots with custom knowledge base: from 249 $", 
+                "item2": "Chatbots for customer support / lead generation: from 299 $", 
+                "item3": "Custom projects: from 499 $", 
+                "item4": "Automations: from 249 $", 
+                "more": "Detailed Pricing" 
+              }
+        },
+        "cta": {
+            "header1": "Get Free Consultation",
+            "header2": "or Project Pricing",
+            "contact": "Contact Me",
+            "button": " Contact"
+        },
+        "contact": {
+            "header": "Project Pricing",
+            "button": "Send Message",
+            "consent":"I consect to process my personal data",
+            "header2": "Let's get to know",
+            "header3": "Get Free Consultation",
+            "calendly":"Calendly",
+            "number":"Phone & Whatsapp",
+            "mess":"Talk in Messenger",
+            "contact": "Contact Me",
+            "email":"Email",
+            "form": {
+                "name": "Your Name",
+                "email": "Your Email",
+                "need": "What Do You need?", 
+                "business": "Please Provide Your Business Details", 
+                "details": "Please Provide Details About Your Project", 
+                "deadline": "Deadline and other informations"
+              }
+        },
+        "portfolio": {
+            "header": "Portfolio",
+            "button1": "Web",
+            "button2": "Marketing & SEO",
+            "button3": "AI & Automations",
+            "button4": "Generative AI",
+            "button5": "Github",
+            "buttonBehance": "Behance",
+            "buttonArtstation": "Artstation",
+            "moreButton": "See More Projects",
+            "newsletter": "Subscribe to Newsletter",
+            "items": {
+                "name": "Your Name",
+                "email": "Your Email",
+                "need": "What Do You need?", 
+                "business": "Please Provide Your Business Details", 
+                "details": "Please Provide Details About Your Project", 
+                "deadline": "Deadline and other informations"
+              }
+        },
+        "header": {
+            "menu1": "Home",
+            "menu2": "Portfolio",
+            "menu3": "Services",
+            "menu4": "Contact",
+            "menu5": "Web & Ecommerce",
+            "menu6": "AI",
+            "menu7": "Automations",
+            "menu8": "Gen AI",
+            "menu10":"Marketing",
+            "menu9": "Privacy Policy",
+            "menu11":"Gen AI Magazine",
+            "pricing": "Pricing",
+            "menuServices":"Services"
+        },
+        "footer": {
+            "contact": "Contact",
+            "start": "Let's start",
+            "startDesc": "Send Your Email - and I'll DM You",
+            "formDesc": "Leave Your Email",
+            "menu1": "Home",
+            "menu2": "Portfolio",
+            "menu3": "Contact",
+            "menu9": "Privacy Policy",
+            "menu4": "AInsider AI Blog"
+            
+        },
+        "services": {
+          "header1": "Our Services",
+          "header2": "Automations and AI For Business",
+          "desc": "Automations of processes. AI Chatbots. AI Agents. For Your Business",
+          "about1": {
+              "h1-1": "GENERATIVE AI",
+              "h1-2": "BUSINESS TRANSFORMATION",
+              "header": "Using Generative AI", 
+              "desc": "Discover the potential of Generative Artificial Intelligence in revolutionizing your business. Our AI agency, aiware.me, specializes in generating images, graphics, and videos, delivering innovative solutions that can revolutionize how you showcase your products and services."
+            },
+            "about2": {
+              "h1-1": "TAKE YOUR BUSINESS TO THE NEXT LEVEL",
+              "button": "Start Project",
+              "header": "To the Next Level", 
+              "desc": "Utilizing the latest artificial intelligence technologies, which is one of the greatest revolutions of our time. Our carefully crafted approach encompasses the latest ideas and techniques tailored to your specific industry and goals."
+            }
+      },
+        "generativeai": {
+            "header1": "Ai Arts",
+            "header2": "Generative AI For Business",
+            "desc": "Genertions. Images. Videos. For Your Business",
+            "about1": {
+                "h1-1": "GENERATIVE AI",
+                "h1-2": "BUSINESS TRANSFORMATION",
+                "header": "Using Generative AI", 
+                "desc": "Discover the potential of Generative Artificial Intelligence in revolutionizing your business. Our AI agency, aiware.me, specializes in generating images, graphics, and videos, delivering innovative solutions that can revolutionize how you showcase your products and services."
+              },
+              "about2": {
+                "h1-1": "TAKE YOUR BUSINESS TO THE NEXT LEVEL",
+                "button": "Start Project",
+                "header": "To the Next Level", 
+                "desc": "Utilizing the latest artificial intelligence technologies, which is one of the greatest revolutions of our time. Our carefully crafted approach encompasses the latest ideas and techniques tailored to your specific industry and goals."
+              }
+        },
+        "mainPortfolio": {
+            "header1": "Ai Arts",
+            "header2": "Generative AI For Business",
+            "desc": "Genertions. Images. Videos. For Your Business",
+            "share":"Share On",
+            "details": "Project Details",
+            "company": "Company",
+            "industry": "Industry", 
+            "tech": "Project Technologies.",
+            "item1": {
+                "details": "Project Details",
+                "company": "Company",
+                "industry": "Industry", 
+                "tech": "Project Technologies.",
+                "header":"Gallery of prompts and Generative AI magazine",
+                "desc1":"Ainsider.cloud is a platform related to Generative AI, a field of AI technology that in short - creates content such as graphics, images, or videos, presenting and analyzing the latest trends and achievements in the field of art generated by artificial intelligence, with a library of prompts - textual commands for generating graphics.",
+                "desc2":"We created this project using WordPress, which is the most popular CMS system in the world. WordPress allows easy content management - here with different types of posts, as well as easy customization of the appearance and functionality of the site, integration with social media and other tools.",
+                "tags":"Tags"
+              },
+              "imgpromptr": {
+                "details": "Project Details",
+                "company": "Company",
+                "industry": "Industry", 
+                "tech": "Project Technologies",
+                "desc1": "This AI assistant transforms any image into a creative and detailed text prompt. Simply upload an image, and the assistant will analyze its content, context, and style to generate an engaging, relevant prompt for creative writing, visual art descriptions, or AI-driven tasks like generating new images. Perfect for creators, artists, and AI enthusiasts, it provides an intuitive way to harness visual inspiration and convert it into actionable text prompts.",
+                "desc2": "Nasz sklep wykorzystuje zaawansowane funkcje WooCommerce do personalizacji oferty produktowej, co pozwala nam dostosowywać rekomendacje produktów do preferencji każdego klienta. Dzięki temu zakupy w Bakaliowe Love są nie tylko proste, ale także dostosowane do indywidualnych potrzeb zdrowotnych i dietetycznych naszych użytkowników.",
+                "desc3": "Technologia WooCommerce wspiera również nasze wysiłki logistyczne i zarządzanie zapasami, co przekłada się na szybką i efektywną realizację zamówień. Oferujemy klientom różne opcje płatności i dostawy, sprawiając, że Bakaliowe Love staje się numerem jeden dla wszystkich poszukujących wygodnego dostępu do zdrowej żywności online.",
+                "desc4": "Platforma została zaprojektowana z myślą o maksymalnej użyteczności i dostępności dla użytkowników o różnym poziomie wiedzy - od studentów i hobbystów po doświadczonych inżynierów i badaczy. Dzięki intuicyjnemu interfejsowi użytkownika i wykorzystaniu nowoczesnych rozwiązań frontendowych, Ainsider Tools umożliwia szybkie wyszukiwanie i filtrowanie narzędzi AI, pomagając znaleźć odpowiednie zasoby dopasowane do konkretnych potrzeb projektowych."
+              },
+              "hf": {
+                "details": "Project Details",
+                "company": "Company",
+                "industry": "Industry", 
+                "tech": "Project Technologies",
+                "desc1": "Bakaliowe Love to innowacyjny sklep internetowy specjalizujący się w suszonych owocach i zdrowej żywności, zbudowany na potężnej platformie WooCommerce. Dzięki tej rozwiązaniu zapewniamy naszym klientom niezawodne i bezpieczne zakupy online. WooCommerce umożliwia nam oferowanie intuicyjnego doświadczenia zakupowego z łatwym dostępem do szerokiego asortymentu produktów odżywczych i organicznych.",
+                "desc2": "Nasz sklep wykorzystuje zaawansowane funkcje WooCommerce do personalizacji oferty produktowej, co pozwala nam dostosowywać rekomendacje produktów do preferencji każdego klienta. Dzięki temu zakupy w Bakaliowe Love są nie tylko proste, ale także dostosowane do indywidualnych potrzeb zdrowotnych i dietetycznych naszych użytkowników.",
+                "desc3": "Technologia WooCommerce wspiera również nasze wysiłki logistyczne i zarządzanie zapasami, co przekłada się na szybką i efektywną realizację zamówień. Oferujemy klientom różne opcje płatności i dostawy, sprawiając, że Bakaliowe Love staje się numerem jeden dla wszystkich poszukujących wygodnego dostępu do zdrowej żywności online.",
+                "desc4": "Platforma została zaprojektowana z myślą o maksymalnej użyteczności i dostępności dla użytkowników o różnym poziomie wiedzy - od studentów i hobbystów po doświadczonych inżynierów i badaczy. Dzięki intuicyjnemu interfejsowi użytkownika i wykorzystaniu nowoczesnych rozwiązań frontendowych, Ainsider Tools umożliwia szybkie wyszukiwanie i filtrowanie narzędzi AI, pomagając znaleźć odpowiednie zasoby dopasowane do konkretnych potrzeb projektowych."
+              },
+              "ainsidercloud": {
+                "details": "Project Details",
+                "company": "Company",
+                "industry": "Industry", 
+                "tech": "Project Technologies.",
+                "header":"Gallery of prompts and Generative AI magazine",
+                "desc1":"Ainsider.cloud is a platform related to Generative AI, a field of AI technology that in short - creates content such as graphics, images, or videos, presenting and analyzing the latest trends and achievements in the field of art generated by artificial intelligence, with a library of prompts - textual commands for generating graphics.",
+                "desc2":"We created this project using WordPress, which is the most popular CMS system in the world. WordPress allows easy content management - here with different types of posts, as well as easy customization of the appearance and functionality of the site, integration with social media and other tools.",
+                "tags":"Tags"
+              },
+              "ainsidertools": {
+                "details": "Project Details",
+                "company": "Company",
+                "industry": "Industry", 
+                "tech": "Project Technologies.",
+                "header":"Ai Tools Library Application",
+                "desc1":"Ultrarapid library of AI tools and models",
+                "desc2":"The Ainsider Tools project is an advanced AI tools library, created with the idea of providing a wide range of resources and tools related to artificial intelligence. This innovative platform was built using the Next.js framework and TypeScript programming language, which ensures not only high performance and search engine optimization, but also static typing, which increases code safety and reliability.",
+                "desc3":"Ainsider Tools offers users easy access to a wide range of AI tools, such as machine learning models, natural language processing (NLP) algorithms, data analysis libraries, and many other resources supporting the development of AI projects.",
+                "desc4":"The platform was designed with maximum usability and accessibility for users of varying levels of expertise - from students and hobbyists to experienced engineers and researchers. Thanks to an intuitive user interface and the use of modern frontend solutions, Ainsider Tools enables quick searching and filtering of AI tools, helping to find the right resources tailored to specific project needs.",
+                "tags":"Tags",
+                "header2":"Top Position on Page 1 of Google",
+                "desc5":"The ainsider.tools website has achieved significant success, ranking at the top positions of the first page of Google search results for key phrases related to AI tools libraries and automation. This exceptional achievement is the result of a comprehensive SEO strategy, which included content optimization for valuable keywords, improvement of page loading speed, and ensuring excellent usability for users. Thanks to effective optimization efforts, ainsider.tools has gained high visibility online, resulting in increased organic traffic and strengthening the platform's position as a leader in the field of AI tools and automation technology."
+              },
+              "bakaliowe": {
+                "details": "Project Details",
+                "company": "Company",
+                "industry": "Industry", 
+                "industry2": "Healthy Food", 
+                "tech": "Project Technologies.",
+                "desc1":"Bakaliowe Love is an innovative online store specializing in dried fruits and healthy food, built on the powerful WooCommerce platform. With this solution, we provide our customers with reliable and secure online shopping. WooCommerce enables us to offer an intuitive shopping experience with easy access to a wide range of nutritional and organic products.",
+                "desc2":"Our store utilizes advanced WooCommerce features for personalizing the product offering, allowing us to tailor product recommendations to each customer's preferences. As a result, shopping at Bakaliowe Love is not only simple but also customized to the individual health and dietary needs of our users.",
+                "desc3":"WooCommerce technology also supports our logistics and inventory management efforts, resulting in fast and efficient order fulfillment. We offer customers various payment and delivery options, making Bakaliowe Love the number one destination for anyone looking for convenient access to healthy food online.",
+                "desc4":"The platform was designed with maximum usability and accessibility for users of varying levels of expertise - from students and hobbyists to experienced engineers and researchers. Thanks to an intuitive user interface and the use of modern frontend solutions, Ainsider Tools enables quick searching and filtering of AI tools, helping to find the right resources tailored to specific project needs."
+              },
+              "akcesoria": {
+                "details": "Project Details",
+                "company": "AkcesoriaDoUprawy.pl",
+                "industry": "Plant Growing Accessories",
+                "industry2": "Healthy Food",
+                "tech": "Project Technologies",
+                "desc1": "AkcesoriaDoUprawy.pl is an innovative online store specializing in the sale of plant growing accessories. Built on the powerful WooCommerce platform, our store provides customers with reliable and secure online shopping. Thanks to WooCommerce, we offer an intuitive shopping experience with easy access to a wide range of products, including gardening tools, irrigation systems, and organic fertilizers.",
+                "desc2": "Our store utilizes advanced WooCommerce features to personalize the product offering, allowing us to tailor accessory recommendations to each customer's individual needs. This makes shopping at AkcesoriaDoUprawy.pl not only simple but also customized to the specifics of the plants being grown and the preferences of gardeners, both amateurs and professionals.",
+                "desc3": "The WooCommerce technology also supports our logistical efforts and inventory management, leading to fast and efficient order fulfillment. We offer various payment and delivery options, making AkcesoriaDoUprawy.pl the number one choice for anyone seeking convenient access to plant growing accessories online."
+              },
+              "cora": {
+                "details": "Project Details",
+                "company": "Company",
+                "industry": "Industry", 
+                "industry2": "Automotive / Vehicle Mechanics", 
+                "tech": "Project Technologies.",
+                "desc1":"Website of Zakład Mechaniki Pojazdowej Cora-Góralczyk presenting services, contact, and workshop location.",
+                "desc2":"The Cora-Góralczyk project is an advanced website for a vehicle mechanics workshop specializing in the automotive industry. The website has been designed and implemented with the aim of maximizing accessibility and intuitiveness for users, combining modern web technologies such as HTML, CSS, and JavaScript. By consciously avoiding heavy solutions like WordPress or other website builders, significant improvements in page loading speed and SEO optimization have been achieved."
+              },
+              "lanelya": {
+                "desc1":"Lanellya is a modern online store for clothing and accessories, launched on Shopify to meet the expectations of discerning customers from Germany. Our platform is available in multiple languages, ensuring smooth shopping experiences for international and German-speaking customers. As a result, becomes a bridge between global fashion trends and local preferences, offering collections that blend modernity with tradition.",
+                "desc2":"By leveraging Shopify, our store not only provides smooth and secure checkout processes but also customization for individual user needs through multilingual support and localized payment and delivery options. We ensure that every aspect of our website reflects high standards of quality and design while promoting an ecological and ethical approach to clothing production.",
+                "desc3":"Integration with Shopify allows us to harness the latest e-commerce technologies for offer personalization and to ensure unforgettable shopping experiences. Lanellya also harnesses the power of social media to build an international community around our brand, enabling customers to share opinions and inspirations. Our mission is to deliver clothing and accessories that not only follow trends but also inspire conscious choices and self-expression of style."
+              },
+              "volton": {
+                "industry":"Electrical Services / Smart Home",
+                "desc1":"The website voltoninstall.pl was created as a showcase for the Volton Install company, specializing in modern electrical installations and Smart Home systems. Designed using HTML, CSS, and JavaScript, the website combines modernity and functionality, presenting a wide range of services from design to installation of smart home systems and professional electrical installations.",
+                "desc2":"In addition to high usability, voltoninstall.pl stands out with excellent SEO optimization, allowing the website to achieve high positions in Google search results for key phrases related to electrical services and smart home. With carefully chosen keywords, content optimization, and fast loading speed, the website attracts significant organic traffic, directly translating into increased interest in the offered services. This combination of modern design, functionality, and effective SEO optimization makes the website voltoninstall.pl a key tool in promoting and developing the company in the electrical services and smart home solutions market."             
+             },
+             "jazda": {
+                "industry":"Education / Professional development",
+                "desc1":"The website szkolajazdymachowski.pl is a modern online platform designed to provide easy access to information about driving courses and streamline the registration process for future students. The project was realized using HTML, CSS, and JavaScript technologies, ensuring speed, responsiveness, and excellent compatibility with various devices and browsers.",
+                "desc2":"It includes integration with an AI chatbot supporting customer service, lead generation, and sales inquiries automation with Google Sheets and email notifications.",             
+                "header1":"",
+                "desc3":"The szkolajazdymachowski.pl website achieved an impressive success, occupying the #1 position in Google search results for key phrases related to driving education. This exceptional result is the outcome of carefully conducted SEO optimization, focused on high-quality content, proper keyword usage, and technical excellence of the website. As a result, Machowski driving school stands out among competitors, attracting the attention of potential students and increasing its visibility on the internet.",
+                "header2":"Facebook Profile Creation and Promotion",
+                "desc4":"In addition to successes in the realm of internet search engines, szkolajazdymachowski.pl extended the Training Center's presence on social media by creating and promoting a Facebook profile. This strategic move allowed for building a community around the brand, engaging current and potential customers through regular posts, updates, and interactive content. The Facebook profile has become an important marketing tool that not only increases brand awareness but also enables direct dialogue with students, contributing to building lasting relationships and loyalty to the school."
+             },
+             "slovly": {
+                "desc1":"The online store Slovly Studio is a unique e-commerce platform built on Shopify, dedicated to enthusiasts of unique, handcrafted clothing. Focusing on the slow fashion philosophy, the website not only showcases products but also emphasizes the brand's values, highlighting the importance of conscious consumption and quality. The intuitive user interface, combined with elegant design, provides exceptional shopping experiences, allowing easy browsing of collections and making online purchases.",
+                "desc2":"By leveraging Shopify technology, Slovly Studio offers advanced e-commerce functionalities such as secure payments, flexible shipping options, and personalized offers for users. Special emphasis has been placed on the visual presentation of products, which, combined with integration with social media, significantly increases engagement and promotes the brand to a wider audience. This project serves as an excellent example of how the combination of technology and aesthetics can contribute to the success of a modern fashion industry online store."
+              },
+              "seo-ainsider": {
+                "header":"Ainsider.tools Application - Top Position in Google",
+                "header2":"Top Position on the 1st Page in Google for English Keywords",
+                "desc1":"The ainsider.tools website has achieved significant success by ranking at the top positions of the first page of Google search results for key phrases related to AI tool libraries and automation. This remarkable achievement is the result of a comprehensive SEO strategy, which included optimizing content for valuable keywords, improving page loading speed, and ensuring excellent usability for users. Thanks to effective optimization activities, ainsider.tools has gained high visibility online, resulting in increased organic traffic and strengthening the platform's position as a leader in AI tools and automation technology."              
+            },
+            "seo-paintballosada": {
+                "header":"Paintball Osada No. 1 in Google",
+                "header2":"First Position in Google for Paintball in Lower Silesia",
+                "desc1":"The paintball-osada.pl website has achieved the prestigious first position in Google search results for the phrase paintball Wałbrzych and other key queries related to paintball in Lower Silesia. This impressive result is the outcome of a carefully planned and executed SEO strategy, which included content optimization for local keywords, improvement of website technical parameters, and building a valuable backlink profile. Thanks to these efforts, paintball-osada.pl not only dominates in local paintball-related searches but also effectively attracts enthusiasts of this sport from the Lower Silesia region, providing the company with a solid customer base and brand recognition within the local community."              
+            },
+            "skin": {
+              "header":"Website for Aesthetic Medicine Clinic",
+              "desc1":"The project we created for Skin Project Clinic is their website based on the WordPress platform. Leveraging our experience in designing and developing websites, we provided them with a professional site that not only represents their brand but also facilitates interaction with clients and ensures easy content management.",
+              "desc2":"Our agency utilized the capabilities of WordPress to create a responsive and aesthetically pleasing website that not only showcases the clinic's services and products but also integrates with other tools such as social media, providing full support for marketing activities."              
+          },
+          "aiwarecloud": {
+            "industry": "E-commerce",
+            "desc1": "The aiware.cloud e-commerce platform was built on WooCommerce, with full optimization ensuring responsiveness, speed, and excellent compatibility with various devices and browsers.",
+            "desc2": "The online store includes integration with an AI chatbot that supports customer service, generates leads, and automates sales inquiries using Google Sheets and email notifications.",
+            "header1": "Optimization & SEO",
+            "desc3": "The aiware.cloud platform has been thoroughly optimized for SEO and loading speed, resulting in high rankings in Google search results for key e-commerce-related phrases. This success is the result of carefully conducted optimization, including high-quality content, proper use of keywords, technical site optimization, and building a backlink profile.",
+            "header2": "Loading Speed Optimization",
+            "desc4": "In addition to SEO optimization, a key aspect of the project was optimizing the website's loading speed. A series of techniques were employed, such as image compression, minification of CSS and JavaScript files, utilization of browser caching and CDN servers, as well as optimization of database queries. Thanks to these efforts, the https://aiware.cloud online store achieved impressive speed test results, providing a smooth and satisfying user experience."
+            },
+            "macaibot": {
+              "header": "AI Assistant for Macai.Studio & Aiware.cloud",
+              "desc1": "To support and automate my business, I have created an advanced AI assistant utilizing the Voiceflow platform along with the OpenAI API. This chatbot enables me to collect leads and provide quotes for individual projects for clients in an automated and intuitive manner. Leveraging the capabilities of Voiceflow, our assistant engages in natural conversations, understands user intents, and delivers relevant information or initiates business processes.",
+              "desc2": "My AI assistant is integrated with our website and other communication channels, providing a consistent and convenient experience for clients. Thanks to advanced natural language processing and machine learning capabilities, it can precisely identify client needs, present relevant offers, and collect the necessary data to generate project quotes. This intelligent automation allows us to effectively manage leads and provide high-quality customer service."
+              },
+              "uprawabot": {
+                "header": "AI Assistant for Akcesoriadouprawy.pl Store",
+                "desc1": "To support customer service and increase sales in the akcesoriadouprawy.pl store, I created an advanced AI assistant based on the Botpress platform and OpenAI API. This intelligent chatbot allows customers to intuitively search for and discover suitable products through natural conversations. Utilizing Voiceflow's capabilities, our assistant understands users' intentions and provides category suggestions as well as specific products that may meet their needs.",
+                "desc2": "The AI assistant is fully integrated with the akcesoriadouprawy.pl store's website, ensuring a consistent and convenient shopping experience. Thanks to advanced natural language processing and machine learning features, it can accurately identify customer preferences and requirements, then present appropriate product offers. This intelligent automation significantly improves sales conversion as customers receive relevant recommendations and can easily find the products they are looking for."
+            },
+            "foodbot": {
+              "header": "AI Assistant for Restaurants and Bars",
+              "desc1": "To support customer service and optimize the ordering process in restaurants and bars, I have created an advanced AI assistant based on the Botpress platform and OpenAI API. This intelligent chatbot allows customers to intuitively place orders and explore the menu through natural conversations. Leveraging the capabilities of Voiceflow, our assistant understands user intentions and provides suggestions for dishes and drinks that may suit their preferences.",
+              "desc2": "The AI assistant is fully integrated with the restaurant and bar ordering system, ensuring a seamless and convenient experience for customers. Thanks to advanced natural language processing and machine learning features, it can accurately identify guests' preferences and requirements, then present appropriate dish and drink suggestions. This intelligent automation significantly improves service efficiency, as customers receive relevant recommendations and can easily place orders, positively impacting their satisfaction and order conversion."
+            },
+            "aiwarebot": {
+              "header": "AI Assistant for Aiware.cloud",
+              "desc1": "For the management and automation of Aiware.cloud's platform and ecommerce activities, I have created an advanced AI assistant utilizing the Voiceflow platform along with the OpenAI API. This chatbot enables the collection of leads and the pricing of individual projects for clients in an automated and intuitive manner. Leveraging the capabilities of Voiceflow, our assistant conducts natural conversations, understands user intents, and provides appropriate information or initiates business processes.",
+              "desc2": "The AI assistant is integrated with the Aiware website and store, as well as other communication channels, ensuring a consistent and convenient experience for customers. Thanks to advanced natural language processing and machine learning features, it can accurately identify customer needs, present relevant offers, and gather necessary data to generate project estimates. This intelligent automation allows us to manage leads efficiently and provide high-quality customer service."
+          },
+       "ainsiderbot": {
+            "header": "AI Assistant for Aiware.cloud",
+            "desc1": "I have developed an advanced AI assistant using Botpress and the OpenAI API for Aiware.cloud. This chatbot helps users identify and recommend the best tools based on their specific goals and needs. By leveraging the power of natural language processing, the assistant understands user inputs, suggests tailored solutions, and ensures users can make informed decisions about their projects and workflows.",
+            "desc2": "The AI assistant is integrated into the Aiware.cloud platform and communicates seamlessly across various channels, providing users with a cohesive and intuitive experience. Thanks to its advanced AI capabilities, the chatbot can accurately recommend tools and resources, simplifying the decision-making process. This enables users to optimize their operations and achieve their objectives more efficiently."
+        },
+          "flowise": {
+            "header": "AI Chatbot in Flowise",
+            "desc1": "To manage and automate my business activities, as well as for specific business goals, I have created advanced chatbots and AI agents using the Flowise platform - based on Langchain, and hosting and rendering them with Hugging Face. These chatbots enable automated and intuitive lead collection and project pricing for clients. Leveraging Flowise's advanced capabilities, our assistants conduct natural conversations, understand user intentions, and provide relevant information or initiate business processes.",
+            "desc2": "My AI chatbots are integrated with our website and other communication channels, ensuring a consistent and convenient experience for clients. Thanks to advanced natural language processing and machine learning functions, they can precisely identify customer needs, present appropriate offers, and gather necessary data to generate project quotes. This intelligent automation allows us to manage leads efficiently and provide high-quality customer service.",
+            "desc3": "The chatbot - created of course in Flowise - available at the above link will provide you with the best AI tools available for your individual goals and needs."
+          }
+            
+        },
+        "web": {
+            "header": {
+                "header1": "Web Technology",
+                "header2": "Landings, Websites and Ecom",
+                "desc1": "Perfectly Tailored To Your Needs",
+                "contact":"Contact" 
+              },
+              "marketing": {
+                "header": "Marketing / Social Media",
+                "desc": "Intended to directly attract new customers",
+                "item1": "Ad campaigns: from from 249 $", 
+                "item2": "Social media management + content: from from 249 $", 
+                "item3": "Consultations and audits: from from 49 $", 
+                "item4": "SEO and Google positioning: from 249 $", 
+                "more": "Detailed Pricing" 
+              },
+              "web": {
+                "header": "Websites and Ecom platforms",
+                "desc": "Created precisely for your needs.",
+                "item1": "Landing page/business card websites: 249 $", 
+                "item2": "Business card website: from 299 $", 
+                "item3": "Online store: from 449 $", 
+                "item4": "Custom projects: from 499 $", 
+                "more": "Detailed Pricing" 
+              },
+              "ai": {
+                "header": "AI & Automations",
+                "desc": "Processes and various repetitive tasks in your company",
+                "item1": "AI chatbots with custom knowledge base: from 249 $", 
+                "item2": "Chatbots for customer support / lead generation: from 299 $", 
+                "item3": "Custom projects: from 499 $", 
+                "item4": "Automations: from 249 $", 
+                "more": "Detailed Pricing" 
+              }
+        },
+        "webFeature": {
+          "header": {
+              "header1": "How Can i Help You?",
+              "header2": "My Services",
+              "desc1": "Tailored To Your Needs - Solving Your Problems",
+              "contact":"Contact" 
+            },
+            "item1": {
+              "header": "Landing Pages",
+              "desc": "Modern and tailored websites, created in any technology or using selected templates - but always created to achieve your goals."
+            },
+            "item2": {
+              "header": "Business Websites",
+              "desc": "Created for selling and promoting and always modern and tailored websites - always created to achieve your goals"
+            },
+            "item3": {
+              "header": "Ecommerce Platforms",
+              "desc": "Powerful e-commerce platforms that increase sales, improve user experiences, and grow your business."
+            },
+            "item4": {
+              "header": "Custom Internet Platforms",
+              "desc": "Tailored to your e-commerce business for improving user experiences, and grow your business."
+            },
+            "item5": {
+              "header": "Marketing & Lead Generation",
+              "desc": "I understand that reaching your target audience and turning new customers into loyal customers is definitely the main priorities for your business - as well as our collaboration with you."
+            },
+            "item6": {
+              "header": "SEO and Website Positioning",
+              "desc": "Increase visibility, get more leads, get more clients by comprehensive SEO and marketing services."
+            }
+      },
+      "webFeaturesTab": {
+        "header": {
+          "tabOne": "Audits and Consultations",
+          "tabTwo": "Strategies and Implementations",
+          "tabThree": "Analyses and Automations"
+           
+        },
+        "tab1Title": "Audits, results analysis, and consultations",
+        "tab1Description1": "Unlock the full potential of your web and AI initiatives with audit and consultation. I delve deep into existing systems, analyzing every aspect for inefficiencies, gaps, and opportunities.",
+        "tab1Description2": "For better deccision making i provide comprehensive assessments that highlight areas for improvement and optimization. From technical audits to strategic consultations, I am your partner in data-driven decision-making that leads to growth and success.",
+        "tab2Title": "Modern Solutions For Your Business",
+        "tab2Description1": "Turn your ideas into reality with smart strategy and implementation. I don't just create plans - I bring them to life to develop personalized strategies that align with your goals.",
+        "tab2Description2": "For identifing weaknesses and strengths I utilize advanced monitoring and data analysis tools - to ensure that your results are always growing.",
+        "tab3Title": "Automations and Analyses",
+        "tab3Description1": "Advanced services will allow you to automate many processes in your company, gaining a lot of time, which allows you to focus on the essence of your business.",
+        "tab3Description2": "Using advanced analytical tools, I provide you with valuable insights that help make more informed business decisions. With automation and analysis, your company can achieve better results and become significantly more competitive in the market."
+      },
+      "privacy": {
+"head": "PRIVACY POLICY AND COOKIES MACAI.STUDIO",
+"head1": "§1. GENERAL PROVISIONS",
+"desc1": "GENERAL PROVISIONS - This Privacy Policy defines the principles of processing and protection of personal data of Customers of the Internet Platform https://macai.studio (hereinafter referred to as the Platform), operated by Piotr Machowski (hereinafter referred to as the Administrator). The Administrator makes every effort to process personal data of Customers in accordance with applicable laws, in particular with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).",
+"head2": "§2. TYPE OF PROCESSED DATA",
+"desc2": "The Administrator processes personal data of Customers necessary to fulfill orders, including: first name, last name, email address, phone number, delivery address. Additionally, while using the Platform, the Administrator may collect information about the Customer's activity, such as: history of visited pages, and for the purposes of handling forms and project quotes.",
+"head3": "§3. PURPOSE AND LEGAL BASIS FOR DATA PROCESSING",
+"desc3": "Personal data of Customers is processed for the purpose of: a) performance of the concluded Sales Agreement (Article 6(1)(b) GDPR), b) fulfillment of legal obligations incumbent on the Administrator, e.g. issuing invoices (Article 6(1)(c) GDPR), c) direct marketing of the Administrator's products and services (Article 6(1)(f) GDPR). Providing personal data is voluntary, but necessary to fulfill an order on the Platform.",
+"head4": "§4. DISCLOSURE AND TRANSFER OF DATA",
+"desc4": "Personal data of Customers may be disclosed to entities providing services to the Administrator, such as: IT providers, accounting offices, etc. Personal data of Customers will not be transferred outside the European Economic Area.",
+"head5": "§5. CUSTOMERS' RIGHTS",
+"desc5": "Customers have the right to access their personal data, rectify, delete, restrict processing, transfer data, object, and withdraw consent to data processing. To exercise their rights, Customers may contact the Administrator electronically at piotr@macai.studio.",
+"head6": "§6. FINAL PROVISIONS",
+"desc6": "This Privacy Policy enters into force on 22.05.2024. The Administrator reserves the right to amend this Privacy Policy. Customers will be informed of any changes electronically.",
+"head7": "",
+"headcook": "COOKIES POLICY MACAI.STUDIO",
+"cook1": "Cookies - small text files sent by a www server and stored on the user's end device (e.g. computer, smartphone) when using websites. Session cookies - cookies deleted after the browser session ends. Persistent cookies - cookies remaining on the user's device for a specified time. First-party cookies - cookies placed by the website the user is currently visiting. Third-party cookies - cookies placed by sites other than the visited website.",
+"headcook1": "§1. DEFINITIONS",
+"cook2": "The Administrator uses the following types of cookies: a) Necessary for the operation of the Store: Storing the contents of the cart, Remembering user login, Adapting displayed content to the user. b) Functional: Remembering user preferences (e.g. language, region), Remembering page appearance settings. c) Analytical: Measuring traffic on the page to improve its functioning, Generating anonymous statistics and reports. d) Marketing: Personalizing ads displayed to the user, Analyzing the effectiveness of marketing campaigns.",
+"headcook2": "§2. TYPES AND PURPOSES OF USING COOKIES",
+"cook3": "Cookies are used for the purpose of: a) Ensuring proper operation and security of the Store, b) Analyzing traffic on the site and optimizing the Store's functionality, c) Adapting content and functionality to user preferences, d) Conducting marketing and advertising activities.",
+"headcook3": "§3. COOKIE MANAGEMENT",
+"cook4": "The user can change browser settings at any time to block the storage of cookies or delete already stored cookies. Blocking or deleting cookies may cause difficulties in using the Store or disable some of its functions. The user can withdraw consent to the use of cookies at any time by changing browser settings.",
+"headcook4": "§4. THIRD-PARTY COOKIES",
+"cook5": "The Store's website may also include cookies from third parties, such as: a) Analytical service providers (e.g. Google Analytics), b) Advertising service providers (e.g. Google Ads), c) Entities providing social media plugins. Third-party cookies are subject to separate privacy policies of those entities",
+"headcook5": "§5. CONTACT AND COMPLAINTS",
+"cook6": "For matters related to the use of cookies on the Store's website, the user can contact the Administrator at the email address: piotr@macai.studio. The user has the right to lodge a complaint with the supervisory authority (President of the Personal Data Protection Office) regarding violations of personal data protection regulations.",
+"headcook6": "§6. FINAL PROVISIONS",
+"cook7": "This Cookie Policy enters into force on 01.05.2024. The Administrator reserves the right to amend this Cookie Policy. Customers will be informed of any changes electronically."
+},
+"heroWebSection": {
+  "header": {
+    "title": "Web Technologies",
+    "subtitle": "Landing Pages, Websites, and E-commerce",
+    "description": "Perfectly Tailored for Your Online Presence"
+  },
+  "WebFeaturesTab": {
+    "header": {
+      "tabOne": "Audits and Consultations",
+      "tabTwo": "Design and Development",
+      "tabThree": "Optimization and Growth"
+    },
+    "tab1Title": "Comprehensive Website Audits and Expert Consultations",
+    "tab1Description1": "Unlock the full potential of your online presence with thorough website audits and expert consultations. I meticulously analyze every aspect of your existing website, identifying areas for improvement, optimization opportunities, and potential gaps.",
+    "tab1Description2": "Through comprehensive assessments, I provide valuable insights and recommendations to enhance your website's performance, user experience, and search engine visibility. From technical audits to strategic consultations, I am your trusted partner in data-driven decision-making, empowering you to achieve growth and success online.",
+    "tab2Title": "Modern and Responsive Website Design and Development",
+    "tab2Description1": "Transform your ideas into a stunning online reality with my cutting-edge website design and development services. I specialize in creating visually appealing, user-friendly, and responsive websites that captivate your audience and provide an exceptional user experience across all devices.",
+    "tab2Description2": "Leveraging the latest web technologies and industry best practices, I build custom websites tailored to your brand and business goals. From concept to launch, I ensure your website is optimized for performance, search engine visibility, and overall user satisfaction.",
+    "tab3Title": "Website Optimization and Growth Strategies",
+    "tab3Description1": "Maximize the potential of your online presence with comprehensive website optimization and growth strategies. I leverage advanced analytics tools to identify areas for improvement, monitor performance metrics, and implement data-driven optimizations to enhance user engagement, conversion rates, and search engine rankings.",
+    "tab3Description2": "My services encompass a wide range of optimization techniques, including search engine optimization (SEO), conversion rate optimization (CRO), and user experience (UX) enhancements. By staying ahead of the curve, I ensure your website remains competitive and continues to drive growth for your business."
+  },
+  "aboutWeb": {
+    "header1": {
+      "header1": "Tailored Solutions",
+      "header2": "Strategic Approach",
+      "header3": "Landing Pages, Websites",
+      "header4": "and E-commerce For Your Business",
+      "desc1": "As an AI and web development expert at MacAI Studio, I am committed to delivering tailored solutions that align perfectly with your unique online needs. By understanding the intricacies of your industry, challenges, and goals, I create customized strategies that address your biggest pain points and drive success for your online presence."
+    },
+    "header2": {
+      "header1": "Elevate Your Online Business",
+      "header2": "To New Heights",
+      "desc1": "Harnessing the power of cutting-edge artificial intelligence technologies and web development best practices, I offer a carefully crafted approach to elevate your online business to new heights. My services incorporate the latest ideas, techniques, and strategies tailored to your specific industry and goals.",
+      "button": "Let's Start Your Project"
+    }
+  }
+},
+"heroAiSection": {
+  "header": {
+    "title": "AI Technologies",
+    "subtitle": "Automation, Analysis, and Intelligence",
+    "description": "Transforming Your Business with Artificial Intelligence"
+  },
+  "AiFeaturesTab": {
+    "header": {
+      "tabOne": "AI Assistants and Agents",
+      "tabTwo": "Business Automation",
+      "tabThree": "CRM and CMS Management"
+    },
+    "tab1Title": "Creation and Implementation of AI Assistants and Agents",
+    "tab1Description1": "Discover how AI Assistants and Agents can revolutionize interactions within your company. Our comprehensive services include designing, developing, and implementing advanced AI assistants that enhance customer service quality, boost productivity, and optimize business operations.",
+    "tab1Description2": "With our expertise, we create intelligent AI agents that automate tasks, respond to inquiries in real time, and integrate with your systems. Let us provide you with solutions that work towards your success, increasing efficiency and customer satisfaction.",
+    "tab2Title": "Business Automation",
+    "tab2Description1": "Implement modern automation solutions that transform your business operations. We specialize in designing and implementing automation systems that eliminate repetitive tasks, improve accuracy, and accelerate processes.",
+    "tab2Description2": "Our approach leverages the latest technologies and best industry practices to deliver solutions tailored to your company's specific needs. The automations we introduce enhance efficiency, reduce costs, and allow you to focus on strategic business goals.",
+    "tab3Title": "AI-Driven CRM and CMS Management",
+    "tab3Description1": "Streamline your Customer Relationship Management (CRM) and Content Management Systems (CMS) with intelligent AI solutions. Our services include integrating and optimizing CRM and CMS systems tailored to your business needs.",
+    "tab3Description2": "Using advanced AI tools, we help automate customer data management, personalize communication, and improve operational efficiency. With our solutions, you can make better business decisions, increase customer satisfaction, and manage content effectively."
+  },
+  "AboutAI": {
+    "header1": {
+      "header1": "Automations",
+      "header2": "with AI",
+      "header3": "Chatbots and AI Assistants",
+      "header4": "Automations & CRM & CMS",
+      "desc1": "As an dev with true passion for AI I am committed to delivering tailored solutions that leverage the power of artificial intelligence to transform your business. By understanding the intricacies of your industry, challenges, and goals, I create intelligent strategies and AI-driven solutions that address your unique needs and drive real business impact."
+    },
+    "header2": {
+      "header1": "Unleash the Power of AI",
+      "header2": "For Your Business",
+      "desc1": "Harness the transformative potential of artificial intelligence with my carefully crafted approach. By combining cutting-edge AI technologies with deep industry expertise, I offer end-to-end services tailored to your specific requirements, empowering you to Stay ahead of the curve and achieve sustainable growth.",
+      "button": "Let's Explore AI Solutions"
+    }
+  }
+},
+"heroMarketingSection": {
+  "FeaturesTab": {
+    "header": {
+      "tabOne": "Design and Branding for Your Business",
+      "tabTwo": "Creating Intuitive UX/UI Interfaces",
+      "tabThree": "Generative Visual Content Creation"
+    },
+    "tab1Title": "Advanced Design and Branding Solutions",
+    "tab1Description1": "Discover how professional design and branding can elevate your business image to a new level. My services include designing cohesive and aesthetically pleasing visual materials that highlight your brand and build customer trust.",
+    "tab1Description2": "I create unique graphic designs that combine modern trends with functionality, ensuring each solution is tailored to your brand and audience. My designs improve brand recognition and help build lasting relationships with customers.",
+    "tab2Title": "Creating Intuitive UX/UI Interfaces",
+    "tab2Description1": "Design user interfaces that are simple to use and tailored to your clients' needs. I specialize in creating user experiences (UX) and user interfaces (UI) that merge aesthetics with intuitive navigation.",
+    "tab2Description2": "My approach to UX/UI is based on in-depth research and analysis of user behavior. I design interfaces that enhance engagement, minimize user friction, and increase overall satisfaction.",
+    "tab3Title": "Generative Visual Content Creation",
+    "tab3Description1": "Leverage artificial intelligence to automatically create videos, graphics, and product photography that fully reflect the professionalism of your business. I offer AI-driven services for creating personalized visual content tailored to your needs.",
+    "tab3Description2": "Using advanced generative algorithms, I produce visual content that includes high-quality product photography, attractive promotional graphics, and dynamic videos—all based on your preferences and requirements. I enable full automation and personalization of creative processes, ensuring your visual materials are always top-notch."
+  },
+  "About": {
+    "header1": {
+      "header1": "Design",
+      "header2": "& UI/UX",
+      "header3": "Design / Branding",
+      "header4": "Logos / Banners / Graphics / Social Media / Video",
+      "desc1": "I offer comprehensive design and UX/UI services that help you build your dream image in the digital world. My solutions are tailored to your needs and industry, ensuring consistency and efficiency in every aspect of your business."
+    },
+    "header2": {
+      "header1": "Unleash the Power of AI",
+      "header2": "For Your Business",
+      "desc1": "Harness the full potential of modern tools and marketing strategies for effective lead generation and dynamic social media growth. With my services, combining advanced technologies with deep expertise, I offer comprehensive solutions tailored to your needs and market specifics, together taking your business to the next level.",
+      "button": "Discover AI Solutions"
+    }
+  }
+}
+
+
+  }
