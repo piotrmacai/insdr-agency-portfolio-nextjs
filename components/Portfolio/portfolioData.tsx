@@ -55,6 +55,15 @@ const BlogData: Portfolio[] = [
   //     urlLink:"/portfolio/ainsider-cloud",
   //     tags: ["websites", "ai"],
   // },
+  {
+    _id: 6,
+    mainImage: "/images/portfolio/insdrcloud.jpg",
+    title: "Insdr.digital",
+    metadata:
+      "Business website for AI Video Creative Agency",
+      urlLink:"/portfolio/insdrcloud",
+      tags: ["websites", "ai"],
+  },
   { 
     _id: 4,
     mainImage: "/images/portfolio/skin.jpg",

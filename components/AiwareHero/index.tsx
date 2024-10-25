@@ -145,7 +145,7 @@ const Hero = () => {
             </motion.div>
 
             <div className="mt-10">
-              <form   action="https://formspree.io/f/xyyqlvdz" target="_blank" method="POST">
+              <form   action="https://formspree.io/f/xpwzwngo" target="_blank" method="POST">
                 <div className="flex flex-wrap gap-5">
                   <input
                     type="email" name="email"

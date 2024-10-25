@@ -3,7 +3,7 @@
     "mainheading":"AI & Web for Business",
     "description": "Web | AI | Marketing | Automations",
     "subscribe": "Subscribe",
-    "herocontact": "Contact",
+    "herocontact": "Send",
     "leaveemail": "Leave your email",
     "we": "We are",
     "features": {
@@ -286,6 +286,16 @@
                 "header2":"Top Position on Page 1 of Google",
                 "desc5":"The ainsider.tools website has achieved significant success, ranking at the top positions of the first page of Google search results for key phrases related to AI tools libraries and automation. This exceptional achievement is the result of a comprehensive SEO strategy, which included content optimization for valuable keywords, improvement of page loading speed, and ensuring excellent usability for users. Thanks to effective optimization efforts, ainsider.tools has gained high visibility online, resulting in increased organic traffic and strengthening the platform's position as a leader in the field of AI tools and automation technology."
               },
+              "insdrcloud": {
+                "details": "Project Details",
+                "company": "Creative Agency",
+                "industry": "Industry",
+                "industry2": "Creative Services",
+                "tech": "Project Technologies",
+                "desc1": "The website for our creative agency, built on WordPress, allows for the implementation of a customized content management system, enabling easy updates and content publication by our team or the client themselves. This makes each project flexible, tailored to user needs, and supports the dynamic growth of the brand.",
+                "desc2": "Our WordPress projects are optimized for performance and user experience, resulting in fast page load times and intuitive navigation. By utilizing trusted plugins and custom-designed components, we ensure full functionality and adaptability of the website to the specific needs of a creative agency.",
+                "desc3": "The WordPress platform supports our marketing and creative efforts by offering extensive integration capabilities with social media, analytics, and SEO tools. With modern design and a professional content structure, our creative agency attracts clients seeking standout visual solutions and effective online communication support."
+              },              
               "bakaliowe": {
                 "details": "Project Details",
                 "company": "Company",

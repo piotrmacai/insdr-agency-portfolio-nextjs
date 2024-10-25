@@ -224,7 +224,7 @@ const Footer = () => {
 
 
                 <form
-                 action="https://formspree.io/f/xovqvrlg" method="POST">
+                 action="https://formspree.io/f/xpwzwngo" method="POST">
                     <div className="relative">
                       <input
                        type="email" name="email"
@@ -232,7 +232,7 @@ const Footer = () => {
                         className="w-full dark:bg-black border border-stroke dark:border-strokedark shadow-solid-11 dark:shadow-none rounded-full focus:outline-none focus:border-primary dark:focus:border-primary py-3 px-6"
                       />
 
-                      <button type="submit" value="Submit" aria-label="signup to newsletter" className="absolute right-0 p-4">
+                      <button type="submit" value="Submit" aria-label="signup" className="absolute right-0 p-4">
                         <svg
                           className="fill-[#757693] dark:fill-white hover:fill-primary"
                           width="20"

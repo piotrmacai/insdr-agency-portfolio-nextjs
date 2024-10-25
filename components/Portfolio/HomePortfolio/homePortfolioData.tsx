@@ -74,6 +74,15 @@ const BlogData: Portfolio[] = [
       tags: ["ai"],
   },
   {
+    _id: 5.5,
+    mainImage: "/images/portfolio/insdrcloud.jpg",
+    title: "Insdr.digital",
+    metadata:
+      "Business website for AI Video Creative Agency",
+      urlLink:"/portfolio/insdrcloud",
+      tags: ["websites", "ai"],
+  },
+  {
     _id: 6,
     mainImage: "/images/portfolio/volton.jpg",
     title: "Voltoninstall.pl",
