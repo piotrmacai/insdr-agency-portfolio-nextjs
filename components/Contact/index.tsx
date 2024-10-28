@@ -186,7 +186,7 @@ const Contact = () => {
                 {t('contact.calendly')}
                 </h4>
                 <p>
-                  <a href="https://calendly.com/piotrmacai0/consultation">{t('contact.header3')}</a>
+                  <a href="https://calendly.com/macaipiotr/30min">{t('contact.header3')}</a>
                 </p>
               </div>
               <div className="mb-7 5">
@@ -194,7 +194,7 @@ const Contact = () => {
                 {t('contact.email')}
                 </h4>
                 <p>
-                  <a href="mailto:piotr@insdr.cloud">piotr@insdr.cloud</a>
+                  <a href="mailto:me@piotrmacai.com">me@piotrmacai.com</a>
                 </p>
               </div>
               {/* <div className="mb-7 5">
