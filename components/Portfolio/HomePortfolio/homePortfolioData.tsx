@@ -13,10 +13,19 @@ const BlogData: Portfolio[] = [
   { 
     _id: 1,
     mainImage: "/images/portfolio/aiwareCloud.jpg",
-    title: "Aiware.cloud",
+    title: "Ainsider.pl",
     metadata:
       "AI Platform with Ecommerce and Blog",
       urlLink:"/portfolio/aiwarecloud",
+      tags: ["websites"],
+  },
+  { 
+    _id: 1.5,
+    mainImage: "/images/portfolio/piotrmacaidev.jpg",
+    title: "Piotrmacai.com",
+    metadata:
+      "Piotr Macai Personal Portfolio in React.js",
+      urlLink:"https://piotrmacai.com",
       tags: ["websites"],
   },
   { 
@@ -67,7 +76,7 @@ const BlogData: Portfolio[] = [
   { 
     _id: 5,
     mainImage: "/images/portfolio/macaiStudio.jpg",
-    title: "AI Assistant - Macai Studio",
+    title: "AI Assistant - Insdr.cloud",
     metadata:
       "Ai Assistant for Macai.studio",
       urlLink:"/portfolio/macai-chatbot",
@@ -75,8 +84,8 @@ const BlogData: Portfolio[] = [
   },
   {
     _id: 5.5,
-    mainImage: "/images/portfolio/insdrcloud.jpg",
-    title: "Insdr.digital",
+    mainImage: "/images/portfolio/macai.jpg",
+    title: "Macai.studio",
     metadata:
       "Business website for AI Video Creative Agency",
       urlLink:"/portfolio/insdrcloud",

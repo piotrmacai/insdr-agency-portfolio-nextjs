@@ -4,10 +4,19 @@ const BlogData: Portfolio[] = [
   { 
     _id: 0,
     mainImage: "/images/portfolio/aiwareCloud.jpg",
-    title: "Aiware.cloud",
+    title: "Ainsider.pl",
     metadata:
       "AI Platform with Ecommerce and Blog",
       urlLink:"/portfolio/aiwarecloud",
+      tags: ["websites"],
+  },
+  { 
+    _id: 1.5,
+    mainImage: "/images/portfolio/piotrmacaidev.jpg",
+    title: "Piotrmacai.com",
+    metadata:
+      "Piotr Macai Personal Portfolio in React.js",
+      urlLink:"https://piotrmacai.com",
       tags: ["websites"],
   },
   { 
@@ -57,8 +66,8 @@ const BlogData: Portfolio[] = [
   // },
   {
     _id: 6,
-    mainImage: "/images/portfolio/insdrcloud.jpg",
-    title: "Insdr.digital",
+    mainImage: "/images/portfolio/macai.jpg",
+    title: "Macai.studio",
     metadata:
       "Business website for AI Video Creative Agency",
       urlLink:"/portfolio/insdrcloud",
@@ -103,9 +112,9 @@ const BlogData: Portfolio[] = [
   { 
     _id: 7,
     mainImage: "/images/portfolio/aiwarecloudchatbot.jpg",
-    title: "AI Assistant for Aiware Cloud",
+    title: "AI Assistant for Ainsider.pl",
     metadata:
-      "Ai Assistant for Aiware.cloud platform with lead generation",
+      "Ai Assistant for Ainsider platform with lead generation",
       urlLink:"/portfolio/aiware-chatbot",
       tags: ["ai"],
   },
