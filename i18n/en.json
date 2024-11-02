@@ -242,6 +242,17 @@
                 "desc2":"We created this project using WordPress, which is the most popular CMS system in the world. WordPress allows easy content management - here with different types of posts, as well as easy customization of the appearance and functionality of the site, integration with social media and other tools.",
                 "tags":"Tags"
               },
+              "nextbot": {
+                "details": "Project Details",
+                "company": "Company",
+                "industry": "Industry", 
+                "tech": "Project Technologies",
+                "header": "Multimodal Custom Chatbot in Next.js",
+                "desc1": "Our Next.js-powered chatbot application offers a sophisticated AI assistant with secure user authentication and login functionality. Built with modern web technologies, it provides a seamless chat experience while maintaining user privacy and data security.",
+                "desc2": "The application features comprehensive chat history tracking, allowing users to review and continue previous conversations at any time. Each interaction is automatically saved and organized, making it easy to reference past discussions and maintain context across multiple sessions.",
+                "desc3": "One of the key features is its multimodal input capability - users can interact with the chatbot through text, images, and voice inputs. The system processes these various input types intelligently, providing contextual responses and maintaining natural conversation flow regardless of the input method.",
+                "desc4": "The user interface is designed for maximum accessibility and ease of use, with responsive design that works seamlessly across desktop and mobile devices. Advanced features include real-time message updates, typing indicators, and the ability to share and export chat histories, making it a powerful tool for both personal and professional use."
+              },
               "imgpromptr": {
                 "details": "Project Details",
                 "company": "Company",

@@ -241,6 +241,17 @@
                 "desc2": "Stworzyliśmy ten projekt przy użyciu WordPressa, który jest najpopularniejszym systemem CMS na świecie. WordPress umożliwia łatwe zarządzanie treścią - tutaj z różnymi rodzajami wpisów, a także łatwe dostosowywanie wyglądu i funkcjonalności witryny, integrację z mediami społecznościowymi i innymi narzędziami.",
                 "tags": "Tagi"
               },
+              "nextbot": {
+                "details": "Szczegóły Projektu",
+                "company": "Firma",
+                "industry": "Branża",
+                "tech": "Technologie Projektu", 
+                "header": "Multimodalny Chatbot w Next.js",
+                "desc1": "Nasza aplikacja chatbota oparta na Next.js oferuje zaawansowanego asystenta AI z bezpieczną autoryzacją i funkcją logowania użytkowników. Zbudowana przy użyciu nowoczesnych technologii webowych, zapewnia płynne doświadczenie czatu przy zachowaniu prywatności i bezpieczeństwa danych użytkowników.",
+                "desc2": "Aplikacja posiada kompleksowe śledzenie historii czatu, pozwalające użytkownikom na przeglądanie i kontynuowanie poprzednich rozmów w dowolnym momencie. Każda interakcja jest automatycznie zapisywana i organizowana, ułatwiając odniesienie się do poprzednich dyskusji i zachowanie kontekstu w wielu sesjach.",
+                "desc3": "Jedną z kluczowych funkcji jest możliwość wprowadzania multimodalnego - użytkownicy mogą wchodzić w interakcję z chatbotem poprzez tekst, obrazy i komunikaty głosowe. System inteligentnie przetwarza te różne rodzaje danych wejściowych, zapewniając kontekstowe odpowiedzi i utrzymując naturalny przepływ rozmowy niezależnie od metody wprowadzania.",
+                "desc4": "Interfejs użytkownika został zaprojektowany z myślą o maksymalnej dostępności i łatwości użytkowania, z responsywnym designem działającym płynnie na urządzeniach stacjonarnych i mobilnych. Zaawansowane funkcje obejmują aktualizacje wiadomości w czasie rzeczywistym, wskaźniki pisania oraz możliwość udostępniania i eksportowania historii czatu, co czyni go potężnym narzędziem zarówno do użytku osobistego, jak i profesjonalnego."
+              },
               "imgpromptr": {
                 "details": "Szczegóły Projektu",
                 "company": "Firma",

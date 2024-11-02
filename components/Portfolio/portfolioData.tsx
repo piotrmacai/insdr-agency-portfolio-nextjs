@@ -3,6 +3,15 @@ import { Portfolio } from "@/types/portfolio";
 const BlogData: Portfolio[] = [
   { 
     _id: 0,
+    mainImage: "/images/portfolio/uichatbot.jpg",
+    title: "Multimodal Chatbot at Next.js",
+    metadata:
+      "Multimodal Custom Ai Assistant with user log-in, memory build in Next.js",
+      urlLink:"/portfolio/insdr-chatbot",
+      tags: ["ai"],
+  },
+  { 
+    _id: 0.3,
     mainImage: "/images/portfolio/aiwareCloud.jpg",
     title: "Ainsider.cloud",
     metadata:
