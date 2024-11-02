@@ -33,9 +33,9 @@
           "three": "By wszystko było łatwe i proste" 
         },
         "header": {
-          "tabOne": "Audyty i Konsultacje",
-          "tabTwo": "Strategie i Implementacje",
-          "tabThree": "Analizy i Automatyzacje"
+          "tabOne": "Konsultacje i onboarding",
+          "tabTwo": "Projekt i wdrożenie",
+          "tabThree": "Analizy, szkolenia i optymalizacje"
         },
         "tab1Title": "Konsultacje i Onboarding",
         "tab1Description1": "Podczas konsultacji zagłębiamy się w Twoje potrzeby biznesowe, analizując obecne systemy i strategie, aby zidentyfikować najefektywniejsze podejście do dalszego rozwoju.",
@@ -47,6 +47,7 @@
         "tab3Description1": "Podczas szkoleń uczę Cię, jak efektywnie korzystać z nowych narzędzi i procesów, aby zoptymalizować codzienną pracę w Twojej firmie, zyskując przewagę nad konkurencją.",
         "tab3Description2": "Dzięki optymalizacjom, w tym automatyzacji procesów, pomagamy Twojej firmie działać wydajniej. Nasze zaawansowane analizy wspierają podejmowanie lepszych decyzji biznesowych i długoterminowy rozwój."
          },
+         
       "about": {
         "header1": {
           "header1": "Indywidualne",
@@ -69,6 +70,13 @@
              "header3": "Dla Biznesu",
              "more": "Zobacz Więcej"
        },
+       "ai": {
+        "hero": {
+          "header1": "Asystenci i Agenci AI",
+          "header2": "Chatboty oraz Voiceboty AI",
+           "desc1": "Idealnie dopasowani do indywidualnych celów i potrzeb Twojej firmy"
+        }
+      },
        "funfact": {
         "header1": "Technologie & Frameworki",
         "header2": "Zawsze dobieram technologie i narzędzia w zależności od potrzeb projektu - lecz zawsze korzystając z tych najlepszych dostępnych na rynku dla danych potrzeb oraz wymagań.",
@@ -115,6 +123,12 @@
                 "more": "Szczegółowa Wycena"
             }
         },
+        "ctatoportfolio": {
+          "header1": "Zobacz Nasze Projekty AI",
+          "header2": "Portfolio",
+          "contact": "Stworzone dla biznesu",
+          "button": "Portfolio"
+      },
         "cta": {
             "header1": "Bezpłatna Konsultacja",
             "header2": "I Wycena Projektu",
@@ -173,6 +187,7 @@
             "menu10":"Marketing",
             "menu9": "Polityka Prywatności",
             "menu11":"Magazyn Gen AI",
+            "menu12":"Asystenci AI",
             "pricing": "Wycena",
             "menuServices":"Usługi"
         },
@@ -571,7 +586,7 @@
             }
           }
         },
-        "heroMarketingSection": {
+    "heroMarketingSection": {
           "FeaturesTab": {
             "header": {
               "tabOne": "Design i Branding Dla Twojej Firmy",
@@ -603,6 +618,54 @@
               "button": "Poznajmy Rozwiązania AI"
             }
           }
-        }          
+        },
+        "AiAboutSection": {
+          "FeaturesTab": {
+            "header": {
+              "tabOne": "Chatboty i Asystenci AI dla Biznesu",
+              "tabTwo": "Automatyzacja Procesów Biznesowych",
+              "tabThree": "Inteligentne Systemy Obsługi Klienta"
+            },
+            "tab1Title": "Zaawansowane Rozwiązania Chatbotów AI",
+      "tab1Description1": "Odkryj, jak inteligentne chatboty mogą zrewolucjonizować obsługę klienta w Twojej firmie. Moje rozwiązania obejmują tworzenie zaawansowanych asystentów AI, którzy są dostępni 24/7, zapewniając natychmiastową i profesjonalną obsługę Twoich klientów.",
+      "tab1Description2": "Tworzę spersonalizowane chatboty, które łączą w sobie zaawansowane algorytmy uczenia maszynowego z intuicyjnym interfejsem, dbając o to, aby każda interakcja była naturalna i efektywna. Moje rozwiązania zwiększają zadowolenie klientów i optymalizują procesy obsługi.",
+      "tab2Title": "Inteligentna Automatyzacja Procesów",
+      "tab2Description1": "Zautomatyzuj rutynowe zadania i procesy biznesowe dzięki sztucznej inteligencji. Specjalizuję się w tworzeniu systemów automatyzacji, które optymalizują przepływ pracy i zwiększają efektywność operacyjną Twojej firmy.",
+      "tab2Description2": "Moje podejście do automatyzacji opiera się na dokładnej analizie procesów biznesowych i potrzeb Twojej organizacji. Projektuję rozwiązania, które eliminują powtarzalne zadania, minimalizują błędy ludzkie i pozwalają skupić się na strategicznych aspektach biznesu.",
+      "tab3Title": "Systemy AI do Obsługi Klienta",
+      "tab3Description1": "Wykorzystaj potencjał sztucznej inteligencji do stworzenia kompleksowego systemu obsługi klienta. Oferuję rozwiązania AI, które analizują zachowania klientów, przewidują ich potrzeby i automatycznie dostosowują komunikację.",
+      "tab3Description2": "Dzięki zaawansowanym algorytmom AI, tworzę systemy, które obejmują wielokanałową obsługę klienta, automatyczne odpowiedzi na zapytania, inteligentną kategoryzację zgłoszeń oraz predykcyjną analitykę potrzeb klientów. Umożliwiam pełną personalizację doświadczeń klienta przy jednoczesnej optymalizacji kosztów obsługi."
+    },
+          "About": {
+            "header1": {
+              "header1": "AI",
+              "header2": "& Automatyzacja",
+              "header3": "Chatboty / Asystenci AI",
+              "header4": "Automatyzacja / CRM / Obsługa Klienta",
+              "desc1": "Oferuję kompleksowe rozwiązania AI i automatyzacji, które pomagają Twojej firmie osiągnąć nowy poziom efektywności operacyjnej. Moje systemy są precyzyjnie dostosowane do specyfiki Twojej branży, zapewniając optymalizację procesów i poprawę jakości obsługi klienta."
+            },
+            "header2": {
+              "header1": "Transformacja Cyfrowa",
+              "header2": "Z Pomocą AI",
+              "desc1": "Wykorzystaj pełen potencjał sztucznej inteligencji do transformacji swojego biznesu. Łącząc zaawansowane technologie AI z głęboką wiedzą biznesową, oferuję rozwiązania, które automatyzują procesy, optymalizują koszty i zwiększają satysfakcję klientów, pomagając Twojej firmie osiągnąć przewagę konkurencyjną.",
+              "button": "Odkryj Możliwości AI"
+            }
+          },
+          "AboutTwo": {
+            "header1": {
+              "header1": "AI",
+              "header2": "& Automatyzacja",
+              "header3": "Integracja Chatbotów z Systemami CRM / CMS / ERP",
+              "header4": "Automatyzacja Procesów / Analityka AI / Wielokanałowa Obsługa",
+              "desc1": "Specjalizuję się w tworzeniu zaawansowanych integracji asystentów AI z popularnymi systemami biznesowymi jak Salesforce, HubSpot, WordPress czy Shopify. Oferuję kompleksową implementację chatbotów i asystentów AI, którzy płynnie współpracują z Twoim CRM, systemem ticketowym oraz narzędziami komunikacji, zapewniając spójną i zautomatyzowaną obsługę klienta."
+            },
+            "header2": {
+              "header1": "Inteligentna Integracja Systemów",
+              "header2": "Powered by AI",
+              "desc1": "Tworzę zaawansowane rozwiązania integracyjne, które łączą chatboty i asystentów AI z Twoimi systemami biznesowymi. Zapewniam płynną synchronizację danych między CRM, CMS, systemami ticketowymi i platformami e-commerce, automatyzując procesy sprzedażowe i obsługę klienta. Moje rozwiązania wspierają wielokanałową komunikację, analitykę w czasie rzeczywistym oraz personalizację interakcji z klientem.",
+              "button": "Zobacz Możliwości Integracji"
+            }
+          }
+        }            
         
   }

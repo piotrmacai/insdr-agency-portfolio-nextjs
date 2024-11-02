@@ -20,6 +20,13 @@ const getTranslatedMenuData = () => {
       icon: "/images/icon/bag.svg",
     },
     {
+      id: 2.5,
+      title: t('header.menu12'),
+      newTab: false,
+      path: "/bots",
+      icon: "/images/icon/bag.svg",
+    },
+    {
       id: 3,
       title: t('header.menuServices'),
       newTab: true,

@@ -97,11 +97,13 @@ const Footer = () => {
                       </a>
                     </li>
                     <li>
-                      <a
-                        href="/portfolio"
-                        className="inline-block hover:text-primary mb-3"
-                      >
+                      <a href="/portfolio" className="inline-block hover:text-primary mb-3">
                         {t('footer.menu2')}
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/bots" className="inline-block hover:text-primary mb-3">
+                        {t('footer.menu12')}
                       </a>
                     </li>
                     <li>
