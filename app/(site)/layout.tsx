@@ -10,7 +10,6 @@ import "../globals.css";
 import ToasterContext from "../context/ToastContext";
 import i18n from '../../i18n/i18n';
 import { I18nextProvider } from 'react-i18next';
-import Voiceflow from "@/components/Voiceflow";
 import Botpress from "@/components/Botpress";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -33,7 +32,7 @@ export default function RootLayout({
             {children}
             <Footer />
           </ThemeProvider>
-          <Voiceflow/>
+          <Botpress/>
         </body>
       </html>
     </I18nextProvider>
