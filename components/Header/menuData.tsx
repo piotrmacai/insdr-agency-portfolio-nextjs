@@ -54,13 +54,13 @@ const getTranslatedMenuData = () => {
       path: "#",
       icon: "/images/icon/phone.svg",
       submenu: [   
-        {
-          id: 1,
-          title: t('header.menuServices'),
-          newTab: true,
-          path: "/web",
-          icon: "/images/icon/phone.svg",
-        },
+        // {
+        //   id: 1,
+        //   title: t('header.menuServices'),
+        //   newTab: true,
+        //   path: "/web",
+        //   icon: "/images/icon/phone.svg",
+        // },
         {
           id: 2,
           title: t('header.menu12'),
@@ -86,7 +86,7 @@ const getTranslatedMenuData = () => {
           id: 3,
           title: "AI Newsletter",
           newTab: true,
-          path: "https://ainsider.cloud/",
+          path: "https://ainsider.beehiiv.com/",
           icon: "/images/icon/phone.svg",
         },
         {

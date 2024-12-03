@@ -22,7 +22,6 @@ import CTAToAinsider from "@/components/CTAToAinsider";
 
 
 
-
 export const metadata: Metadata = {
   title: "Insdr.cloud - AI | Web | Automations For Business",
   description: "Tailored To The Needs Of Your Company Web & AI and Automation solutions that help businesses to grow. Discover our services tailored to the needs of your company.",
@@ -44,11 +43,12 @@ export default function Home() {
     <main>
       <AiwareHero/>
       < Socials />
-      <Feature /> 
-       {/* <About />            */}
-       <HomePortfolio/> 
-       <CTAToAinsider/>
+      <Feature />  
       <FeaturesTab /> 
+       {/* <About />            */}
+       <HomePortfolio/>
+       <CTAToAinsider/>
+     
       <CTA />       
       <SenjaWidget/>  
       <Brands />

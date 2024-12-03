@@ -9,12 +9,12 @@ import Link from "next/link";
 import { useTranslation } from 'react-i18next';
 
 const Portfolio = () => {
-  const [selectedTag, setSelectedTag] = useState("websites");
+  const [selectedTag, setSelectedTag] = useState("ai");
   const [filteredPortfolio, setFilteredPortfolio] = useState(PortfolioData);
   const { t } = useTranslation();
  
   useEffect(() => {
-    if (selectedTag === "websites") {
+    if (selectedTag === "ai") {
       setFilteredPortfolio(PortfolioData);
     } else {
       const filteredItems = PortfolioData.filter((item) =>
@@ -56,18 +56,11 @@ const Portfolio = () => {
                     className={`mr-2 px-4 py-2 text-lg font-semibold border-bg-blue-500 rounded-2xl bg-gray-100 ${
                       selectedTag === "websites" ? "bg-blue-500 text-white" : "bg-gray-200"
                     }`}
-                    onClick={() => handleTagSelection("websites")}
+                    onClick={() => handleTagSelection("apps")}
                   >
                     {t('portfolio.button1')}
                   </button>
-                    {/* <button
-                    className={`mr-2 text-lg font-semibold ${
-                      selectedTag === "marketing" ? "bg-blue-500 text-white" : "bg-gray-200"
-                    }`}
-                    onClick={() => handleTagSelection("marketing")}
-                  >
-                    {t('portfolio.button2')}
-                  </button> */}
+            
                   <button
                     className={`mr-2 text-lg font-semibold ${
                       selectedTag === "ai" ? "bg-blue-500 text-white" : "bg-gray-200"
@@ -76,19 +69,40 @@ const Portfolio = () => {
                   >
                     {t('portfolio.button3')}
                   </button>
-                  {/* <Link href="/generativeai" target="_blank" rel="noopener noreferrer">
+                  <button
+                    className={`mr-2 text-lg font-semibold ${
+                      selectedTag === "agents" ? "bg-blue-500 text-white" : "bg-gray-200"
+                    }`}
+                    onClick={() => handleTagSelection("agents")}
+                  >
+                    {t('portfolio.button6')}
+                  </button>
+                
+
+                  <Link href="https://github.com/piotrmacai/" target="_blank" rel="noopener noreferrer">
                   <button 
                     className={`mr-2 mt-2 text-lg font-semibold ${
                       selectedTag === "marketing" ? "bg-blue-500 text-white" : "bg-gray-200"
                     }`}
                   >
-                    {t('portfolio.button4')}
+                    {t('portfolio.button5')}
                   </button>
-                  </Link> */}
-                     <Link href="https://www.behance.net/macaistudio" target="_blank" rel="noopener noreferrer">
+                  </Link>
+                  
+                  <Link href="https://huggingface.co/Piotr-Macai" target="_blank" rel="noopener noreferrer">
+                  <button 
+                    className={`mr-2 text-lg font-semibold ${
+                      selectedTag === "marketing" ? "bg-blue-500 text-white" : "bg-gray-200"
+                    }`}
+                  >
+                    Huggingface
+                  </button>
+                  </Link>
+
+                  <Link href="https://www.behance.net/macaistudio" target="_blank" rel="noopener noreferrer">
                   <button 
                     className={`mr-2 mt-2 text-lg font-semibold ${
-                      selectedTag === "marketing" ? "bg-blue-500 text-white" : "bg-gray-200"
+                      selectedTag === "web" ? "bg-blue-500 text-white" : "bg-gray-200"
                     }`}
                   >
                     {t('portfolio.buttonBehance')}
@@ -101,15 +115,6 @@ const Portfolio = () => {
                     }`}
                   >
                     {t('portfolio.buttonArtstation')}
-                  </button>
-                  </Link>
-                  <Link href="https://github.com/aiwareai" target="_blank" rel="noopener noreferrer">
-                  <button 
-                    className={`mr-2 mt-2 text-lg font-semibold ${
-                      selectedTag === "marketing" ? "bg-blue-500 text-white" : "bg-gray-200"
-                    }`}
-                  >
-                    {t('portfolio.button5')}
                   </button>
                   </Link>
            

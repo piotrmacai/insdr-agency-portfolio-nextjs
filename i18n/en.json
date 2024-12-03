@@ -15,26 +15,25 @@
 
 
 
-    "features": {
-        "header": {
-          "title": "How can we help you?",
-          "subtitle": "Our Services and Specializations",
-          "description": "Tailored to your needs - Solving your problems"
-           
-        },
-        "websitesTitle": "Websites and Landing Pages",
-        "websitesDescription": "Modern and tailored websites, created in any technology or using selected templates - but always created to achieve your goals",
-        "marketingTitle": "Marketing & Lead Generation",
-        "marketingDescription": "We understand that reaching your target audience and turning new customers into loyal customers is definitely the main priorities for your business - that we will help You with it at all.",
-        "aiTitle": "AI Assistant and Agents",
-        "aiDescription": "With the help of AI, we will create AI Assistants and Agents tailored to your needs, which will help you with the most important aspects of your business.",
-        "designTitle": "Design & Branding with AI",
-        "designDescription": "Together we can create a complete branding for your organization, including photos and videos, as product sessions and AI influencers. We also train generative AI models for individual needs.",
-        "ecommerceTitle": "Ecommerce and Internet Platforms",
-        "ecommerceDescription": "Tailored to your e-commerce business and internet platforms that increase sales, improve user experiences, and grow your business.",
-        "automationsTitle": "Automations and CRMs",
-        "automationsDescription": "We will implement Management Systems tailored to your needs with automations of the most repetitive and time-consuming tasks, which will give you a lot of time in whatever you do."
-      },
+  "features": {
+    "header": {
+      "title": "How can we help you?",
+      "subtitle": "Our Services and Specializations",
+      "description": "Innovative solutions tailored to drive your success."
+    },
+    "websitesTitle": "Content Creation Automation",
+    "websitesDescription": "We develop cutting-edge tools and workflows to automate content creation, ensuring high-quality, consistent outputs that save time and resources.",
+    "marketingTitle": "Ecommerce & Marketing Automation",
+    "marketingDescription": "We design smart marketing and e-commerce solutions that automate lead generation, customer engagement, and sales processes, helping your business grow effortlessly.",
+    "aiTitle": "AI Assistants and Agents",
+    "aiDescription": "From chatbots to advanced virtual assistants, we build AI-driven solutions that streamline your operations, enhance customer service, and optimize productivity.",
+    "designTitle": "Visuals and Content Creation",
+    "designDescription": "Craft stunning visuals and engaging content with our services, including custom branding, video production, and AI-generated influencers tailored to your brand's identity.",
+    "ecommerceTitle": "Custom Ecommerce Solutions",
+    "ecommerceDescription": "Transform your online store with bespoke features, seamless integrations, and user-focused designs that enhance conversions and customer satisfaction.",
+    "automationsTitle": "Custom Models and Applications",
+    "automationsDescription": "We build and integrate advanced AI models and applications that automate workflows, simplify complex tasks, and deliver scalable solutions for your business."
+  },
 
 
       "automationFeatures": {
@@ -206,11 +205,12 @@
         },
         "portfolio": {
             "header": "Portfolio",
-            "button1": "Web",
+            "button1": "Apps",
             "button2": "Marketing & SEO",
-            "button3": "AI & Automations",
+            "button3": "AI Automations",
             "button4": "Generative AI",
             "button5": "Github",
+            "button6": "AI Agents",
             "buttonBehance": "Behance",
             "buttonArtstation": "Artstation",
             "moreButton": "See More Projects",

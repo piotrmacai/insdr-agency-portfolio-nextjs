@@ -213,7 +213,7 @@ const Header = () => {
          </a>
        </li> */}
        <li>
-         <a href="https://www.github.com/aiwareai/" target="_blank">
+         <a href="https://www.github.com/piotrmacai/" target="_blank">
            
          <Image src="/images/brand/github.png" alt="git" width={24} height={24} className="fill-[#D1D8E0] hover:fill-primary transition-all duration-300"/>
          </a>

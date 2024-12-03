@@ -8,7 +8,7 @@ const BlogData: Portfolio[] = [
     metadata:
       "Multimodal Custom Ai Assistant with user log-in, memory build in Next.js",
       urlLink:"/portfolio/insdr-chatbot",
-      tags: ["ai"],
+      tags: ["ai", "agents"],
   },
   { 
     _id: 0.3,
@@ -17,16 +17,16 @@ const BlogData: Portfolio[] = [
     metadata:
       "AI Platform with Ecommerce and Blog",
       urlLink:"/portfolio/aiwarecloud",
-      tags: ["websites"],
+      tags: ["apps"],
   },
   { 
     _id: 1.5,
     mainImage: "/images/portfolio/piotrmacaidev.jpg",
-    title: "Piotrmacai.com",
+    title: "macai.studio",
     metadata:
       "Piotr Macai Personal Portfolio in React.js",
       urlLink:"https://piotrmacai.com",
-      tags: ["websites"],
+      tags: ["apps"],
   },
   { 
     _id: 2.5,
@@ -35,17 +35,17 @@ const BlogData: Portfolio[] = [
     metadata:
       "Gen AI Tools Directory and Magazine",
       urlLink:"/portfolio/aitoolslibrary",
-      tags: ["websites", "ai"],
+      tags: ["apps", "ai"],
   },
-  { 
-    _id: 1,
-    mainImage: "/images/portfolio/cora.jpg",
-    title: "Cora-goralczyk.pl",
-    metadata:
-      "Website for automotive mechanic workshop",
-      urlLink:"/portfolio/cora-goralczyk",
-      tags: ["websites"],
-  },
+  // { 
+  //   _id: 1,
+  //   mainImage: "/images/portfolio/cora.jpg",
+  //   title: "Cora-goralczyk.pl",
+  //   metadata:
+  //     "Website for automotive mechanic workshop",
+  //     urlLink:"/portfolio/cora-goralczyk",
+  //     tags: ["websites"],
+  // },
   { 
     _id: 2.5,
     mainImage: "/images/portfolio/ainsidersoftr.jpg",
@@ -53,17 +53,17 @@ const BlogData: Portfolio[] = [
     metadata:
       "Gen AI Tools Directory and Magazine",
       urlLink:"/portfolio/ainsiderpl",
-      tags: ["websites", "ai"],
+      tags: ["apps", "ai"],
   },
-  {
-    _id: 2,
-    mainImage: "/images/portfolio/volton.jpg",
-    title: "Volton-install.pl",
-    metadata:
-      "Business website for electrical services and smart home",
-      urlLink:"/portfolio/volton",
-      tags: ["websites"],
-  },
+  // {
+  //   _id: 2,
+  //   mainImage: "/images/portfolio/volton.jpg",
+  //   title: "Volton-install.pl",
+  //   metadata:
+  //     "Business website for electrical services and smart home",
+  //     urlLink:"/portfolio/volton",
+  //     tags: ["websites"],
+  // },
   { 
     _id: 5,
     mainImage: "/images/portfolio/macaiStudio.jpg",
@@ -71,7 +71,7 @@ const BlogData: Portfolio[] = [
     metadata:
       "Ai Assistant for Ainsider.tools",
       urlLink:"/portfolio/ainsiderbot",
-      tags: ["ai"],
+      tags: ["ai", "agents"],
   },
   // { 
   //   _id: 3,
@@ -82,33 +82,33 @@ const BlogData: Portfolio[] = [
   //     urlLink:"/portfolio/ainsider-cloud",
   //     tags: ["websites", "ai"],
   // },
-  {
-    _id: 6,
-    mainImage: "/images/portfolio/macai.jpg",
-    title: "Macai.studio",
-    metadata:
-      "Business website for AI Video Creative Agency",
-      urlLink:"/portfolio/insdrcloud",
-      tags: ["websites", "ai"],
-  },
-  { 
-    _id: 4,
-    mainImage: "/images/portfolio/skin.jpg",
-    title: "Skinproject.pl",
-    metadata:
-      "Website for Aesthetic Medicine Office",
-      urlLink:"/portfolio/skinproject",
-      tags: ["websites"],
-  },
-  { 
-    _id: 5,
-    mainImage: "/images/portfolio/afterrave.jpg",
-    title: "After-rave.eu",
-    metadata:
-      "Shop in Shopify in multiple languages",
-      urlLink:"/portfolio/after-rave",
-      tags: ["websites"],
-  },
+  // {
+  //   _id: 6,
+  //   mainImage: "/images/portfolio/macai.jpg",
+  //   title: "Macai.studio",
+  //   metadata:
+  //     "Business website for AI Video Creative Agency",
+  //     urlLink:"/portfolio/insdrcloud",
+  //     tags: ["websites", "ai"],
+  // },
+  // { 
+  //   _id: 4,
+  //   mainImage: "/images/portfolio/skin.jpg",
+  //   title: "Skinproject.pl",
+  //   metadata:
+  //     "Website for Aesthetic Medicine Office",
+  //     urlLink:"/portfolio/skinproject",
+  //     tags: ["websites"],
+  // },
+  // { 
+  //   _id: 5,
+  //   mainImage: "/images/portfolio/afterrave.jpg",
+  //   title: "After-rave.eu",
+  //   metadata:
+  //     "Shop in Shopify in multiple languages",
+  //     urlLink:"/portfolio/after-rave",
+  //     tags: ["websites"],
+  // },
   { 
     _id: 5.5,
     mainImage: "/images/portfolio/hfassistants.jpg",
@@ -118,24 +118,24 @@ const BlogData: Portfolio[] = [
       urlLink:"/portfolio/huggingface-assistants",
       tags: ["ai"],
   },
-  { 
-    _id: 6,
-    mainImage: "/images/portfolio/slovlydeskop.jpg",
-    title: "Slovlystudio.pl",
-    metadata:
-      "Online store for handmade clothing brand",
-      urlLink:"/portfolio/slovly",
-      tags: ["websites"],
-  },
-  { 
-    _id: 7,
-    mainImage: "/images/portfolio/aiwarecloudchatbot.jpg",
-    title: "AI Assistant for Ainsider.pl",
-    metadata:
-      "Ai Assistant for Ainsider platform with lead generation",
-      urlLink:"/portfolio/aiware-chatbot",
-      tags: ["ai"],
-  },
+  // { 
+  //   _id: 6,
+  //   mainImage: "/images/portfolio/slovlydeskop.jpg",
+  //   title: "Slovlystudio.pl",
+  //   metadata:
+  //     "Online store for handmade clothing brand",
+  //     urlLink:"/portfolio/slovly",
+  //     tags: ["websites"],
+  // },
+  // { 
+  //   _id: 7,
+  //   mainImage: "/images/portfolio/aiwarecloudchatbot.jpg",
+  //   title: "AI Assistant for Ainsider.pl",
+  //   metadata:
+  //     "Ai Assistant for Ainsider platform with lead generation",
+  //     urlLink:"/portfolio/aiware-chatbot",
+  //     tags: ["ai"],
+  // },
   { 
     _id: 7.5,
     mainImage: "/images/portfolio/promptr.jpg",
@@ -145,25 +145,25 @@ const BlogData: Portfolio[] = [
       urlLink:"/portfolio/promptrapp",
       tags: ["ai"],
   },
-  { 
-    _id: 8,
-    mainImage: "/images/portfolio/szkolajazdynew.jpg",
-    title: "Szkolajazdymachowski.pl",
-    metadata:
-      "Website created together with AI Chatbot and FB profile for Driving School",
-      urlLink:"/portfolio/osk-machowski",
-      tags: ["websites"],
+  // { 
+  //   _id: 8,
+  //   mainImage: "/images/portfolio/szkolajazdynew.jpg",
+  //   title: "Szkolajazdymachowski.pl",
+  //   metadata:
+  //     "Website created together with AI Chatbot and FB profile for Driving School",
+  //     urlLink:"/portfolio/osk-machowski",
+  //     tags: ["websites"],
       
-  },
-  { 
-    _id: 9,
-    mainImage: "/images/portfolio/bakaliovelove.jpg",
-    title: "Bakaliowelove.pl",
-    metadata:
-      "Woocommerce Store with healthy food",
-      urlLink:"/portfolio/bakaliowelove",
-      tags: ["websites"],
-  },
+  // },
+  // { 
+  //   _id: 9,
+  //   mainImage: "/images/portfolio/bakaliovelove.jpg",
+  //   title: "Bakaliowelove.pl",
+  //   metadata:
+  //     "Woocommerce Store with healthy food",
+  //     urlLink:"/portfolio/bakaliowelove",
+  //     tags: ["websites"],
+  // },
      { 
     _id: 10.5,
     mainImage: "/images/portfolio/macaiStudio.jpg",
@@ -171,26 +171,26 @@ const BlogData: Portfolio[] = [
     metadata:
       "Ai Assistant for Macai.studio",
       urlLink:"/portfolio/macai-chatbot",
-      tags: ["ai"],
+      tags: ["ai", "agents"],
   },
-  {
-    _id: 10,
-    mainImage: "/images/portfolio/lanelyya.jpg",
-    title: "Lanelyya.de",
-    metadata:
-      "Shop in multiple languages on Shopify for German market",
-      urlLink:"/portfolio/lanelyya",
-      tags: ["websites"],
-  },  
-  {
-    _id: 10,
-    mainImage: "/images/portfolio/szkolajazdynew.jpg",
-    title: "Szkolajazdymachowski.pl",
-    metadata:
-      "HTML/JS/CSS websites for Driving School",
-      urlLink:"/portfolio/osk-machowski",
-      tags: ["websites"],
-  },
+  // {
+  //   _id: 10,
+  //   mainImage: "/images/portfolio/lanelyya.jpg",
+  //   title: "Lanelyya.de",
+  //   metadata:
+  //     "Shop in multiple languages on Shopify for German market",
+  //     urlLink:"/portfolio/lanelyya",
+  //     tags: ["websites"],
+  // },  
+  // {
+  //   _id: 10,
+  //   mainImage: "/images/portfolio/szkolajazdynew.jpg",
+  //   title: "Szkolajazdymachowski.pl",
+  //   metadata:
+  //     "HTML/JS/CSS websites for Driving School",
+  //     urlLink:"/portfolio/osk-machowski",
+  //     tags: ["websites"],
+  // },
   { 
     _id: 17,
     mainImage: "/images/portfolio/szkolachatbot.jpg",
@@ -198,7 +198,7 @@ const BlogData: Portfolio[] = [
     metadata:
       "Ai Assistant for Driving School Szkolajazdypolaniec.pl",
       urlLink:"/portfolio/chatbot-osk",
-      tags: ["ai"],
+      tags: ["ai", "agents"],
   },
   { 
     _id: 11,
@@ -216,7 +216,7 @@ const BlogData: Portfolio[] = [
     metadata:
       "Ai Assistant for Restaurants",
       urlLink:"/portfolio/foodchatbot",
-      tags: ["ai"],
+      tags: ["ai", "agents"],
   },
   //  { 
   //   _id: 1,
@@ -227,15 +227,15 @@ const BlogData: Portfolio[] = [
   //     urlLink:"/portfolio/macai-chatbot",
   //     tags: ["ai"],
   // },
-  { 
-    _id: 12,
-    mainImage: "/images/portfolio/akcesoria.jpg",
-    title: "Akcesoriadouprawy.pl",
-    metadata:
-      "Ecommerce Store with external integrations",
-      urlLink:"/portfolio/akcesoriadouprawy",
-      tags: ["websites"],
-  },
+  // { 
+  //   _id: 12,
+  //   mainImage: "/images/portfolio/akcesoria.jpg",
+  //   title: "Akcesoriadouprawy.pl",
+  //   metadata:
+  //     "Ecommerce Store with external integrations",
+  //     urlLink:"/portfolio/akcesoriadouprawy",
+  //     tags: ["websites"],
+  // },
   { 
     _id: 13,
     mainImage: "/images/portfolio/uprawaChatbot.jpg",
@@ -243,7 +243,7 @@ const BlogData: Portfolio[] = [
     metadata:
       "Ai Assistant for Akcesoriadouprawy.pl",
       urlLink:"/portfolio/akcesoriadouprawy-chatbot",
-      tags: ["ai"],
+      tags: ["ai", "agents"],
   },
   // { 
   //   _id: 13,
@@ -281,33 +281,33 @@ const BlogData: Portfolio[] = [
   //     urlLink:"/portfolio/macai-tech",
   //     tags: ["websites"],
   // },
-  { 
-    _id: 10,
-    mainImage: "/images/portfolio/bodymedica.jpg",
-    title: "bodymedica.pl",
-    metadata:
-      "Business website for Physiotherapy Office",
-      urlLink:"/portfolio/bodymedica",
-      tags: ["websites"],
-  },
-  { 
-    _id: 11,
-    mainImage: "/images/portfolio/paintball.jpg",
-    title: "paintball-osada.pl",
-    metadata:
-      "Business website for Entertainment Park and Paintball",
-      urlLink:"/portfolio/paintball-osada",
-      tags: ["websites"],
-  },
-  { 
-    _id: 13,
-    mainImage: "/images/portfolio/smp.jpg",
-    title: "smpolaniec.com.pl",
-    metadata:
-      "Website for housing cooperative",
-      urlLink:"/portfolio/smpolaniec",
-      tags: ["websites"],
-  },
+  // { 
+  //   _id: 10,
+  //   mainImage: "/images/portfolio/bodymedica.jpg",
+  //   title: "bodymedica.pl",
+  //   metadata:
+  //     "Business website for Physiotherapy Office",
+  //     urlLink:"/portfolio/bodymedica",
+  //     tags: ["websites"],
+  // },
+  // { 
+  //   _id: 11,
+  //   mainImage: "/images/portfolio/paintball.jpg",
+  //   title: "paintball-osada.pl",
+  //   metadata:
+  //     "Business website for Entertainment Park and Paintball",
+  //     urlLink:"/portfolio/paintball-osada",
+  //     tags: ["websites"],
+  // },
+  // { 
+  //   _id: 13,
+  //   mainImage: "/images/portfolio/smp.jpg",
+  //   title: "smpolaniec.com.pl",
+  //   metadata:
+  //     "Website for housing cooperative",
+  //     urlLink:"/portfolio/smpolaniec",
+  //     tags: ["websites"],
+  // },
   // { 
   //   _id: 14,
   //   mainImage: "/images/portfolio/aiwareChatbot.jpg",
@@ -327,33 +327,33 @@ const BlogData: Portfolio[] = [
   //     tags: ["ai"],
   // },
 
-  { 
-    _id: 18,
-    mainImage: "/images/portfolio/szkolajazdymarketing.jpg",
-    title: "Social media + Marketing szkolajazdymachowski.pl",
-    metadata:
-      "Creation and development of FB profile and SEO in Google",
-      urlLink:"/portfolio/osk-machowski",
-      tags: ["marketing"],
-  },
-  { 
-    _id: 19,
-    mainImage: "/images/portfolio/ainsidertools-google.jpg",
-    title: "SEO Ainsider.tools in Google",
-    metadata:
-      "Top position on the first page of Google",
-      urlLink:"/portfolio/seo-ainsidertools",
-      tags: ["marketing"],
-  },
-  { 
-    _id: 20,
-    mainImage: "/images/portfolio/paintball-google.jpg",
-    title: "SEO paintball-osada.pl in Google",
-    metadata:
-      "Number 1 position in Google",
-      urlLink:"/portfolio/seo-paintballosada",
-      tags: ["marketing"],
-  },
+  // { 
+  //   _id: 18,
+  //   mainImage: "/images/portfolio/szkolajazdymarketing.jpg",
+  //   title: "Social media + Marketing szkolajazdymachowski.pl",
+  //   metadata:
+  //     "Creation and development of FB profile and SEO in Google",
+  //     urlLink:"/portfolio/osk-machowski",
+  //     tags: ["marketing"],
+  // },
+  // { 
+  //   _id: 19,
+  //   mainImage: "/images/portfolio/ainsidertools-google.jpg",
+  //   title: "SEO Ainsider.tools in Google",
+  //   metadata:
+  //     "Top position on the first page of Google",
+  //     urlLink:"/portfolio/seo-ainsidertools",
+  //     tags: ["marketing"],
+  // },
+  // { 
+  //   _id: 20,
+  //   mainImage: "/images/portfolio/paintball-google.jpg",
+  //   title: "SEO paintball-osada.pl in Google",
+  //   metadata:
+  //     "Number 1 position in Google",
+  //     urlLink:"/portfolio/seo-paintballosada",
+  //     tags: ["marketing"],
+  // },
   // { 
   //   _id: 19,
   //   mainImage: "/images/portfolio/ainspire.jpg",
@@ -363,15 +363,15 @@ const BlogData: Portfolio[] = [
   //     urlLink:"/portfolio/ainspire",
   //     tags: ["websites", "ai"],
   // },
-  { 
-    _id: 20,
-    mainImage: "/images/portfolio/mmhigh.jpg",
-    title: "mmhigh.pl Website",
-    metadata:
-      "Business website for high-altitude work company",
-      urlLink:"/portfolio/mmhigh",
-      tags: ["websites"],
-  },
+  // { 
+  //   _id: 20,
+  //   mainImage: "/images/portfolio/mmhigh.jpg",
+  //   title: "mmhigh.pl Website",
+  //   metadata:
+  //     "Business website for high-altitude work company",
+  //     urlLink:"/portfolio/mmhigh",
+  //     tags: ["websites"],
+  // },
 ];
 
 export default BlogData;

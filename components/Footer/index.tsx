@@ -96,11 +96,7 @@ const Footer = () => {
                          {t('footer.menu1')}
                       </a>
                     </li>
-                    <li>
-                      <a href="/portfolio" className="inline-block hover:text-primary mb-3">
-                        {t('footer.menu2')}
-                      </a>
-                    </li>
+                  
                     <li>
                       <a href="/bots" className="inline-block hover:text-primary mb-3">
                         {t('footer.menu12')}
@@ -111,14 +107,19 @@ const Footer = () => {
                         {t('header.menuAutomations')}
                       </a>
                     </li>
-                    <li>
+                    {/* <li>
+                      <a href="/portfolio" className="inline-block hover:text-primary mb-3">
+                        {t('footer.menu2')}
+                      </a>
+                    </li> */}
+                    {/* <li>
                       <a
                         href="/web"
                         className="inline-block hover:text-primary mb-3"
                       >
                         {t('header.menuServices')}
                       </a>
-                    </li>
+                    </li> */}
                     <li>
                       <a
                         href="/contact"
@@ -129,10 +130,10 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="https://ainsider.pl"
+                        href="https://ainsider.beehiiv.com/"
                         className="inline-block hover:text-primary mb-3"
                       >
-                         {t('footer.menu4')}
+                         AI Newsletter
                       </a>
                     </li>
                     <li>
