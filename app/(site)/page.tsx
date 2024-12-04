@@ -50,7 +50,7 @@ export default function Home() {
        <CTAToAinsider/>
      
       <CTA />       
-      <SenjaWidget/>  
+      {/* <SenjaWidget/>   */}
       <Brands />
       <Contact />     
     
