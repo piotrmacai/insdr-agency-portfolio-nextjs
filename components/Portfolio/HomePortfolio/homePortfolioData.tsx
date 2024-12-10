@@ -17,7 +17,7 @@ const BlogData: Portfolio[] = [
     metadata:
       "AI Platform with Ecommerce and Blog",
       urlLink:"/portfolio/aiwarecloud",
-      tags: ["apps"],
+      tags: ["web"],
   },
   { 
     _id: 1.5,
@@ -26,7 +26,7 @@ const BlogData: Portfolio[] = [
     metadata:
       "Piotr Macai Personal Portfolio in React.js",
       urlLink:"https://piotrmacai.com",
-      tags: ["apps"],
+      tags: ["web"],
   },
   { 
     _id: 2.5,
@@ -35,7 +35,7 @@ const BlogData: Portfolio[] = [
     metadata:
       "Gen AI Tools Directory and Magazine",
       urlLink:"/portfolio/aitoolslibrary",
-      tags: ["apps", "ai"],
+      tags: ["web", "ai"],
   },
   // { 
   //   _id: 1,
@@ -53,7 +53,7 @@ const BlogData: Portfolio[] = [
     metadata:
       "Gen AI Tools Directory and Magazine",
       urlLink:"/portfolio/ainsiderpl",
-      tags: ["apps", "ai"],
+      tags: ["web", "ai"],
   },
   // {
   //   _id: 2,

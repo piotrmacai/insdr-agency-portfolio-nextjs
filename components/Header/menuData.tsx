@@ -12,41 +12,7 @@ const getTranslatedMenuData = () => {
       path: "/",
       icon: "/images/icon/home.svg",
     },
-    {
-      id: 2,
-      title: t('header.menu2'),
-      newTab: false,
-      path: "/portfolio",
-      icon: "/images/icon/bag.svg",
-    },
-    // {
-    //   id: 2.5,
-    //   title: t('header.menu12'),
-    //   newTab: false,
-    //   path: "/bots",
-    //   icon: "/images/icon/bag.svg",
-    // },
-    // {
-    //   id: 3,
-    //   title: t('header.menuServices'),
-    //   newTab: true,
-    //   path: "/portfolio",
-    //   icon: "/images/icon/phone.svg",
-    // },
-    // {
-    //   id: 3,
-    //   title: t('header.menu11'),
-    //   newTab: true,
-    //   path: "https://ainsider.tools",
-    //   icon: "/images/icon/phone.svg",
-    // },
-    // {
-    //   id: 3,
-    //   title: t('header.menu3'),
-    //   newTab: true,
-    //   path: "/#headerWeb",
-    //   icon: "/images/icon/phone.svg",
-    // },
+ 
     {
       id: 3,
       title: t('header.menu3'),
@@ -110,6 +76,13 @@ const getTranslatedMenuData = () => {
         //   path: "/generativeai",
         // },
       ],
+    },   
+    {
+      id: 2,
+      title: t('header.menu2'),
+      newTab: false,
+      path: "/portfolio",
+      icon: "/images/icon/bag.svg",
     },
     {
       id: 4,

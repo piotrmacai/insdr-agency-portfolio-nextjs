@@ -56,7 +56,7 @@ const Portfolio = () => {
                     className={`mr-2 px-4 py-2 text-lg font-semibold border-bg-blue-500 rounded-2xl bg-gray-100 ${
                       selectedTag === "websites" ? "bg-blue-500 text-white" : "bg-gray-200"
                     }`}
-                    onClick={() => handleTagSelection("apps")}
+                    onClick={() => handleTagSelection("web")}
                   >
                     {t('portfolio.button1')}
                   </button>
@@ -79,7 +79,7 @@ const Portfolio = () => {
                   </button>
                 
 
-                  <Link href="https://github.com/piotrmacai/" target="_blank" rel="noopener noreferrer">
+                  {/* <Link href="https://github.com/piotrmacai/" target="_blank" rel="noopener noreferrer">
                   <button 
                     className={`mr-2 mt-2 text-lg font-semibold ${
                       selectedTag === "marketing" ? "bg-blue-500 text-white" : "bg-gray-200"
@@ -116,7 +116,7 @@ const Portfolio = () => {
                   >
                     {t('portfolio.buttonArtstation')}
                   </button>
-                  </Link>
+                  </Link> */}
            
              
                 

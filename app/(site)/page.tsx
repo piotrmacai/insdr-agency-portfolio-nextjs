@@ -47,7 +47,7 @@ export default function Home() {
       <FeaturesTab /> 
        {/* <About />            */}
        <HomePortfolio/>
-       <CTAToAinsider/>
+       {/* <CTAToAinsider/> */}
      
       <CTA />       
       {/* <SenjaWidget/>   */}

@@ -15,19 +15,39 @@
         "subtitle": "Nasze usługi i specjalizacje",
         "description": "Innowacyjne rozwiązania dopasowane do Twojego sukcesu."
       },
-      "websitesTitle": "Automatyzacje procesów",
+      "websitesTitle": "Automatyzacje Dowolnych Procesów",
       "websitesDescription": "Opracowujemy nowoczesne narzędzia i procesy automatyzujące tworzenie treści, zapewniając wysoką jakość, spójność i oszczędność czasu oraz zasobów.",
-      "marketingTitle": "Automatyzacja dla e-commerce i marketingu",
-      "marketingDescription": "Projektujemy inteligentne rozwiązania marketingowe i e-commerce, które automatyzują pozyskiwanie klientów, angażowanie ich oraz procesy sprzedażowe, wspierając rozwój Twojego biznesu.",
-      "aiTitle": "Asystenci i Agenci AI",
-      "aiDescription": "Od chatbotów po zaawansowanych wirtualnych asystentów – tworzymy rozwiązania oparte na sztucznej inteligencji, które usprawniają procesy, poprawiają obsługę klienta i zwiększają produktywność.",
-      "designTitle": "Tworzenie wizualizacji i treści z AI",
-      "designDescription": "Tworzymy zachwycające wizualizacje oraz angażujące treści, w tym branding, produkcję wideo oraz generowanie AI-influencerów dostosowanych do wizerunku Twojej marki.",
-      "ecommerceTitle": "Dedykowane rozwiązania Web i CRM",
+      "marketingTitle": "Wdrożenia AI Dla Indywidualnych Clów",
+      "marketingDescription": "Tworzymy indywidualne rozwiązania AI, które są w pełni dopasowane do Twoich celów, potrzeb, oraz indywidualnego środowiska i narzędzi, co pozwala Ci osiągnąć efektywne wyniki w Twojej działalności.",
+      "aiTitle": "Chatboty & Agenci AI",
+      "aiDescription": "Od chatbotów po zaawansowanych wirtualnych asystentów, tworzymy rozwiązania oparte na sztucznej inteligencji, które usprawniają procesy, poprawiają obsługę klienta i zwiększają produktywność.",
+      "designTitle": "Modele AI dla Grafik, Zdjęć i Treści w Twoim Stylu",
+      "designDescription": "Dostosujemy modele i narzędzia AI, które generują treści graficzne, zdjęcia i treści w Twoim stylu, umożliwiając Ci osiągnięcie spójności i profesjonalizmu w Twoich materiałach marketingowych.",
+      "ecommerceTitle": "Dedykowane Rozwiązania Web & CRM",
       "ecommerceDescription": "Oferujemy kompleksowe rozwiązania Web i CRM, które integrują różnorodne funkcje, umożliwiając efektywne zarządzanie relacjami z klientami oraz optymalizację procesów biznesowych, co prowadzi do zwiększenia efektywności i satysfakcji klientów.",
-      "automationsTitle": "Dedykowane modele i aplikacje AI",
-      "automationsDescription": "Tworzymy i integrujemy najnowsze modele AI oraz tworzymy aplikacje, które automatyzują procesy, upraszczają złożone zadania i dostarczają skalowalne rozwiązania dla Twojego biznesu."
+      "automationsTitle": "Voiceboty & Rozwiązania Głosowe",
+      "automationsDescription": "Tworzymy i integrujemy najnowsze głosowe rozwiązania AI - w tym głosowych agentów i chatboty AI, które automatyzują rozmowy telefoniczne i komunikację z klientami, upraszczają złożone zadania i dostarczają skalowalne rozwiązania dla Twojego biznesu. Nasze rozw"
     },
+
+    "webfeatures": {
+  "header": {
+    "title": "Jak możemy Ci pomóc?",
+    "subtitle": "Nasze Usługi i Specjalizacje",
+    "description": "Innowacyjne rozwiązania dostosowane do osiągnięcia Twojego sukcesu."
+  },
+  "1Title": "Landing Pages",
+  "1Description": "Nowoczesne i dopasowane strony internetowe, stworzone w dowolnej technologii lub z wykorzystaniem wybranych szablonów – zawsze projektowane z myślą o osiąganiu Twoich celów.",
+  "2Title": "Business Websites",
+  "2Description": "Strony stworzone do sprzedaży i promocji, zawsze nowoczesne i dostosowane – projektowane z myślą o osiąganiu Twoich celów.",
+  "3Title": "Ecommerce Platforms",
+  "3Description": "Zaawansowane platformy e-commerce, które zwiększają sprzedaż, poprawiają doświadczenia użytkowników i wspierają rozwój Twojego biznesu.",
+  "4Title": "Custom Web Apps & Platforms",
+  "4Description": "Dostosowane do Twojego biznesu e-commerce, aby poprawić doświadczenia użytkowników i wspierać rozwój Twojej działalności.",
+  "5Title": "Dedicated CRM Solutions",
+  "5Description": "Dedykowane rozwiązania CRM do automatyzacji, optymalizacji i zarządzania wszystkimi procesami biznesowymi, zapewniające kompleksowy i efektywny sposób zarządzania firmą oraz relacjami z klientami.",
+  "6Title": "SEO and Website Positioning",
+  "6Description": "Zwiększ widoczność, zdobywaj więcej leadów i klientów dzięki kompleksowym usługom SEO i marketingowym."
+},
 
     "automationFeatures": {
     "header": {
@@ -226,7 +246,7 @@
         "header": {
             "menu1": "Home",
             "menu2": "Portfolio",
-            "menu3": "Usługi",
+            "menu3": "Rozwiązania",
             "menu4": "Kontakt",
             "menu5": "Strony i Platformy www",
             "menu6": "AI",
@@ -663,7 +683,7 @@
               "header1": "Design",
               "header2": "& UI/UX",
               "header3": "Design / Branding",
-              "header4": "Logotypy / Banery / Grafiki / Social Media / Video",
+              "header4": "",
               "desc1": "Oferuję kompleksowe usługi designu i UX/UI, które pomagają Twojej zbudować wymarzony wizerunek w digitalnym świecie. Moje rozwiązania są dostosowane do Twoich potrzeb i branży, zapewniając spójność i efektywność w każdym aspekcie Twojego biznesu."
             },
             "header2": {

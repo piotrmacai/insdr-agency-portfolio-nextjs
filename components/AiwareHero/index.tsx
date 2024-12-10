@@ -17,7 +17,7 @@ const Hero = () => {
     <>
       <section className="pt-35 md:pt-40 xl:pt-46 pb-20 xl:pb-25 px-3 overflow-hidden">
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0 flex flex-col md:flex-row"> {/* Added flex and flex-col for mobile view */}
-          <div className="md:w-1/2 sm:w-full md:block mb-8 md:mb-0"> {/* Added mb-8 for mobile view */}
+          <div className="md:w-1/2 sm:w-full md:block mb-8 md:mb-0 md:mt-12"> {/* Added mb-8 for mobile view */}
             <h4 className="text-black dark:text-white text-lg font-medium mb-4.5">
               Hello! {t('we')} Insdr 
             </h4>

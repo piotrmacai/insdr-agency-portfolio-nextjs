@@ -34,7 +34,7 @@ const Portfolio = () => {
  
  <section className="pt-40 md:pt-40 xl:pt-46 pb-20 xl:pb-25 px-3 overflow-hidden">
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0 flex flex-col md:flex-row"> {/* Added flex and flex-col for mobile view */}
-          <div className="md:w-1/2 sm:w-full md:block mb-8 md:mb-0"> {/* Added mb-8 for mobile view */}
+          <div className="md:w-1/2 sm:w-full md:block md:mt-16 mb-8 md:mb-0 flex items-center justify-center flex-col h-full"> {/* Added mb-8 for mobile view and styles that it will alignem in vertical direction at centre */}
             <h4 className="text-black dark:text-white text-lg font-medium mb-4.5">
               {t('portfoliosee')} 🔥
             </h4>
@@ -231,7 +231,7 @@ const Portfolio = () => {
                     className={`mr-2 text-lg font-semibold ${
                       selectedTag === "apps" ? "bg-blue-500 text-white" : "bg-gray-200"
                     }`}
-                    onClick={() => handleTagSelection("apps")}
+                    onClick={() => handleTagSelection("web")}
                   >
                   {t('portfolio.button1')}
                   </button>
@@ -252,7 +252,7 @@ const Portfolio = () => {
                   >
                     {t('portfolio.button6')}
                   </button>
-                 
+{/*                  
                   <Link href="https://github.com/piotrmacai/" target="_blank" rel="noopener noreferrer">
                   <button 
                     className={`mr-2 text-lg font-semibold ${
@@ -291,7 +291,7 @@ const Portfolio = () => {
                   >
                     {t('portfolio.buttonArtstation')}
                   </button>
-                  </Link>
+                  </Link> */}
                     
                   
            
