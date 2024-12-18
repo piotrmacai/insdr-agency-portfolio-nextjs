@@ -24,6 +24,8 @@ import MarketingFeaturesTab from "@/components/FeaturesTabMarketing";
 import HeaderAi from "@/components/HeaderAi";
 import HeaderWeb from "@/components/HeaderWeb";
 import { Metadata } from "next";
+import Feature from "@/components/Features";
+import AiFeature from "@/components/Ai/AiFeature";
 
 export const metadata: Metadata = {
   title: "Aiware.me Portfolio",
@@ -34,16 +36,19 @@ export const metadata: Metadata = {
 const ServicesPage = async () => {
   return (
     <>
-    <AiHero />         
-     {/* <HeaderAi/> */}  
-     <AiFeaturesTab/>      
-    <AiAboutOne/>  
-    <AiAboutTwo/>  
+    <AiHero />   
+    <AiFeature/>  
+     <AiAboutOne/>        
+    <AiAboutTwo/>      <
+      CTAToPortfolio/> 
+    <FeaturesTab />    
+    <CTA/>   
+    {/* <AiFeaturesTab/>    */}
+    <Brands/>   
+
+  
    
-    <CTAToPortfolio/>
-    <FeaturesTab /> 
-    <CTA/>
-    <Brands/>
+ 
     <Contact/>
     </>
   );

@@ -81,6 +81,8 @@
         "subtitle": "Opinie Naszych Klientów",
         "description": "Zobacz co mówią o Nas inni"
       },
+
+
       "featuresTab": {
         "title": {
           "one": "Workflow",
@@ -88,9 +90,9 @@
           "three": "By wszystko było łatwe i proste" 
         },
         "header": {
-          "tabOne": "Konsultacje i onboarding",
-          "tabTwo": "Projekt i wdrożenie",
-          "tabThree": "Analizy, szkolenia i optymalizacje"
+          "tabOne": "Konsultacje i audyt",
+          "tabTwo": "Plan i projekt",
+          "tabThree": "Wdrożenie i szkolenia"
         },
         "tab1Title": "Konsultacje i Onboarding",
         "tab1Description1": "Podczas konsultacji zagłębiamy się w Twoje potrzeby biznesowe, analizując obecne systemy i strategie, aby zidentyfikować najefektywniejsze podejście do dalszego rozwoju.",
@@ -102,6 +104,48 @@
         "tab3Description1": "Podczas szkoleń uczymy Cię, jak efektywnie korzystać z nowych narzędzi i procesów, aby zoptymalizować codzienną pracę w Twojej firmie, zyskując przewagę nad konkurencją.",
         "tab3Description2": "Dzięki optymalizacjom, w tym automatyzacji procesów, pomagamy Twojej firmie działać wydajniej. Nasze zaawansowane analizy wspierają podejmowanie lepszych decyzji biznesowych i długoterminowy rozwój."
          },
+
+    "crmFeaturesTab": {
+  "title": {
+    "one": "Kompleksowe Usługi Wdrożeniowe",
+    "two": "Nowoczesne Systemy CRM i Zarządzania",
+    "three": "Optymalizacja Zarządzania i Kontroli"
+  },
+  "header": {
+    "tabOne": "Wdrożenia Notion i innych platform",
+    "tabTwo": "CRM dostosowane do potrzeb",
+    "tabThree": "Wiki i systemy zarządzania"
+  },
+  "tab1Title": "Wdrożenia Notion dla Indywidualnych Potrzeb",
+  "tab1Description1": "Oferujemy kompleksowe dostosowanie platformy Notion do Twoich unikalnych celów, takich jak zarządzanie projektami, planowanie czasu czy budowanie baz wiedzy. Tworzymy rozwiązania wspierające Twoje priorytety i cele.",
+  "tab1Description2": "Tworzymy struktury przestrzeni roboczej, automatyzacje i integracje z innymi narzędziami, aby zmaksymalizować efektywność Notion. Wspieramy proces wdrożenia i zapewniamy szkolenia dla użytkowników.",
+  "tab2Title": "Systemy CRM dostosowane do potrzeb",
+  "tab2Description1": "Projektujemy i wdrażamy systemy CRM, które odpowiadają specyficznym wymaganiom Twojej firmy. Pomagamy usprawnić zarządzanie relacjami z klientami, zautomatyzować procesy i zwiększyć efektywność zespołu.",
+  "tab2Description2": "Integrujemy systemy CRM z istniejącymi narzędziami i procesami w Twojej firmie. Oferujemy indywidualne podejście, wsparcie techniczne oraz ciągłą optymalizację po wdrożeniu.",
+  "tab3Title": "Platformy do zarządzania wiedzą i procesami",
+  "tab3Description1": "Projektujemy platformy e-learningowe i systemy zarządzania wiedzą, które wspierają efektywne szkolenia zespołów i organizację procesów w firmie.",
+  "tab3Description2": "Tworzymy intuicyjne rozwiązania z funkcjami śledzenia postępów, personalizacji treści i integracji z innymi systemami. Nasze platformy zwiększają produktywność zespołów i wspierają rozwój organizacji."
+},
+
+         "agentsFeatures": {
+  "header": {
+    "title": "Chatboty i Asystenci AI",
+    "subtitle": "Personalizowani Agenci AI",
+    "description": "Spersonalizowani do Potrzeb i Wymagań Twojej Firmy"
+  },
+  "1Title": "Inteligentne chatboty AI dla firm",
+"1Description": "Zaawansowane chatboty AI wspierające zarządzanie wewnętrznymi procesami firmy, automatyzację pracy z dokumentacją oraz efektywną współpracę zespołową, gwarantując bezpieczeństwo danych.",
+"2Title": "AI dla obsługi i wsparcia klienta",
+"2Description": "Asystenci AI wspierający obsługę klienta, którzy analizują zapytania, udzielają trafnych odpowiedzi w czasie rzeczywistym i zwiększają satysfakcję użytkownika dzięki spersonalizowanemu podejściu.",
+"3Title": "AI do generowania leadów i automatyzacji sprzedaży",
+"3Description": "Agenci AI dedykowani pozyskiwaniu klientów, kwalifikowaniu leadów oraz automatyzacji działań sprzedażowych, zwiększając skuteczność konwersji i procesów marketingowych.",
+"4Title": "Chatboty AI dla e-commerce i sprzedaży",
+"4Description": "Nowoczesne chatboty AI do e-commerce, które oferują personalizowane rekomendacje produktów, prowadzą klientów przez proces zakupowy i zwiększają przychody dzięki strategiom cross-sellingu i upsellingu.",
+"5Title": "Rozwiązania AI dla komunikacji głosowej",
+"5Description": "Głosowi asystenci AI, którzy ułatwiają interakcje z klientami, zapewniają automatyzację wsparcia głosowego i oferują nowoczesne rozwiązania do zarządzania zapytaniami w czasie rzeczywistym.",
+"6Title": "Dedykowane rozwiązania AI dla biznesu",
+"6Description": "Indywidualnie projektowane systemy AI, które odpowiadają na specyficzne potrzeby firm, integrując się z istniejącymi narzędziami i dostarczając skalowalne oraz innowacyjne rozwiązania technologiczne."
+},
          
       "about": {
         "header1": {
@@ -118,6 +162,25 @@
             "button": "Zacznijmy projekt"
           }
         },
+
+        
+      "aboutCrm": {
+        "header1": {
+          "header1": "Dedykowane",
+          "header2": "Rozwiązania Systemowe",
+          "header3": "Kompleksowe Wdrożenia",
+          "header4": "Dla Twojej Firmy",
+          "desc1": "Tworzymy i wdrażamy systemy CRM, platformy Wiki oraz systemy zarządzania, które wspierają organizację, automatyzują procesy i zwiększają efektywność operacyjną w firmach każdej wielkości."
+        },
+        "header2": {
+          "header1": "Zmodernizuj Zarządzanie",
+          "header2": "i Rozwój Firmy",
+          "desc1": "Nasze systemy CRM, narzędzia zarządzania wiedzą i platformy współpracy pozwalają osiągnąć większą produktywność, lepszą komunikację zespołową oraz szybkie reagowanie na potrzeby klientów i rynku.",
+          "button": "Rozpocznij Wdrożenie"
+        }
+      },
+
+
         "genai": 
         {
              "header1": "Generatywna AI",
@@ -310,6 +373,24 @@
                 "desc": "Wykorzystując najnowsze technologie sztucznej inteligencji, która jest jedną z największych rewolucji naszych czasów. Nasze starannie opracowane podejście obejmuje najnowsze pomysły i techniki dostosowane do Twojej specyficznej branży i celów."
               }
           },
+
+          "supportbot": {
+            "header": "Inteligentne Asystenty AI Stworzone z Myślą o Twoich Wymaganiach",
+            "desc1": "Specjalizuję się w tworzeniu nowoczesnych, spersonalizowanych asystentów AI, którzy wykorzystują przetwarzanie języka naturalnego i zaawansowane możliwości sztucznej inteligencji, aby rozwiązywać wyzwania biznesowe. Niezależnie od tego, czy potrzebujesz wirtualnego asystenta, bota wsparcia klienta, czy narzędzia do automatyzacji procesów wewnętrznych, każda z rozwiązań jest dostosowana do Twoich celów i potrzeb operacyjnych.",
+            "desc2": "Od bezproblemowej integracji z platformami, takimi jak WordPress, systemy CRM czy sklepy internetowe, po umożliwienie komunikacji wielokanałowej — moje asystenty AI zapewniają doskonałe doświadczenia użytkowników. Dostarczają spersonalizowane rekomendacje, automatyzują powtarzalne zadania i pomagają Twojemu zespołowi lub klientom osiągać więcej przy mniejszym wysiłku.",
+            "integrations": "Integracje z platformami, takimi jak WordPress, Slack, systemy CRM czy własne API, zapewniające płynne wdrożenie i skalowalność.",
+            "usecases": "Automatyzacja wsparcia klienta, rekomendacje produktów, zarządzanie zadaniami wewnętrznymi, personalizowani asystenci marketingowi i wiele więcej.",
+             "details":"Szczegóły"
+          },
+
+          "voicebot": {
+          "header": "Asystenci Głosowi AI Dostosowani do Unikalnych Potrzeb Biznesowych",
+          "desc1": "Usługa koncentruje się na tworzeniu zaawansowanych głosowych chatbotów i asystentów AI, które umożliwiają naturalne, ludzkie interakcje dla firm. Dzięki wykorzystaniu nowoczesnych technologii rozpoznawania mowy, przetwarzania języka naturalnego i syntezatorów mowy, te rozwiązania zwiększają zaangażowanie klientów, optymalizują operacje i automatyzują powtarzalne zadania za pomocą komunikacji głosowej.",
+          "desc2": "Asystenci głosowi są płynnie integrowani z systemami telefonicznymi, aplikacjami mobilnymi oraz inteligentnymi urządzeniami, jednocześnie oferując wsparcie w wielu językach dla spersonalizowanego doświadczenia. Niezależnie od tego, czy obsługują zapytania klientów, organizują terminarz, czy oferują wsparcie w czasie rzeczywistym, te rozwiązania oparte na AI są zaprojektowane, aby zwiększać efektywność i zapewniać doskonałe doświadczenia użytkowników.",
+          "integrations": "Zgodne z systemami telefonicznymi, platformami IVR, aplikacjami mobilnymi, inteligentnymi głośnikami i dedykowanymi API, co zapewnia płynne wdrożenie i skalowalność.",
+          "usecases": "Zastosowania obejmują obsługę klienta opartą na głosie, organizację spotkań, wsparcie FAQ w czasie rzeczywistym, bezdotykową automatyzację zadań oraz spersonalizowany marketing oparty na interakcjach głosowych."
+        },
+
           "mainPortfolio": {
             "header1": "Sztuka AI",
             "header2": "Generatywna AI dla Biznesu",
@@ -643,6 +724,25 @@
             }
           }
         },
+
+"SupportBotFeaturesTab": {
+  "mainheader": "Szczegóły naszego Agenta AI do Wsparcia",
+  "header": {
+    "tabOne": "Twoje Dane Własne",
+    "tabTwo": "Spersonalizowane Zachowania i Przepływy Pracy",
+    "tabThree": "Integracje z CRM i Twoimi Narzędziami"
+  },
+  "tab1Title": "Twoje Dane Własne, w tym produkty i usługi",
+  "tab1Description1": "Nasi agenci AI umożliwiają płynną integrację z Twoimi danymi, w tym katalogami produktów, listami usług i wewnętrznymi bazami wiedzy, zapewniając spersonalizowane i kontekstowe interakcje.",
+  "tab1Description2": "Dzięki wykorzystaniu Twoich unikalnych danych tworzymy rozwiązania, które dostarczają precyzyjnych odpowiedzi, usprawniają obsługę zapytań i zwiększają efektywność operacyjną dopasowaną do Twojej oferty.",
+  "tab2Title": "Spersonalizowane Zachowania i Przepływy Pracy dostosowane do Twoich potrzeb",
+  "tab2Description1": "Nasze rozwiązania AI są projektowane tak, aby dostosowywać się do specyficznych procesów biznesowych, odzwierciedlając unikalne potrzeby i cele Twojej organizacji.",
+  "tab2Description2": "Projektujemy przepływy automatyzacji, które płynnie integrują się z Twoimi operacjami, poprawiając szybkość reakcji, minimalizując błędy i zapewniając spójne, spersonalizowane doświadczenia dla Twoich klientów.",
+  "tab3Title": "Integracje z CRM oraz Twoimi Platformami i Narzędziami",
+  "tab3Description1": "Specjalizujemy się w implementacji AI w Twoim ekosystemie CRM i narzędzi, umożliwiając inteligentne zarządzanie danymi, automatyzację procesów i lepsze zarządzanie relacjami z klientami.",
+  "tab3Description2": "Nasze usługi integracyjne wzbogacają istniejące platformy o funkcje napędzane AI, optymalizując komunikację, analizę danych i zarządzanie treściami, wspierając podejmowanie decyzji i efektywność operacyjną."
+},
+
         "heroAiSection": {
           "mainheader":"Szczegóły Naszych Rozwiązań AI",
           "header": {

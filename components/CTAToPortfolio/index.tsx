@@ -32,7 +32,7 @@ const CTAToPortfolio = () => {
               className="animate_left md:w-[70%] lg:w-1/2"
             >
               <h2 className="text-black dark:text-white text-3xl xl:text-sectiontitle4 font-bold mb-4 w-11/12">
-              {t('ctatoportfolio.header1')} <br></br> {t('ctatoportfolio.header2')}
+              {t('ctatoportfolio.header1')} 
               </h2>
               <p>
               {t('ctatoportfolio.contact')}

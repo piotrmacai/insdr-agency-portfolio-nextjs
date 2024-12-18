@@ -6,27 +6,16 @@ import FeaturesTabItem from "./FeaturesTabItem";
 import { useTranslation } from 'react-i18next';
 import { motion } from "framer-motion";
 import getTranslatedFeaturesTabData from "./featuresTabData";
-import SectionHeader from "../Common/SectionHeader";
 
-const FeaturesTab = () => {
+const FeaturesTabCRM = () => {
   const [currentTab, setCurrentTab] = useState("tabOne");
   const { t } = useTranslation();
   const featuresTabData = getTranslatedFeaturesTabData();
   return ( 
     <>
       {/* <!-- ===== Features Tab Start ===== --> */}
-      <section className="pt-18.5 pb-20 lg:pb-22.5 relative">
-      <SectionHeader
-            headerInfo={{
-              title: t('featuresTab.title.one'),
-              subtitle: t('featuresTab.title.two'),
-              description: t('featuresTab.title.three'),
-            }}
-          />
+      <section className="pt-5 pb-27 lg:pb-30 relative">
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0 relative">
-        <div className="pb-8">
-       
-            </div>
           <div className="absolute -top-16 -z-1 mx-auto h-[350px] w-[90%]">
             <Image
               fill
@@ -76,7 +65,7 @@ const FeaturesTab = () => {
               </div>
               <div className="lg:w-auto md:w-3/5">
                 <h5 className="text-black dark:text-white text-sm xl:text-regular font-medium">
-                {t('featuresTab.header.tabOne')}
+                {t('crmFeaturesTab.header.tabOne')}
                 </h5>
               </div>
             </div>
@@ -95,7 +84,7 @@ const FeaturesTab = () => {
               </div>
               <div className="lg:w-auto md:w-3/5">
                 <h5 className="text-black dark:text-white text-sm xl:text-regular font-medium">
-                {t('featuresTab.header.tabTwo')}
+                {t('crmFeaturesTab.header.tabTwo')}
                 </h5>
               </div>
             </div>
@@ -114,7 +103,7 @@ const FeaturesTab = () => {
               </div>
               <div className="lg:w-auto md:w-3/5">
                 <h5 className="text-black dark:text-white text-sm xl:text-regular font-medium">
-                {t('featuresTab.header.tabThree')}
+                {t('crmFeaturesTab.header.tabThree')}
                 </h5>
               </div>
             </div>
@@ -157,4 +146,4 @@ const FeaturesTab = () => {
   );
 };
 
-export default FeaturesTab;
+export default FeaturesTabCRM;

@@ -7,12 +7,14 @@ import CTA from "@/components/CTA";
 import Contact from "@/components/Contact";
 import Feature from "@/components/Features";
 import AboutWeb from "@/components/AboutWeb";
+import AboutCRM from "@/components/AboutCRM";
 import AboutAi from "@/components/AboutAi";
 import AboutMarketing from "@/components/AboutMarketing";
 import FeaturesTab from "@/components/FeaturesTab";
 import WebFeaturesTab from "@/components/FeaturesTabWeb";
 import AiFeaturesTab from "@/components/FeaturesTabAi";
 import MarketingFeaturesTab from "@/components/FeaturesTabMarketing";
+import FeaturesTabCRM from "@/components/FeaturesTabCRM";
 import HeaderAi from "@/components/HeaderAi";
 import HeaderWeb from "@/components/HeaderWeb";
 import { Metadata } from "next";
@@ -37,8 +39,8 @@ const ServicesPage = async () => {
       <WebFeaturesTab/>
       </div>
       <div id="headerMarketing">
-      <AboutMarketing/>
-      <MarketingFeaturesTab/>
+      <AboutCRM/>
+      <FeaturesTabCRM/>
       </div> 
       <CTA/> 
      <Brands/>

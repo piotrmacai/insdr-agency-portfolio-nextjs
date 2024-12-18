@@ -56,25 +56,7 @@
 },
 
 
-      "automationFeatures": {
-        "header": {
-          "title": "Streamline Your Business Operations",
-          "subtitle": "Intelligent Automation Solutions",
-          "description": "Transform efficiency, reduce manual work, and unlock your business's full potential"
-        },
-        "1Title": "Integration & Workflow Automation",
-        "1Description": "Comprehensive automation strategies using top platforms like Make.com, Zapier, and n8n to create seamless, intelligent workflows that connect your entire business ecosystem",
-        "2Title": "Marketing Automation Ecosystem",
-        "2Description": "Automate lead generation, customer engagement, and marketing processes with advanced tools that synchronize your CRM, email marketing, social media, and analytics platforms",
-        "3Title": "AI-Powered Automation Intelligence",
-        "3Description": "Leverage cutting-edge AI and machine learning to develop smart automation agents that handle complex tasks, predictive analysis, and intelligent decision-making across your organization",
-        "4Title": "Custom Automation Development",
-        "4Description": "Create bespoke automation solutions using Python, Node.js, and serverless architectures, tailored precisely to your unique business requirements and technological infrastructure",
-        "5Title": "E-commerce Process Automation",
-        "5Description": "Streamline inventory management, order processing, customer support, and sales tracking with integrated automation solutions that reduce errors and accelerate business operations",
-        "6Title": "Enterprise Automation Strategy",
-        "6Description": "Comprehensive automation consulting that maps your entire business process, identifies optimization opportunities, and implements scalable, cost-effective automation solutions across departments"
-      },
+    
 
       
       "featuresTab": {
@@ -98,6 +80,70 @@
         "tab3Description1": "Advanced services will allow you to automate many processes in your company, gaining a lot of time, which allows you to focus on the essence of your business.",
         "tab3Description2": "Using advanced analytical tools, we provide you with valuable insights that help make more informed business decisions. With automation and analysis, your company can achieve better results and become significantly more competitive in the market."
       },
+
+      "crmFeaturesTab": {
+  "title": {
+    "one": "Comprehensive Implementation Services",
+    "two": "Modern CRM and Management Systems",
+    "three": "Optimization of Management and Control"
+  },
+  "header": {
+    "tabOne": "Notion and Other Platform Implementations",
+    "tabTwo": "CRM Tailored to Your Needs",
+    "tabThree": "Wiki and Management Systems"
+  },
+  "tab1Title": "Notion Implementations for Individual Needs",
+  "tab1Description1": "We offer comprehensive customization of the Notion platform to meet your unique goals, such as project management, time planning, or building knowledge bases. We create solutions that support your priorities and objectives.",
+  "tab1Description2": "We develop workspace structures, automations, and integrations with other tools to maximize the efficiency of Notion. We support the implementation process and provide user training.",
+  "tab2Title": "CRM Systems Tailored to Your Needs",
+  "tab2Description1": "We design and implement CRM systems that meet the specific requirements of your company. We help streamline customer relationship management, automate processes, and increase team efficiency.",
+  "tab2Description2": "We integrate CRM systems with your existing tools and processes. We offer a personalized approach, technical support, and continuous optimization after implementation.",
+  "tab3Title": "Knowledge and Process Management Platforms",
+  "tab3Description1": "We design e-learning platforms and knowledge management systems that support effective team training and process organization within the company.",
+  "tab3Description2": "We create intuitive solutions with features for progress tracking, content personalization, and integration with other systems. Our platforms enhance team productivity and support organizational growth."
+},
+
+      "agentsFeatures": {
+  "header": {
+    "title": "AI Chatbots and Assistants",
+    "subtitle": "Personalized AI Agents",
+    "description": "Personalized to Your Company Needs and Requirements"
+  },
+  "1Title": "Internal workflows and documents AI",
+  "1Description": "AI Agents designed to manage and streamline internal workflows and documentation, ensuring seamless task delegation, real-time collaboration, and secure data management.",
+  "2Title": "Customer support",
+  "2Description": "AI Agents for customer support that handle inquiries, provide instant solutions, and improve user satisfaction through natural language understanding and context-aware responses.",
+  "3Title": "Lead Generation Agents",
+  "3Description": "Smart AI Agents that specialize in identifying potential customers, qualifying leads, and automating follow-ups to maximize conversion rates and sales efficiency.",
+  "4Title": "Sales and Ecommerce Chatbots",
+  "4Description": "AI-powered chatbots tailored for sales and e-commerce, offering personalized product recommendations, upselling, and real-time customer assistance to boost revenue.",
+  "5Title": "Voice AI Agents",
+  "5Description": "Voice-enabled AI Agents that enhance customer interaction, streamline communication, and provide hands-free solutions for support, inquiries, and task management.",
+  "6Title": "Individual Solutions",
+  "6Description": "Custom AI Agents designed to address unique business challenges, integrating seamlessly into existing systems to deliver scalable, efficient, and innovative solutions."
+},
+
+  "automationFeatures": {
+        "header": {
+          "title": "Streamline Your Business Operations",
+          "subtitle": "Intelligent Automation Solutions",
+          "description": "Transform efficiency, reduce manual work, and unlock your business's full potential"
+        },
+        "1Title": "Integration & Workflow Automation",
+        "1Description": "Comprehensive automation strategies using top platforms like Make.com, Zapier, and n8n to create seamless, intelligent workflows that connect your entire business ecosystem",
+        "2Title": "Marketing Automation Ecosystem",
+        "2Description": "Automate lead generation, customer engagement, and marketing processes with advanced tools that synchronize your CRM, email marketing, social media, and analytics platforms",
+        "3Title": "AI-Powered Automation Intelligence",
+        "3Description": "Leverage cutting-edge AI and machine learning to develop smart automation agents that handle complex tasks, predictive analysis, and intelligent decision-making across your organization",
+        "4Title": "Custom Automation Development",
+        "4Description": "Create bespoke automation solutions using Python, Node.js, and serverless architectures, tailored precisely to your unique business requirements and technological infrastructure",
+        "5Title": "E-commerce Process Automation",
+        "5Description": "Streamline inventory management, order processing, customer support, and sales tracking with integrated automation solutions that reduce errors and accelerate business operations",
+        "6Title": "Enterprise Automation Strategy",
+        "6Description": "Comprehensive automation consulting that maps your entire business process, identifies optimization opportunities, and implements scalable, cost-effective automation solutions across departments"
+      },
+
+
       "ai": {
         "hero": {
           "header1": "Custom powerful AI Assistants and Agents",
@@ -111,6 +157,7 @@
           "button": "Let's Start the Project"
       }
          },
+
       "about": {
         "header1": {
           "header1": "Individual",
@@ -126,6 +173,26 @@
           "button": "Let's Start the Project"
       }
          },
+
+      "aboutCrm": {
+  "header1": {
+    "header1": "Tailored",
+    "header2": "Business Systems",
+    "header3": "Comprehensive Solutions",
+    "header4": "For Companies",
+    "desc1": "We design and implement personalized systems that optimize processes, enhance collaboration, and address the most critical operational challenges for businesses."
+  },
+  "header2": {
+    "header1": "Transform Your Business",
+    "header2": "With Advanced Solutions",
+    "desc1": "Utilizing cutting-edge CRM systems, knowledge management platforms, and process automation tools, we create modern, scalable solutions customized to meet the specific needs of your company and industry.",
+    "button": "Start Your Implementation"
+  }
+},
+  
+
+
+
         "genai": 
          {
               "header1": "Generative AI",
@@ -312,6 +379,27 @@
                 "desc": "Utilizing the latest artificial intelligence technologies, which is one of the greatest revolutions of our time. Our carefully crafted approach encompasses the latest ideas and techniques tailored to your specific industry and goals."
               }
         },
+
+      
+        "supportbot": {
+          "header": "Intelligent AI Assistants Designed for Your Unique Requirements",
+          "desc1": "I specialize in creating cutting-edge custom AI assistants that leverage natural language processing and advanced AI capabilities to solve your business challenges. Whether you need a virtual assistant, customer support bot, or a tool to automate internal workflows, I ensure each solution is fully personalized to your specific goals and operational needs.",
+          "desc2": "From seamless integration with platforms like WordPress, CRMs, or e-commerce systems, to enabling multi-channel communication, my AI assistants deliver exceptional user experiences. They provide actionable recommendations, automate repetitive tasks, and empower your team or customers to achieve more with less effort.",
+          "integrations": "Integrations",
+          "integrationsText": "Integrated with platforms like WordPress, Slack, CRM systems, or custom APIs to ensure smooth deployment and scalability.",
+          "engine":"AI Engine",
+          "usecases": "Customer support automation, product recommendations, internal task management, personalized marketing assistants, and more."
+        },
+
+        "voicebot": {
+          "header": "AI Voice Assistants Designed for Unique Business Needs",
+          "desc1": "The service focuses on creating advanced AI voice chatbots and assistants that enable natural, human-like interactions for businesses. By leveraging cutting-edge speech recognition, natural language processing, and text-to-speech technologies, these solutions enhance customer engagement, optimize operations, and automate repetitive tasks through voice-based communication.",
+          "desc2": "These voice assistants integrate seamlessly with telephony systems, mobile applications, and smart devices, while also supporting multiple languages for a personalized experience. Whether managing customer inquiries, scheduling appointments, or providing real-time assistance, these AI-powered solutions are designed to improve efficiency and deliver outstanding user experiences.",
+          "integrations": "Compatible with telephony systems, IVR platforms, mobile applications, smart speakers, and custom APIs to ensure smooth deployment and scalability.",
+          "usecases": "Applications include voice-based customer support, appointment scheduling, real-time FAQ assistance, hands-free task automation, and personalized voice-driven marketing.",
+          "details":"Details"
+        },
+
         "mainPortfolio": {
             "header1": "Ai Arts",
             "header2": "Generative AI For Business",
@@ -691,6 +779,25 @@
     }
   }
 },
+
+"SupportBotFeaturesTab": {
+  "mainheader": "Details of our Support AI Agent",
+  "header": {
+    "tabOne": "Your Custom Data",
+    "tabTwo": "Personalized Behavior And Workflow",
+    "tabThree": "Integrations with CRMs and Your Tools"
+  },
+  "tab1Title": "Your Custom Data including products and services",
+  "tab1Description1": "Our AI agents enable seamless integration with your custom data, including product catalogs, service lists, and internal knowledge bases, ensuring personalized and context-aware interactions.",
+  "tab1Description2": "By leveraging your unique data, we create solutions that provide accurate responses, streamline customer queries, and enhance operational insights tailored to your offerings.",
+  "tab2Title": "Personalized Behavior And Workflow tailored to Your needs",
+  "tab2Description1": "Our AI solutions are crafted to align with your specific business processes, adapting workflows and interactions to reflect your unique organizational needs and goals.",
+  "tab2Description2": "We design automation workflows that seamlessly integrate with your operations, improving responsiveness, minimizing errors, and providing consistent, personalized experiences for your customers.",
+  "tab3Title": "Integrations with CRMs as Your Platforms and Tools",
+  "tab3Description1": "We specialize in embedding AI into your CRM and tool ecosystem, enabling intelligent data handling, workflow automation, and enhanced customer management capabilities.",
+  "tab3Description2": "Our integration services enhance your existing platforms with AI-driven features, optimizing communication, data analysis, and content management to support informed decision-making and operational efficiency."
+},
+
 "heroAiSection": {
   "header": {
     "title": "AI Technologies",
