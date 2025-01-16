@@ -294,7 +294,7 @@
             "header": "Portfolio",
             "button1": "Apps",
             "button2": "Marketing & SEO",
-            "button3": "AI Automations",
+            "button3": "AI",
             "button4": "Generative AI",
             "button5": "Github",
             "button6": "AI Agents",
@@ -412,6 +412,24 @@
             "company": "Company",
             "industry": "Industry", 
             "tech": "Project Technologies.",
+            "voiceflowecom": {
+              "details": "Project Details",
+              "company": "Company",
+              "industry": "Industry",
+              "tech": "Project Technologies",
+              "header": "AI Agent with Product Recommendation System",
+              "desc1": "An advanced AI agent built in Voiceflow, designed to enhance user experience through intelligent product recommendations. The agent uses dynamic conversational flows to engage users, understand their preferences, and suggest tailored solutions or products.",
+              "desc2": "The project features seamless integration with external APIs for real-time data access and product updates. The AI agent is equipped with contextual understanding, allowing it to provide accurate recommendations, answer user queries, and adapt interactions to ensure a personalized and efficient shopping experience."
+            },
+            "ainsiderlink": {
+              "details": "Project Details",
+              "company": "Company",
+              "industry": "Industry",
+              "tech": "Project Technologies",
+              "header": "Personal Portfolio with Link Presentation and AI Assistant",
+              "desc1": "A web application built with Next.js that combines the functionality of a personalized link management system (Linktree) with an advanced AI assistant. It enables the presentation of personalized content, links, and dynamic interaction with users through an embedded AI tailored to individual needs.",
+              "desc2": "The project stands out with its full customization options for the appearance, layout, and features of the application. Additionally, the advanced personal AI assistant supports users in organization, answers questions, and provides real-time personalized recommendations, creating a unique interaction experience with the portfolio."
+            },
             "item1": {
                 "details": "Project Details",
                 "company": "Company",

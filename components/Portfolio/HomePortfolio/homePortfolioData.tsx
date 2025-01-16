@@ -12,6 +12,24 @@ const BlogData: Portfolio[] = [
   },
   { 
     _id: 0.1,
+    mainImage: "/images/portfolio/ainsiderlink.jpg",
+    title: "Personal Portfolio with Links and AI Assitant",
+    metadata:
+      "Personalized portfolio app with various social links and AI Assitant build in Next.js",
+      urlLink:"/portfolio/ainsider-link",
+      tags: ["ai", "web"],
+  },
+  { 
+    _id: 0.2,
+    mainImage: "/images/portfolio/voiceflowecom.png",
+    title: "AI Agent for Ecommerce with Products Recommendation",
+    metadata:
+      "Advanced personalized AI Agent for Ecommerce with Products Recommendation build in Voiceflow",
+      urlLink:"/portfolio/voiceflow-ecommerce",
+      tags: ["ai", "agents"],
+  },
+  { 
+    _id: 0.2,
     mainImage: "/images/portfolio/uichatbot.jpg",
     title: "Multimodal Chatbot at Next.js",
     metadata:

@@ -12,15 +12,24 @@ const BlogData: Portfolio[] = [
   },
   { 
     _id: 0.1,
-    mainImage: "/images/portfolio/uichatbot.jpg",
-    title: "Multimodal Chatbot at Next.js",
+    mainImage: "/images/portfolio/ainsiderlink.jpg",
+    title: "Personal Portfolio with Links and AI Assitant",
     metadata:
-      "Multimodal Custom Ai Assistant with user log-in, memory build in Next.js",
-      urlLink:"/portfolio/insdr-chatbot",
-      tags: ["ai", "agents"],
+      "Personalized portfolio app with various social links and AI Assitant build in Next.js",
+      urlLink:"/portfolio/ainsider-link",
+      tags: ["ai", "web"],
   },
   { 
     _id: 0.2,
+    mainImage: "/images/portfolio/voiceflowecom.png",
+    title: "AI Agent for Ecommerce with Products Recommendation",
+    metadata:
+      "Advanced personalized AI Agent for Ecommerce with Products Recommendation build in Voiceflow",
+      urlLink:"/portfolio/voiceflow-ecommerce",
+      tags: ["ai", "agents"],
+  },
+  { 
+    _id: 0.3,
     mainImage: "/images/portfolio/voicebot.jpg",
     title: "Voice AI Assistant for Szkolajazdymachowski.pl",
     metadata:
@@ -29,7 +38,7 @@ const BlogData: Portfolio[] = [
       tags: ["ai", "agents"],
   },
   { 
-    _id: 0.3,
+    _id: 0.4,
     mainImage: "/images/portfolio/aiwareCloud.jpg",
     title: "Ainsider.cloud",
     metadata:

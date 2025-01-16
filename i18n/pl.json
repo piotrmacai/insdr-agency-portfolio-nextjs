@@ -289,9 +289,9 @@
             "header": "Portfolio",
             "button1": "Apps",
             "button2": "Marketing & SEO",
-            "button3": "Automatyzacje",
+            "button3": "AI",
             "button4": "Generatywna AI",
-            "button6": "Asystenci AI",
+            "button6": "Agenci AI",
             "button5": "Github",
             "buttonBehance": "Behance",
             "buttonArtstation": "Artstation",
@@ -460,7 +460,25 @@
             "company": "Firma",
             "industry": "Branża",
             "tech": "Technologie Projektu",
-            "item1": {
+            "voiceflowecom": {
+              "details": "Szczegóły Projektu",
+              "company": "Firma",
+              "industry": "Branża",
+              "tech": "Technologie Projektu", 
+              "header": "Agent AI z Systemem Rekomendacji Produktów",
+              "desc1": "Zaawansowany agent AI stworzony w Voiceflow, zaprojektowany w celu poprawy doświadczenia użytkownika dzięki inteligentnym rekomendacjom produktów. Agent wykorzystuje dynamiczne przepływy konwersacyjne, aby angażować użytkowników, rozumieć ich preferencje i proponować dopasowane rozwiązania lub produkty.",
+              "desc2": "Projekt oferuje płynną integrację z zewnętrznymi API w celu uzyskiwania danych w czasie rzeczywistym oraz aktualizacji produktów. Agent AI jest wyposażony w zrozumienie kontekstowe, co pozwala na dokładne rekomendacje, odpowiadanie na pytania użytkowników oraz dostosowywanie interakcji, aby zapewnić spersonalizowane i efektywne doświadczenie zakupowe."
+                 },
+              "ainsiderlink": {
+                "details": "Szczegóły Projektu",
+                "company": "Firma",
+                "industry": "Branża",
+                "tech": "Technologie Projektu", 
+                "header": "Personalne Portfolio z prezentacją linków i Asystentem AI",
+                "desc1": "Aplikacja webowa stworzona w Next.js, która łączy w sobie funkcjonalność personalizowanego systemu zarządzania linkami (Linktree) z zaawansowanym asystentem AI. Umożliwia prezentację spersonalizowanych treści, linków oraz dynamiczną interakcję z użytkownikami dzięki wbudowanemu AI, dopasowanemu do indywidualnych potrzeb.",
+                "desc2": "Projekt wyróżnia się pełną możliwością dostosowania wyglądu, układu oraz funkcji aplikacji. Dodatkowo, zaawansowany personalny asystent AI wspiera użytkowników w organizacji, odpowiada na pytania oraz dostarcza spersonalizowane rekomendacje w czasie rzeczywistym, tworząc unikalne doświadczenie interakcji z portfolio."  
+                },
+              "item1": {
                 "details": "Szczegóły Projektu",
                 "company": "Firma",
                 "industry": "Branża",
