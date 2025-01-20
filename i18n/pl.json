@@ -8,6 +8,11 @@
     "herocontact": "Wyślij",
     "leaveemail": "Zostaw swój email",
 
+    "cookies": {
+      "message": "Używamy plików cookie, aby poprawić Twoje doświadczenia podczas przeglądania. Kontynuując korzystanie z naszej strony, zgadzasz się na naszą",
+      "privacyLink": "Politykę Prywatności",
+      "accept": "Akceptuj"
+    },
 
     "features": {
       "header": {
