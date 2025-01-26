@@ -52,7 +52,7 @@ const getTranslatedMenuData = () => {
           id: 3,
           title: "AI Newsletter",
           newTab: true,
-          path: "https://ainsider.beehiiv.com/",
+          path: t('header.menubeehiiv'),
           icon: "/images/icon/phone.svg",
         },
         {
@@ -66,7 +66,7 @@ const getTranslatedMenuData = () => {
           id: 3,
           title: t('header.menu14'),
           newTab: true,
-          path: "https://ainsider.tools",
+          path: t('header.menutools'),
           icon: "/images/icon/phone.svg",
         },
         // {

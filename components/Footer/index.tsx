@@ -130,10 +130,18 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="https://ainsider.beehiiv.com/"
+                        href="https://ainsider.pl/"
                         className="inline-block hover:text-primary mb-3"
                       >
                          AI Newsletter
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://ainsider.beehiiv.com/"
+                        className="inline-block hover:text-primary mb-3"
+                      >
+                         AI Newsletter PL
                       </a>
                     </li>
                     <li>
