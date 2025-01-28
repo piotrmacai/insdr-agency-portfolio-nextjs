@@ -109,6 +109,15 @@ const BlogData: Portfolio[] = [
       urlLink:"/portfolio/ainsiderbot",
       tags: ["ai", "agents"],
   },
+  { 
+    _id: 1.5,
+    mainImage: "/images/portfolio/klicious.jpg",
+    title: "K-licious.pl",
+    metadata:
+      "Website and Ecom for Creative Company",
+      urlLink:"/portfolio/klicious",
+      tags: ["web"],
+  },
   // { 
   //   _id: 3,
   //   mainImage: "/images/portfolio/ainspire.jpg",

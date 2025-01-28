@@ -489,6 +489,7 @@
             "company": "Firma",
             "industry": "Branża",
             "tech": "Technologie Projektu",
+            
             "voiceflowecom": {
               "details": "Szczegóły Projektu",
               "company": "Firma",
@@ -657,6 +658,10 @@
               "pgr": {
                 "industry": "Inteligentne Domy i Elektryka",
                 "desc1": "Strona internetowa pgr-elektroteam.pl to nowoczesna platforma online zaprojektowana w celu zapewnienia łatwego dostępu do informacji o usługach firmy oraz usprawnienia procesu generowania leadów. Projekt został zrealizowany przy użyciu WordPressa z niestandardowym kodem CSS i JS."
+               },
+               "klicious": {
+                "industry": "Creative / Choreografia i Taniec",
+                "desc1": "Strona internetowa k-licious.pl to nowoczesna platforma stworzona na WordPressie, która oferuje kompleksowe usługi w zakresie choreografii i tańca. Dzięki WooCommerce, sklep internetowy zapewnia łatwe zakupy online, umożliwiając klientom dostęp do różnorodnych kursów i materiałów tanecznych. Projekt został zaprojektowany z myślą o intuicyjnej nawigacji i estetyce, co sprawia, że użytkownicy mogą łatwo znaleźć interesujące ich usługi oraz produkty związane z tańcem."
                },
               "jazda": {
                 "industry": "Edukacja / Rozwój Zawodowy",

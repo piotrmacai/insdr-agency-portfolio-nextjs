@@ -606,6 +606,10 @@
               "industry":"Smart Home & Electricity",
               "desc1":"The website pgr-elektroteam.pl is a modern online platform designed to provide easy access to information about services of company and streamline the lead generation process. The project was realized using Wordpress with custom CSS and JS code." 
             },
+            "klicious": {
+              "industry": "Creative / Choreography and Dance",
+              "desc1": "The website k-licious.pl is a modern platform built on WordPress that offers comprehensive services in choreography and dance. With WooCommerce, the online store provides easy online shopping, allowing customers access to a variety of dance courses and materials. The project was designed with intuitive navigation and aesthetics in mind, making it easy for users to find the services and products related to dance that interest them."
+            },
              "jazda": {
                 "industry":"Education / Professional development",
                 "desc1":"The website szkolajazdymachowski.pl is a modern online platform designed to provide easy access to information about driving courses and streamline the registration process for future students. The project was realized using HTML, CSS, and JavaScript technologies, ensuring speed, responsiveness, and excellent compatibility with various devices and browsers.",
