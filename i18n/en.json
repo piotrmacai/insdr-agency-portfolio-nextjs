@@ -19,22 +19,6 @@
       "accept": "Accept"
     },
 
- 
-    "apps": {
-      "header": "Collection of Free AI Assistants and Chatbots",
-      "desc": "Created to assist in various, yet most essential tasks.",
-      "desc1": "Copywriting | Images | Social media | Productivity.",
-      "headertut": "Instructions",
-      "desctut1": "1. Create an account on the platform of your choice that allows for fully free use of AI.",
-      "desctut2": "2. Log in and select the AI Assistant you need.",
-      "desctut3": "3. That's it - you can use AI Assistants completely for free!",
-      "images":"Images & Graphics",
-      "writing":"Writing",
-      "resources":"AI Resources",
-      "all":"All",
-      "socialmedia":"Social Media"
-  },
-
   "features": {
     "header": {
       "title": "How can we help you?",
@@ -168,11 +152,7 @@
         "hero": {
           "header1": "Custom powerful AI Assistants and Agents",
           "header2": "Perfectly suited to your business",
-          "desc1": "Innoative voice and text AI chatbots for various tasks.",
-          "desc2": "Any knowledge base - from various sources",
-          "desc3": "Precisely defined behaviors, tone, and response format",
-          "desc4": "Integrations with any platforms and CRM systems",
-          "desc5": "Custom-tailored automations"
+          "desc1": "Innoative voice and text AI chatbots for various tasks."
         },
       "header2": {
           "header1": "Elevate Your Business",
@@ -295,8 +275,7 @@
             "button": " Contact"
         },
         "contact": {
-            "headermain": "Ready to get started? Let’s bring your project to life today",
-            "header": "A quote tailored for you – fill out the form and get your offer!",
+            "header": "Project Pricing",
             "button": "Send Message",
             "consent":"I consect to process my personal data",
             "header2": "Let's get to know",
@@ -317,7 +296,7 @@
         },
         "portfolio": {
             "header": "Portfolio",
-            "button1": "Web & Apps",
+            "button1": "Apps",
             "button2": "Marketing & SEO",
             "button3": "AI",
             "button4": "Generative AI",
@@ -351,10 +330,7 @@
             "menu13":"Courses and Guides",
             "menu14":"AI Tools Library",
             "menu15": "Web & Automations",
-            "menutools": "https://ainsider.tools",
-            "menubeehiiv": "https://ainsider.beehiiv.com",
             "menu12":"AI Bots",
-            "menuapps":"Our AI Apps",
             "pricing": "Pricing",
             "menuServices":"Web",
             "menuAutomations":"Automations",
@@ -448,6 +424,16 @@
               "header": "AI Agent with Product Recommendation System",
               "desc1": "An advanced AI agent built in Voiceflow, designed to enhance user experience through intelligent product recommendations. The agent uses dynamic conversational flows to engage users, understand their preferences, and suggest tailored solutions or products.",
               "desc2": "The project features seamless integration with external APIs for real-time data access and product updates. The AI agent is equipped with contextual understanding, allowing it to provide accurate recommendations, answer user queries, and adapt interactions to ensure a personalized and efficient shopping experience."
+            },
+            "deepseekrag": {
+              "details": "Project Details",
+              "company": "Company",
+              "industry": "Industry",
+              "tech": "Project Technologies",
+              "header": "DeepSeek Local RAG AI Assistant",
+              "desc1": "Private RAG AI Assistant build with DeepSeek and Ollama",
+              "desc2": "Leveraging the power of DeepSeek and Ollama, this AI assistant offers an unmatched level of customization, from appearance to functionality. Users can personalize their experience, enhancing productivity, organization, and decision-making with tailored support, intelligent insights, and adaptive recommendations.",
+              "desc3": "With seamless integration of cutting-edge AI models, the assistant learns and evolves based on user preferences, ensuring continuous improvement. Whether for personal use or business, it provides an intuitive, AI-powered solution that grows smarter over time, empowering users to achieve their goals more efficiently."
             },
             "ainsiderlink": {
               "details": "Project Details",
@@ -606,10 +592,6 @@
               "industry":"Smart Home & Electricity",
               "desc1":"The website pgr-elektroteam.pl is a modern online platform designed to provide easy access to information about services of company and streamline the lead generation process. The project was realized using Wordpress with custom CSS and JS code." 
             },
-            "klicious": {
-              "industry": "Creative / Choreography and Dance",
-              "desc1": "The website k-licious.pl is a modern platform built on WordPress that offers comprehensive services in choreography and dance. With WooCommerce, the online store provides easy online shopping, allowing customers access to a variety of dance courses and materials. The project was designed with intuitive navigation and aesthetics in mind, making it easy for users to find the services and products related to dance that interest them."
-            },
              "jazda": {
                 "industry":"Education / Professional development",
                 "desc1":"The website szkolajazdymachowski.pl is a modern online platform designed to provide easy access to information about driving courses and streamline the registration process for future students. The project was realized using HTML, CSS, and JavaScript technologies, ensuring speed, responsiveness, and excellent compatibility with various devices and browsers.",
@@ -764,10 +746,11 @@
         "tab3Description1": "Advanced services will allow you to automate many processes in your company, gaining a lot of time, which allows you to focus on the essence of your business.",
         "tab3Description2": "Using advanced analytical tools, I provide you with valuable insights that help make more informed business decisions. With automation and analysis, your company can achieve better results and become significantly more competitive in the market."
       },
-      "privacy": {
-"head": "PRIVACY POLICY AND COOKIES INSDR.CLOUD",
+
+"privacy": {
+"head": "PRIVACY POLICY AND COOKIES MACAI.STUDIO",
 "head1": "§1. GENERAL PROVISIONS",
-"desc1": "GENERAL PROVISIONS - This Privacy Policy defines the principles of processing and protection of personal data of Customers of the Internet Platform https://insdr.cloud (hereinafter referred to as the Platform), operated by Piotr Machowski (hereinafter referred to as the Administrator). The Administrator makes every effort to process personal data of Customers in accordance with applicable laws, in particular with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).",
+"desc1": "GENERAL PROVISIONS - This Privacy Policy defines the principles of processing and protection of personal data of Customers of the Internet Platform https://macai.studio (hereinafter referred to as the Platform), operated by Piotr Machowski (hereinafter referred to as the Administrator). The Administrator makes every effort to process personal data of Customers in accordance with applicable laws, in particular with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).",
 "head2": "§2. TYPE OF PROCESSED DATA",
 "desc2": "The Administrator processes personal data of Customers necessary to fulfill orders, including: first name, last name, email address, phone number, delivery address. Additionally, while using the Platform, the Administrator may collect information about the Customer's activity, such as: history of visited pages, and for the purposes of handling forms and project quotes.",
 "head3": "§3. PURPOSE AND LEGAL BASIS FOR DATA PROCESSING",
@@ -775,11 +758,11 @@
 "head4": "§4. DISCLOSURE AND TRANSFER OF DATA",
 "desc4": "Personal data of Customers may be disclosed to entities providing services to the Administrator, such as: IT providers, accounting offices, etc. Personal data of Customers will not be transferred outside the European Economic Area.",
 "head5": "§5. CUSTOMERS' RIGHTS",
-"desc5": "Customers have the right to access their personal data, rectify, delete, restrict processing, transfer data, object, and withdraw consent to data processing. To exercise their rights, Customers may contact the Administrator electronically at piotr@insdr.cloud.",
+"desc5": "Customers have the right to access their personal data, rectify, delete, restrict processing, transfer data, object, and withdraw consent to data processing. To exercise their rights, Customers may contact the Administrator electronically at piotr@macai.studio.",
 "head6": "§6. FINAL PROVISIONS",
 "desc6": "This Privacy Policy enters into force on 22.05.2024. The Administrator reserves the right to amend this Privacy Policy. Customers will be informed of any changes electronically.",
 "head7": "",
-"headcook": "COOKIES POLICY INSDR.CLOUD",
+"headcook": "COOKIES POLICY MACAI.STUDIO",
 "cook1": "Cookies - small text files sent by a www server and stored on the user's end device (e.g. computer, smartphone) when using websites. Session cookies - cookies deleted after the browser session ends. Persistent cookies - cookies remaining on the user's device for a specified time. First-party cookies - cookies placed by the website the user is currently visiting. Third-party cookies - cookies placed by sites other than the visited website.",
 "headcook1": "§1. DEFINITIONS",
 "cook2": "The Administrator uses the following types of cookies: a) Necessary for the operation of the Store: Storing the contents of the cart, Remembering user login, Adapting displayed content to the user. b) Functional: Remembering user preferences (e.g. language, region), Remembering page appearance settings. c) Analytical: Measuring traffic on the page to improve its functioning, Generating anonymous statistics and reports. d) Marketing: Personalizing ads displayed to the user, Analyzing the effectiveness of marketing campaigns.",
@@ -790,7 +773,7 @@
 "headcook4": "§4. THIRD-PARTY COOKIES",
 "cook5": "The Store's website may also include cookies from third parties, such as: a) Analytical service providers (e.g. Google Analytics), b) Advertising service providers (e.g. Google Ads), c) Entities providing social media plugins. Third-party cookies are subject to separate privacy policies of those entities",
 "headcook5": "§5. CONTACT AND COMPLAINTS",
-"cook6": "For matters related to the use of cookies on the Store's website, the user can contact the Administrator at the email address: piotr@insdr.cloud. The user has the right to lodge a complaint with the supervisory authority (President of the Personal Data Protection Office) regarding violations of personal data protection regulations.",
+"cook6": "For matters related to the use of cookies on the Store's website, the user can contact the Administrator at the email address: piotr@macai.studio. The user has the right to lodge a complaint with the supervisory authority (President of the Personal Data Protection Office) regarding violations of personal data protection regulations.",
 "headcook6": "§6. FINAL PROVISIONS",
 "cook7": "This Cookie Policy enters into force on 01.05.2024. The Administrator reserves the right to amend this Cookie Policy. Customers will be informed of any changes electronically."
 },

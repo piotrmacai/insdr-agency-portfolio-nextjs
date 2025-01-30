@@ -499,6 +499,16 @@
               "desc1": "Zaawansowany agent AI stworzony w Voiceflow, zaprojektowany w celu poprawy doświadczenia użytkownika dzięki inteligentnym rekomendacjom produktów. Agent wykorzystuje dynamiczne przepływy konwersacyjne, aby angażować użytkowników, rozumieć ich preferencje i proponować dopasowane rozwiązania lub produkty.",
               "desc2": "Projekt oferuje płynną integrację z zewnętrznymi API w celu uzyskiwania danych w czasie rzeczywistym oraz aktualizacji produktów. Agent AI jest wyposażony w zrozumienie kontekstowe, co pozwala na dokładne rekomendacje, odpowiadanie na pytania użytkowników oraz dostosowywanie interakcji, aby zapewnić spersonalizowane i efektywne doświadczenie zakupowe."
                  },
+                "deepseekrag": {
+                "details": "Szczegóły Projektu",
+                "company": "Firma",
+                "industry": "Branża",
+                "tech": "Technologie Projektu",
+                "header": "Lokalny Asystent AI RAG oparty na modelu DeepSeek",
+                "desc1": "Prywatny Asystent AI RAG zbudowany z wykorzystaniem DeepSeek i Ollama",
+                "desc2": "Wykorzystując moc DeepSeek i Ollama, ten asystent AI oferuje niezrównany poziom personalizacji, od wyglądu po funkcjonalność. Użytkownicy mogą dostosować swoje doświadczenie, zwiększając produktywność, organizację i podejmowanie decyzji dzięki spersonalizowanemu wsparciu, inteligentnym spostrzeżeniom i adaptacyjnym rekomendacjom.",
+                "desc3": "Dzięki płynnej integracji najnowocześniejszych modeli AI, asystent uczy się i rozwija w oparciu o preferencje użytkownika, zapewniając ciągłe doskonalenie. Niezależnie od tego, czy jest przeznaczony do użytku osobistego, czy biznesowego, zapewnia intuicyjne rozwiązanie oparte na sztucznej inteligencji, które z czasem staje się mądrzejsze, umożliwiając użytkownikom skuteczniejsze osiąganie swoich celów."
+                },
               "ainsiderlink": {
                 "details": "Szczegóły Projektu",
                 "company": "Firma",

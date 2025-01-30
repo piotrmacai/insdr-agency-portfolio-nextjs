@@ -3,6 +3,15 @@ import { Portfolio } from "@/types/portfolio";
 const BlogData: Portfolio[] = [
   { 
     _id: 0,
+    mainImage: "/images/portfolio/deepseekimg.png",
+    title: "DeepSeek Local RAG AI Assistant",
+    metadata:
+      "Private RAG AI Assistant build with DeepSeek and Ollama",
+      urlLink:"/portfolio/deepseek",
+      tags: ["ai", "agents"],
+  },
+  { 
+    _id: 0.1,
     mainImage: "/images/portfolio/voicebot2.jpg",
     title: "Voice AI Assistant for Macai.studio",
     metadata:
@@ -11,7 +20,7 @@ const BlogData: Portfolio[] = [
       tags: ["ai", "agents"],
   },
   { 
-    _id: 0.1,
+    _id: 0.2,
     mainImage: "/images/portfolio/ainsiderlink.jpg",
     title: "Personal Portfolio with Links and AI Assitant",
     metadata:
@@ -20,7 +29,7 @@ const BlogData: Portfolio[] = [
       tags: ["ai", "web"],
   },
   { 
-    _id: 0.2,
+    _id: 0.3,
     mainImage: "/images/portfolio/voiceflowecom.png",
     title: "AI Agent for Ecommerce with Products Recommendation",
     metadata:
@@ -29,7 +38,7 @@ const BlogData: Portfolio[] = [
       tags: ["ai", "agents"],
   },
   { 
-    _id: 0.3,
+    _id: 0.4,
     mainImage: "/images/portfolio/voicebot.jpg",
     title: "Voice AI Assistant for Szkolajazdymachowski.pl",
     metadata:
@@ -38,7 +47,7 @@ const BlogData: Portfolio[] = [
       tags: ["ai", "agents"],
   },
   { 
-    _id: 0.4,
+    _id: 0.5,
     mainImage: "/images/portfolio/aiwareCloud.jpg",
     title: "Ainsider.store",
     metadata:
