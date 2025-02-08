@@ -69,6 +69,13 @@ const getTranslatedMenuData = () => {
           path: t('header.menutools'),
           icon: "/images/icon/phone.svg",
         },
+        {
+          id: 8,
+          title: "AI Agents Docs",
+          newTab: true,
+          path: "/docs",
+          icon: "/images/icon/phone.svg",
+        },
         // {
         //   id: 34,
         //   title:  t('header.menu10'),
@@ -130,6 +137,13 @@ const getTranslatedMenuData = () => {
           title: "Our AI Assitants",
           newTab: true,
           path: "/apps",
+          icon: "/images/icon/phone.svg",
+        }, 
+        {
+          id: 6,
+          title: "AI Agents Docs",
+          newTab: true,
+          path: "/docs",
           icon: "/images/icon/phone.svg",
         }, 
       ],

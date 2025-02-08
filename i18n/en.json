@@ -39,6 +39,86 @@
   "automationsDescription": "We create and integrate voice AI solutions to build advanced Voice AI Agents and Chatbots, that automate processes, simplify complex tasks, and provide scalable solutions for your business."
 },
 
+
+
+"docs": {
+  "flowise": {
+    "gettingStarted": {
+      "title": "Getting Started with Flowise",
+      "description": "Flowise is an open-source UI visual tool for building LLM flows. It allows you to create custom AI flows by dragging and dropping nodes.",
+      "prerequisites": {
+        "title": "Prerequisites",
+        "items": [
+          "Node.js v16 or higher",
+          "NPM v7 or higher",
+          "Basic understanding of LLMs"
+        ]
+      },
+      "cloudSection": {
+        "title": "Cloud",
+        "description": "Self-hosting requires more technical skill to setup instance, backing up database and maintaning updates. If you aren't experienced at managing servers and just want to use the webapp, we recommend using Flowise Cloud."
+      },
+      "selfHosting": {
+        "title": "Self-Hosting",
+        "prerequisite": "Pre-requisite: ensure NodeJS is installed on machine. Node v18.15.0 or v20 and above is supported.",
+        "setup1": {
+          "title": "Setup 1",
+          "description": "Simple setup using PNPM:",
+          "steps": {
+            "clone": "Clone the repository",
+            "cloneCommand": "git clone https://github.com/FlowiseAI/Flowise.git",
+            "enterRepo": "Go into repository folder",
+            "enterRepoCommand": "cd Flowise",
+            "install": "Install all dependencies of all modules",
+            "installCommand": "pnpm install",
+            "build": "Build the code",
+            "buildCommand": "pnpm build",
+            "start": "Start the app at http://localhost:3000",
+            "startCommand": "pnpm start"
+          }
+        },
+        "setup2": {
+          "title": "Setup 2",
+          "description": "Install Flowise locally using NPM.",
+          "steps": {
+            "install": "Install Flowise:",
+            "installCommand": "npm install -g flowise",
+            "versionNote": "You can also install a specific version. Refer to available versions.",
+            "versionCommand": "npm install -g flowise@x.x.x",
+            "start": "Start Flowise:",
+            "startCommand": "npx flowise start",
+            "open": "Open: http://localhost:3000"
+          }
+        }
+      }
+    }
+  },
+  "voiceflow": {
+    "gettingStarted": {
+      "title": "Getting Started with Voiceflow",
+      "description": "Voiceflow is a powerful platform for designing, prototyping, and deploying conversational AI experiences.",
+      "keyFeatures": {
+        "title": "Key Features",
+        "items": [
+          "Visual conversation designer",
+          "Natural language understanding",
+          "Multi-platform deployment"
+        ]
+      }
+    }
+  }
+},
+
+
+
+
+
+
+
+
+
+
+
 "webfeatures": {
     "header": {
       "title": "How can we help you?",
