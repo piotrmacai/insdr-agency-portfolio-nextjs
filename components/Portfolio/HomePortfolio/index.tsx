@@ -131,9 +131,9 @@ const Portfolio = () => {
                 <div className="flex justify-center">
         <a
         href="/portfolio"
-        className="flex pt-2 pb-2 pr-4 pl-4 items-center gap-2.5 text-black dark:text-white mt-12 hover:text-white dark:hover:text-black transition-colors duration-300"
+        className="flex pt-2 pb-2 pr-4 pl-4 items-center gap-2.5 text-dark dark:text-dark mt-12 transition-colors duration-300"
         style={{
-          backgroundColor: '#3D52D5',
+          backgroundColor: '#F3F3F3',
           borderRadius: '12px',
         }}
       >
