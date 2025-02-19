@@ -22,7 +22,7 @@ const SingleBlogPage = () => {
                 <ul>
                   <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>Link:</p>
-                    <a href="https://ainsider.store" className="text-white transition-all duration-300 hover:text-primary">Ainsider.store</a>
+                    <a href="https://store.ainsider.co/" className="text-white transition-all duration-300 hover:text-primary">store.ainsider.co</a>
                   </li>
                   <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>{t('mainPortfolio.company')}</p>
@@ -42,7 +42,7 @@ const SingleBlogPage = () => {
             <div className="lg:w-2/3">
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-7.5 md:p-10">
                 <h2 className="font-semibold text-3xl 2xl:text-sectiontitle2 text-black dark:text-white mb-5">
-                  Ainsider.store
+                store.ainsider.co
                 </h2>
                 <div className="mb-10 w-full overflow-hidden">
                   <div className="relative aspect-[97/60] w-full sm:aspect-[97/78]">

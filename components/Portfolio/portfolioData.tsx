@@ -49,7 +49,7 @@ const BlogData: Portfolio[] = [
   { 
     _id: 0.5,
     mainImage: "/images/portfolio/aiwareCloud.jpg",
-    title: "Ainsider.store",
+    title: "store.ainsider.co",
     metadata:
       "AI Platform with Ecommerce and Blog",
       urlLink:"/portfolio/ainsiderstore",
