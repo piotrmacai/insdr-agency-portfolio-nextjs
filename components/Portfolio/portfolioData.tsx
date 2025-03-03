@@ -2,6 +2,15 @@ import { Portfolio } from "@/types/portfolio";
 
 const BlogData: Portfolio[] = [
   { 
+    _id: 2.5,
+    mainImage: "/images/portfolio/ainsidertoolpl.png",
+    title: "Tools.ainsider.pl",
+    metadata:
+      "Ai Tools Directory for polish audience",
+      urlLink:"/portfolio/ainsidertoolspl",
+      tags: ["web", "ai"],
+  },
+  { 
     _id: 0,
     mainImage: "/images/portfolio/deepseekimg.png",
     title: "DeepSeek Local RAG AI Assistant",
@@ -48,11 +57,11 @@ const BlogData: Portfolio[] = [
   },
   { 
     _id: 0.5,
-    mainImage: "/images/portfolio/aiwareCloud.jpg",
-    title: "store.ainsider.co",
+    mainImage: "/images/portfolio/aainsiderpl.png",
+    title: "ainsider.pl",
     metadata:
-      "AI Platform with Ecommerce and Blog",
-      urlLink:"/portfolio/ainsiderstore",
+      "AI Knowledge Hub for polish audience Platform",
+      urlLink:"/portfolio/ainsiderpl",
       tags: ["web"],
   },
   { 
@@ -61,7 +70,7 @@ const BlogData: Portfolio[] = [
     title: "macai.studio",
     metadata:
       "Piotr Macai Personal Portfolio in React.js",
-      urlLink:"https://piotrmacai.com",
+      urlLink:"https://macai.studio",
       tags: ["web"],
   },
   { 
@@ -110,6 +119,15 @@ const BlogData: Portfolio[] = [
       tags: ["web"],
   },
   { 
+    _id: 0.22,
+    mainImage: "/images/portfolio/ainsiderco.png",
+    title: "Personal Portfolio Landing Page for AI Centre",
+    metadata:
+      "Personalized landing page and portfolio app with various social links and AI Assitant build in Next.js",
+      urlLink:"https://ainsider.co/",
+      tags: ["ai", "web"],
+  },
+  { 
     _id: 5,
     mainImage: "/images/portfolio/macaiStudio.jpg",
     title: "AI Assistant for Ainsider.tools",
@@ -126,6 +144,15 @@ const BlogData: Portfolio[] = [
       "Website and Ecom for Creative Company",
       urlLink:"/portfolio/klicious",
       tags: ["web"],
+  },
+  { 
+    _id: 0.22,
+    mainImage: "/images/portfolio/ainsidernew.png",
+    title: "AI and LLM Newsletter",
+    metadata:
+      "AI and LLM Newsletter providing insights, updates, and resources on artificial intelligence and language models.",
+      urlLink:"https://newsletter.ainsider.pl/",
+      tags: ["ai", "web"],
   },
   // { 
   //   _id: 3,

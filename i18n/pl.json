@@ -236,6 +236,184 @@
 "6Title": "Dedykowane rozwiązania AI dla biznesu",
 "6Description": "Indywidualnie projektowane systemy AI, które odpowiadają na specyficzne potrzeby firm, integrując się z istniejącymi narzędziami i dostarczając skalowalne oraz innowacyjne rozwiązania technologiczne."
 },
+
+
+"mainabout": {
+    "title": "O Naszych Usługach",
+    "header3": "Kompleksowe Rozwiązania dla Twojego Biznesu",
+    "subtitle1": "Korzyści, Które Oferujemy - Poznaj Wartość dla Twojej Firmy",
+    "subtitle2": "Innowacyjne Technologie, które Napędzają Twój Sukces",
+    "section1": {
+        "header1": "Tworzymy Rozwiązania, Które Generują Wyniki",
+        "header2": "Web, AI i Automatyzacja na Miarę Twoich Celów",
+        "header3": "Nowoczesna Obecność Online z Elementami Sztucznej Inteligencji",
+        "header4": "Dzięki Naszemu Kompleksowemu Wsparciu",
+        "desc1": "Zwiększ efektywność i konkurencyjność swojej firmy dzięki spersonalizowanym rozwiązaniom – od profesjonalnych stron WWW i sklepów internetowych, przez AI Agents integrujące się z CRM i bazami danych, po zaawansowaną automatyzację procesów. Wszystko dostosowane do unikalnych potrzeb Twojej branży.",
+        "desc2": "Skoncentrowani na Oszczędności Czasu i Zasobów",
+        "desc3": "Gwarantujemy rozwiązania, które redukują koszty operacyjne: szybkie strony, automatyzacja powtarzalnych zadań, AI analizujące dane w czasie rzeczywistym.",
+        "desc4": "Strategie, Które Przyciągają Klientów i Zwiększają Sprzedaż",
+        "desc5": "Połączenie SEO, AI-driven personalizacji i automatyzacji marketingu zapewnia widoczność w wyszukiwarkach i konwersje, których potrzebujesz."
+    },
+    "section2": {
+        "header1": "Szyte na Miarę Twojej Branży",
+        "header2": "Integracja Web, AI i Narzędzi takich jak Make/Zapier/n8n",
+        "desc1": "Tworzymy systemy, które łączą Twoje narzędzia (Google Drive, CRM, social media) w spójny ekosystem – od zautomatyzowanych workflow’ów po AI Agents analizujące dane klientów.",
+        "button": "Rozpocznij Transformację i Zyskaj Przewagę Konkurencyjną",
+        "desc2": "Platformy e-commerce z AI rekomendującym produkty, chatbotami obsługującymi klientów 24/7 i automatyzacją zamówień – wszystko w jednym miejscu.",
+        "desc3": "Automatyzacja obsługi klienta, analityki i procesów backendowych, która oszczędza do 80% czasu Twojego zespołu.",
+        "header3": "Technologie, Które Pracują dla Ciebie 24/7"
+    },
+    "section3": {
+        "header1": "Wydajność i Innowacje w Każdym Detalu",
+        "header2": "Optymalizacja, Szybkość i Bezpieczeństwo",
+        "header3": "Maksymalna Wydajność Dzięki AI i Automatyzacji",
+        "header4": "Dominacja w Sieci i Poza Nią",
+        "desc1": "Nasze rozwiązania łączą technologiczną precyzję z biznesową efektywnością: strony ładujące się w mgnieniu oka, AI prognozujące trendy, automatyzacja usprawniająca logistykę.",
+        "desc3": "AI Agents monitorujące rynek i konkurencję w czasie rzeczywistym, dostarczające insightsy, które pomagają podejmować trafne decyzje.",
+        "desc4": "Automatyzacja kampanii marketingowych i analityki danych – od pozyskania leada do sprzedaży, bez marnowania zasobów."
+    },
+    "section4": {
+        "header1": "Wsparcie i Ciągły Rozwój",
+        "header2": "Partner, na Którym Możesz Polegać",
+        "desc1": "Oferujemy nie tylko wdrożenia, ale i stałe wsparcie: aktualizacje AI, optymalizację SEO, rozbudowę systemów w miarę rozwoju Twojego biznesu.",
+        "desc2": "Nasz zespół ekspertów jest dostępny 24/7, aby zapewnić płynność działania i wprowadzać innowacje, które utrzymają Cię przed konkurencją.",
+        "button": "Umów Konsultację i Odkryj Nowe Możliwości"
+    }
+},
+
+"webabout": {
+    "title": "O Naszych Usługach",
+        "header3": "Stwórz Nowoczesną Obecność w Internecie",
+    "subtitle1": "Korzyści, Które Oferujemy - Dowiedz Się Co Możesz zyskać",
+    "subtitle2": "Innowacyjne Rozwiązania dla Twojego Biznesu",
+    "section1": {
+        "header1": "Tworzymy platformy które po prostu sprzedają",
+        "header2": "Cyfrowa Doskonałość na Miarę Twoich Potrzeb",
+        "header3": "Stwórz Nowoczesną Obecność w Internecie",
+        "header4": "Dzięki Naszym Profesjonalnym Usługom",
+        "desc1": "Zwiększ efektywność swojego biznesu dzięki naszym spersonalizowanym rozwiązaniom internetowym, które są dostosowane do unikalnych potrzeb Twojej firmy. Oferujemy kompleksowe wdrożenia stron, sklepów internetowych oraz systemów CRM, które nie tylko poprawiają doświadczenie użytkowników, ale także przyczyniają się do wzrostu Twojej konkurencyjności na rynku.",
+        "desc2": "Skoncentrowani na Wydajności i Sukcesie",
+        "desc3": "Gwarantujemy błyskawiczne czasy ładowania oraz zoptymalizowane doświadczenie użytkownika na wszystkich urządzeniach, co przekłada się na wyższe wskaźniki konwersji.",
+        "desc4": "Strategie SEO Dostosowane do Twojej Branży",
+        "desc5": "Nasze zaawansowane techniki optymalizacji pod kątem wyszukiwarek zwiększają widoczność Twojej marki i pomagają osiągnąć dominację w wynikach wyszukiwania."
+    },
+    "section2": {
+        "header1": "Szyte na miarę Twoich potrzeb",
+        "header2": "Indywidualne Rozwiązania Web, Ecommerce i CRM",
+        "desc1": "Personalizowane Sklepy E-commerce, CRM i Landing Page’e, które zwiększają konwersje i poprawiają doświadczenia użytkowników.",
+        "button": "Rozpocznij Transformację Cyfrową i Zwiększ Swoje Zyski",
+        "desc2": "Dedykowane Platformy Web i E-commerce, które maksymalizują satysfakcję klientów dzięki intuicyjnemu interfejsowi.",
+        "desc3": "Nowoczesne systemy sprzedaży online, które są elastyczne i dostosowane do specyficznych potrzeb Twojej branży, co przekłada się na wzrost efektywności.",
+        "header3": "Landing Page'e, które Przyciągają Klientów i Zwiększają Sprzedaż"
+    },
+    "section3": {
+        "header1": "Wydajność i Optymalizacja SEO",
+        "header2": "Zwiększ Widoczność w Internecie i Mediach Społecznościowych",
+        "header3": "Maksymalna Wydajność dla Twojego Biznesu",
+        "header4": "Zaawansowane SEO dla Dominacji w Wyszukiwarkach",
+        
+        "desc1": " Dzięki zaawansowanej optymalizacji SEO, Twoja firma zyskuje wyższą widoczność w wyszukiwarkach, co prowadzi do zwiększenia ruchu na stronie i większej liczby potencjalnych klientów. Nasze rozwiązania zapewniają maksymalną wydajność, co przekłada się na szybsze ładowanie stron i lepsze doświadczenia użytkowników.",
+        "desc3": "Ekstremalnie szybkie czasy ładowania, które poprawiają doświadczenie użytkownika i zwiększają współczynnik konwersji na wszystkich urządzeniach.",
+        "desc4": "Strategie SEO oparte na analizie danych, które gwarantują wysoką widoczność w wynikach wyszukiwania i przyciągają ruch z mediów społecznościowych."
+    },
+    "section4": {
+        "header1": "Utrzymanie i aktualizacje",
+        "header2": "Niezawodne Wsparcie dla Twojego Biznesu",
+        "desc1": "Oferujemy dedykowane wsparcie, które nie tylko rozwiązuje bieżące problemy - ale także wprowadza innowacje.",
+        "desc2": "Zapewniamy regularne aktualizacje i optymalizacje, co pozwala Ci skupić się w pełni na rozwoju Twojego biznesu.",
+        "button": "Skontaktuj się z nami, aby omówić Twoje potrzeby"
+    }
+},
+
+
+
+"aiabout": {
+    "title": "O Naszych Usługach",
+    "header3": "Stwórz Inteligentne Rozwiązania z AI",
+    "subtitle1": "Korzyści, Które Oferujemy - Dowiedz Się, Co Możesz Zyskać",
+    "subtitle2": "Innowacyjne AI Agents dla Twojego Biznesu",
+    "section1": {
+        "header1": "Tworzymy AI Agents, które pracują dla Ciebie",
+        "header2": "Inteligentne Rozwiązania na Miarę Twoich Potrzeb",
+        "header3": "Stwórz Nowoczesną Automatyzację z AI",
+        "header4": "Dzięki Naszym Profesjonalnym Usługom",
+        "desc1": "Zwiększ efektywność swojego biznesu dzięki naszym spersonalizowanym AI Agents, które są dostosowane do unikalnych potrzeb Twojej firmy. Oferujemy kompleksowe wdrożenia AI, które integrują się z lokalnymi systemami, chmurą, CRM, pocztą e-mail i innymi źródłami danych, aby automatyzować procesy i zwiększać Twoją konkurencyjność na rynku.",
+        "desc2": "Skoncentrowani na Wydajności i Sukcesie",
+        "desc3": "Gwarantujemy szybkie i niezawodne działanie AI Agents, które pracują zarówno lokalnie, jak i w chmurze, zapewniając optymalne doświadczenie użytkownika i wyższą efektywność operacyjną.",
+        "desc4": "AI Agents Dostosowane do Twojej Branży",
+        "desc5": "Nasze zaawansowane rozwiązania AI są elastyczne i mogą być dostosowane do dowolnych celów biznesowych, od automatyzacji procesów po analizę danych i integrację z istniejącymi systemami."
+    },
+    "section2": {
+        "header1": "Szyte na miarę Twoich potrzeb",
+        "header2": "Indywidualne AI Agents dla Twojego Biznesu",
+        "desc1": "Personalizowane AI Agents, które integrują się z Google Drive, Gmail, CRM i innymi źródłami danych, aby zwiększyć produktywność i poprawić doświadczenia użytkowników.",
+        "button": "Rozpocznij Transformację z AI i Zwiększ Swoje Zyski",
+        "desc2": "Dedykowane AI Agents, które maksymalizują efektywność dzięki intuicyjnej automatyzacji i analizie danych w czasie rzeczywistym.",
+        "desc3": "Nowoczesne rozwiązania AI, które są elastyczne i dostosowane do specyficznych potrzeb Twojej branży, co przekłada się na wzrost efektywności i redukcję kosztów.",
+        "header3": "AI Agents, które Automatyzują i Optymalizują Twoje Procesy"
+    },
+    "section3": {
+        "header1": "Wydajność i Integracja z AI",
+        "header2": "Zwiększ Efektywność Dzięki Inteligentnej Automatyzacji",
+        "header3": "Maksymalna Wydajność dla Twojego Biznesu",
+        "header4": "Zaawansowane AI dla Dominacji w Twojej Branży",
+        "desc1": "Dzięki zaawansowanym AI Agents, Twoja firma zyskuje narzędzia do automatyzacji procesów, analizy danych i integracji z dowolnymi źródłami danych. Nasze rozwiązania zapewniają maksymalną wydajność, co przekłada się na szybsze i bardziej efektywne operacje biznesowe.",
+        "desc3": "Ekstremalnie szybkie przetwarzanie danych i automatyzacja, które poprawiają doświadczenie użytkownika i zwiększają efektywność na wszystkich poziomach.",
+        "desc4": "Strategie AI oparte na analizie danych, które gwarantują optymalizację procesów i przyciągają wartość biznesową z każdego źródła danych."
+    },
+    "section4": {
+        "header1": "Utrzymanie i Rozwój AI",
+        "header2": "Niezawodne Wsparcie dla Twojego Biznesu",
+        "desc1": "Oferujemy dedykowane wsparcie, które nie tylko rozwiązuje bieżące problemy, ale także wprowadza innowacje w zakresie AI, aby Twoje rozwiązania były zawsze na czołowej pozycji w branży.",
+        "desc2": "Zapewniamy regularne aktualizacje i optymalizacje AI Agents, co pozwala Ci skupić się w pełni na rozwoju Twojego biznesu, podczas gdy my dbamy o techniczne aspekty.",
+        "button": "Skontaktuj się z nami, aby omówić Twoje potrzeby"
+    }
+},
+
+"automationabout": {
+    "title": "O Naszych Usługach",
+    "header3": "Automatyzacja, Która Zmienia Twój Biznes",
+    "subtitle1": "Korzyści, Które Oferujemy - Dowiedz Się, Co Możesz Zyskać",
+    "subtitle2": "Innowacyjna Automatyzacja dla Twojego Biznesu",
+    "section1": {
+        "header1": "Tworzymy Automatyzację, Która Oszczędza Czas i Pieniądze",
+        "header2": "Automatyzacja na Miarę Twoich Potrzeb",
+        "header3": "Zautomatyzuj Procesy i Skup Się na Rozwoju",
+        "header4": "Dzięki Naszym Profesjonalnym Usługom",
+        "desc1": "Zwiększ efektywność swojego biznesu dzięki naszym spersonalizowanym rozwiązaniom automatyzacyjnym, które są dostosowane do unikalnych potrzeb Twojej firmy. Oferujemy kompleksowe wdrożenia z wykorzystaniem narzędzi takich jak Make, Zapier, n8n oraz własnych skryptów, które nie tylko oszczędzają czas, ale także redukują koszty i zwiększają Twoją konkurencyjność na rynku.",
+        "desc2": "Skoncentrowani na Oszczędności Czasu i Zasobów",
+        "desc3": "Gwarantujemy płynną integrację z istniejącymi systemami, takimi jak CRM, skrzynki e-mail, bazy danych i inne, co przekłada się na wyższą wydajność i mniejsze obciążenie dla Twojego zespołu.",
+        "desc4": "Automatyzacja Dostosowana do Twojej Branży",
+        "desc5": "Nasze zaawansowane rozwiązania automatyzacyjne są elastyczne i mogą być dostosowane do dowolnych celów biznesowych, od obsługi klienta po zarządzanie danymi i procesami operacyjnymi."
+    },
+    "section2": {
+        "header1": "Szyte na miarę Twoich potrzeb",
+        "header2": "Indywidualne Rozwiązania Automatyzacyjne",
+        "desc1": "Personalizowane przepływy pracy, które integrują się z Google Drive, Gmail, CRM i innymi źródłami danych, aby zwiększyć produktywność i poprawić doświadczenia użytkowników.",
+        "button": "Rozpocznij Automatyzację i Zwiększ Swoje Zyski",
+        "desc2": "Dedykowane rozwiązania automatyzacyjne, które maksymalizują efektywność dzięki intuicyjnej integracji i automatyzacji powtarzalnych procesów.",
+        "desc3": "Nowoczesne systemy automatyzacji, które są elastyczne i dostosowane do specyficznych potrzeb Twojej branży, co przekłada się na wzrost efektywności i redukcję kosztów.",
+        "header3": "Automatyzacja, Która Przyśpiesza Twój Biznes"
+    },
+    "section3": {
+        "header1": "Wydajność i Innowacje",
+        "header2": "Zwiększ Efektywność Dzięki Inteligentnej Automatyzacji",
+        "header3": "Maksymalna Wydajność dla Twojego Biznesu",
+        "header4": "Zaawansowana Automatyzacja dla Dominacji w Twojej Branży",
+        "desc1": "Dzięki zaawansowanej automatyzacji, Twoja firma zyskuje narzędzia do optymalizacji procesów, redukcji błędów i zwiększenia wydajności. Nasze rozwiązania zapewniają maksymalną efektywność, co przekłada się na szybsze i bardziej precyzyjne operacje biznesowe.",
+        "desc3": "Ekstremalnie szybkie przetwarzanie danych i automatyzacja, które poprawiają doświadczenie użytkownika i zwiększają efektywność na wszystkich poziomach.",
+        "desc4": "Strategie automatyzacyjne oparte na analizie danych, które gwarantują optymalizację procesów i przyciągają wartość biznesową z każdego źródła danych."
+    },
+    "section4": {
+        "header1": "Utrzymanie i Rozwój Automatyzacji",
+        "header2": "Niezawodne Wsparcie dla Twojego Biznesu",
+        "desc1": "Oferujemy dedykowane wsparcie, które nie tylko rozwiązuje bieżące problemy, ale także wprowadza innowacje w zakresie automatyzacji, aby Twoje rozwiązania były zawsze na czołowej pozycji w branży.",
+        "desc2": "Zapewniamy regularne aktualizacje i optymalizacje systemów automatyzacyjnych, co pozwala Ci skupić się w pełni na rozwoju Twojego biznesu, podczas gdy my dbamy o techniczne aspekty.",
+        "button": "Skontaktuj się z nami, aby omówić Twoje potrzeby"
+    }
+},
+
+
          
       "about": {
         "header1": {
@@ -770,10 +948,14 @@
                 "desc1": "Projekt, który stworzyliśmy dla Skin Project Clinic, to ich strona internetowa oparta na platformie WordPress. Wykorzystując nasze doświadczenie w projektowaniu i tworzeniu stron internetowych, dostarczyliśmy im profesjonalną witrynę, która nie tylko reprezentuje ich markę, ale również ułatwia interakcję z klientami i zapewnia łatwe zarządzanie treścią.",
                 "desc2": "Wykorzystaliśmy wszelakie możliwości WordPressa, aby stworzyć responsywną i estetycznie przyjemną stronę internetową, która nie tylko prezentuje usługi i produkty kliniki, ale także integruje się z innymi narzędziami, takimi jak media społecznościowe, zapewniając pełne wsparcie dla działań marketingowych."
             },
+            "ainsidertoolspl": {
+              "industry": "E-commerce",
+              "desc1": "Platforma tools.ainsider.pl to katalog narzędzi oraz modeli AI, jak centrum wiedzy o sztucznej inteligencji, oferując pełną optymalizację Ux/Ui."
+           },
             "aiwarecloud": {
               "industry": "E-commerce",
-              "desc1": "Platforma sklepu internetowego aiware.cloud została stworzona na bazie WooCommerce, wraz z pełną optymalizacją która zapewniając responsywność, szybkość i doskonałą kompatybilność z różnymi urządzeniami i przeglądarkami.",
-              "desc2": "Sklep internetowy zawiera integrację z chatbotem AI, który wspiera obsługę klienta, generuje leady i automatyzuje zapytania sprzedażowe za pomocą arkuszy Google i powiadomień e-mail.",
+              "desc1": "Platforma aisider.pl została stworzona jako centrum wiedzy o sztucznej inteligencji, oferując pełną optymalizację, która zapewnia responsywność, szybkość i doskonałą kompatybilność z różnymi urządzeniami i przeglądarkami.",
+              "desc2": "Centrum AI integruje zaawansowanego chatbota AI, który wspiera użytkowników w dostępie do informacji, generuje leady i automatyzuje procesy zapytań za pomocą arkuszy Google i powiadomień e-mail.",
               "header1": "Optymalizacja & SEO",
               "desc3": "Platforma aiware.cloud została gruntownie zoptymalizowana pod kątem SEO oraz prędkości ładowania, co zaowocowało wysokimi pozycjami w wynikach wyszukiwania Google dla kluczowych fraz związanych z e-commerce. Ten sukces jest wynikiem starannie przeprowadzonej optymalizacji, obejmującej wysokiej jakości treści, właściwe użycie słów kluczowych, optymalizację techniczną strony oraz budowanie profilu linków zwrotnych.",
               "header2": "Optymalizacja Prędkości Ładowania",

@@ -18,6 +18,7 @@ import HeaderAi from "@/components/HeaderAi";
 import HeaderWeb from "@/components/HeaderWeb";
 import AutomationFeature from "@/components/Automation/AutomationFeature";
 import AutomationFeaturesTab from "@/components/Automation/AutomationFeaturesTab";
+import AutomationAbout from "@/components/About/AutomationAbout";
 
 import { Metadata } from "next";
 
@@ -31,7 +32,8 @@ const ServicesPage = async () => {
   return (
     <>
     <ServicesHero />  
-    <AutomationFeature/>     
+    <AutomationFeature/>
+    <AutomationAbout/>    
     < FeaturesTab />
 
 

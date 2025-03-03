@@ -22,7 +22,7 @@ const SingleBlogPage = () => {
                 <ul>
                   <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>Link:</p>
-                    <a href="https://store.ainsider.co/" className="text-white transition-all duration-300 hover:text-primary">store.ainsider.co</a>
+                    <a href="https://ainsider.pl" className="text-white transition-all duration-300 hover:text-primary">Ainsider.pl</a>
                   </li>
                   <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>{t('mainPortfolio.company')}</p>
@@ -42,12 +42,12 @@ const SingleBlogPage = () => {
             <div className="lg:w-2/3">
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-7.5 md:p-10">
                 <h2 className="font-semibold text-3xl 2xl:text-sectiontitle2 text-black dark:text-white mb-5">
-                store.ainsider.co
+                Ainsider.pl
                 </h2>
                 <div className="mb-10 w-full overflow-hidden">
                   <div className="relative aspect-[97/60] w-full sm:aspect-[97/78]">
                     <Image
-                      src="/images/portfolio/aiwareCloud.jpg"
+                      src="/images/portfolio/ainsiderpl.png"
                       alt="Szkoła Jazdy Machowski website"
                       layout="fill"
                       className="object-contain object-center rounded-md"
@@ -56,12 +56,12 @@ const SingleBlogPage = () => {
                 </div>
                 <div className="blog-details">
                   <p>{t('mainPortfolio.aiwarecloud.desc1')}</p>
-                  <p>{t('mainPortfolio.aiwarecloud.desc2')}</p>
+                  {/* <p>{t('mainPortfolio.aiwarecloud.desc2')}</p> */}
                 
-                  <h2 className="font-semibold text-3xl 2xl:text-sectiontitle2 text-black dark:text-white mb-5">
+                  {/* <h2 className="font-semibold text-3xl 2xl:text-sectiontitle2 text-black dark:text-white mb-5">
                   {t('mainPortfolio.aiwarecloud.header1')}
-                </h2>
-                <div className="relative aspect-[97/60] w-full sm:aspect-[97/78]">
+                </h2> */}
+                {/* <div className="relative aspect-[97/60] w-full sm:aspect-[97/78]">
                     <Image
                       src="/images/portfolio/aiwareSpeed.jpg"
                       alt="Szkoła Jazdy Machowski website"
@@ -69,7 +69,7 @@ const SingleBlogPage = () => {
                       className="object-contain object-center rounded-md"
                     />
                   </div>
-                  <p>{t('mainPortfolio.aiwarecloud.desc3')}</p>
+                  <p>{t('mainPortfolio.aiwarecloud.desc3')}</p> */}
 
 {/* 
                   <h2 className="font-semibold text-3xl 2xl:text-sectiontitle2 text-black dark:text-white mb-5">

@@ -6,6 +6,9 @@ import WebFunFact from "@/components/Web/WebFunFact";
 import WebPricing from "@/components/Web/WebPricing";
 import WebPortfolio from "@/components/Portfolio/WebPortfolio";
 import Contact from "@/components/Contact";
+import WebAbout from "@/components/About/WebAbout";
+import FeaturesTab from "@/components/FeaturesTab";
+
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -19,9 +22,11 @@ const PortfolioPage = async () => {
     <>
     <WebHero />
     <WebFeature/>
+    <WebAbout/>
     <WebFeaturesTab/>
     <WebPortfolio/>
     {/* <WebFunFact/> */}
+    <FeaturesTab/>
     <WebPricing/>
     <Contact/>
     </>

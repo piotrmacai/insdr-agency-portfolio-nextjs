@@ -30,7 +30,7 @@ const About = () => {
               whileInView="visible"
               transition={{ duration: 0.5, delay: 0.1 }}
               viewport={{ once: true }}
-              className="animate_left hidden md:block md:w-1/2 relative mx-auto aspect-[588/526.5]"
+              className="animate_left hidden md:block md:w-2/5 relative mx-auto aspect-[588/526.5]"
             >
               <Image
                 src="/images/about/about-light-01.png"
@@ -61,7 +61,7 @@ const About = () => {
               whileInView="visible"
               transition={{ duration: 0.5, delay: 0.1 }}
               viewport={{ once: true }}
-              className="animate_right md:w-1/2"
+              className="animate_right md:w-3/5"
             >
               <h4 className="text-black dark:text-white font-medium uppercase">
                 <span className="bg-meta text-white text-metatitle inline-flex rounded-full py-1 px-4.5 mr-4 mb-4 uppercase ">
@@ -78,13 +78,13 @@ const About = () => {
               <p>
               {t('about.header1.desc1')}             
                </p>
-              {/* <div className="mt-7.5 flex items-center gap-5">
+              <div className="mt-7.5 flex items-center gap-5">
                 <div className="w-15 h-15 rounded-[50%] border border-stroke dark:border-strokedark dark:bg-blacksection flex items-center justify-center">
                   <p className="text-black dark:text-white font-semibold text-metatitle2">
                     01
                   </p>
                 </div>
-                <div className="w-3/4">
+                <div className="w-3/5">
                   <h5 className="text-black dark:text-white text-metatitle2 mb-0.5">
                     React 18, Next.js 13 and TypeScript
                   </h5>
@@ -97,13 +97,13 @@ const About = () => {
                     02
                   </p>
                 </div>
-                <div className="w-3/4">
+                <div className="w-3/5">
                   <h5 className="text-black dark:text-white text-metatitle2 mb-0.5">
                     Fully Customizable
                   </h5>
                   <p>consectetur adipiscing elit fermentum ultricies.</p>
                 </div>
-              </div> */}
+              </div>
             </motion.div>
           </div>
         </div>
@@ -130,7 +130,7 @@ const About = () => {
               whileInView="visible"
               transition={{ duration: 1, delay: 0.1 }}
               viewport={{ once: true }}
-              className="animate_left md:w-1/2"
+              className="animate_left md:w-3/5"
             >
               <h4 className="text-black dark:text-white font-medium uppercase">
               {t('about.header2.header1')}
@@ -185,7 +185,7 @@ const About = () => {
               whileInView="visible"
               transition={{ duration: 1, delay: 0.1 }}
               viewport={{ once: true }}
-              className="animate_right hidden md:block md:w-1/2 relative mx-auto aspect-[588/526.5]"
+              className="animate_right hidden md:block md:w-2/5 relative mx-auto aspect-[588/526.5]"
             >
               <Image
                 src="./images/about/about-light-02.svg"

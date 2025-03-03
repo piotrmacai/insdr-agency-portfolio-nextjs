@@ -242,6 +242,184 @@
       }
          },
 
+
+
+
+         "mainabout": {
+    "title": "About Our Services",
+    "header3": "Comprehensive Solutions for Your Business",
+    "subtitle1": "Benefits We Offer – Discover Value for Your Company",
+    "subtitle2": "Innovative Technologies That Drive Your Success",
+    "section1": {
+        "header1": "We Build Solutions That Deliver Results",
+        "header2": "Web, AI, and Automation Tailored to Your Goals",
+        "header3": "Modern Online Presence with AI Integration",
+        "header4": "With Our Comprehensive Support",
+        "desc1": "Enhance your business efficiency and competitiveness with personalized solutions – from professional websites and e-commerce stores to AI agents integrating with CRMs and databases, and advanced process automation. All tailored to the unique needs of your industry.",
+        "desc2": "Focused on Saving Time and Resources",
+        "desc3": "We guarantee solutions that reduce operational costs: fast-loading websites, automation of repetitive tasks, and AI analyzing data in real time.",
+        "desc4": "Strategies That Attract Customers and Boost Sales",
+        "desc5": "A combination of SEO, AI-driven personalization, and marketing automation ensures search engine visibility and the conversions you need."
+    },
+    "section2": {
+        "header1": "Tailored to Your Industry",
+        "header2": "Integration of Web, AI, and Tools like Make/Zapier/n8n",
+        "desc1": "We build systems that connect your tools (Google Drive, CRM, social media) into a cohesive ecosystem – from automated workflows to AI agents analyzing customer data.",
+        "button": "Start Your Transformation and Gain a Competitive Edge",
+        "desc2": "E-commerce platforms with AI-powered product recommendations, 24/7 customer service chatbots, and automated order processing – all in one place.",
+        "desc3": "Automation of customer service, analytics, and backend processes that saves up to 80% of your team’s time.",
+        "header3": "Technologies That Work for You 24/7"
+    },
+    "section3": {
+        "header1": "Efficiency and Innovation in Every Detail",
+        "header2": "Optimization, Speed, and Security",
+        "header3": "Maximum Performance Through AI and Automation",
+        "header4": "Dominance Online and Beyond",
+        "desc1": "Our solutions combine technological precision with business efficiency: lightning-fast websites, AI forecasting trends, and automation streamlining logistics.",
+        "desc3": "AI agents monitoring the market and competition in real time, delivering insights that help you make informed decisions.",
+        "desc4": "Automation of marketing campaigns and data analytics – from lead generation to sales, without wasting resources."
+    },
+    "section4": {
+        "header1": "Support and Continuous Development",
+        "header2": "A Partner You Can Rely On",
+        "desc1": "We offer not only implementations but also ongoing support: AI updates, SEO optimization, and system scaling as your business grows.",
+        "desc2": "Our team of experts is available 24/7 to ensure smooth operations and introduce innovations that keep you ahead of the competition.",
+        "button": "Schedule a Consultation and Discover New Possibilities"
+    }
+},
+
+
+     "webabout": {
+    "title": "About Our Services",
+    "header3": "Create a Modern Online Presence",
+    "subtitle1": "Benefits We Offer - Find Out What You Can Gain",
+    "subtitle2": "Innovative Solutions for Your Business",
+    "section1": {
+        "header1": "We Build Platforms That Simply Sell",
+        "header2": "Digital Excellence Tailored to Your Needs",
+        "header3": "Create a Modern Online Presence",
+        "header4": "With Our Professional Services",
+        "desc1": "Enhance your business efficiency with our personalized web solutions, tailored to the unique needs of your company. We offer comprehensive implementations of websites, e-commerce stores, and CRM systems that not only improve user experience but also contribute to your competitive edge in the market.",
+        "desc2": "Focused on Efficiency and Success",
+        "desc3": "We guarantee lightning-fast load times and an optimized user experience across all devices, leading to higher conversion rates.",
+        "desc4": "SEO Strategies Tailored to Your Industry",
+        "desc5": "Our advanced search engine optimization techniques enhance your brand visibility and help you achieve dominance in search engine results."
+    },
+    "section2": {
+        "header1": "Tailored to Your Needs",
+        "header2": "Custom Web, E-commerce, and CRM Solutions",
+        "desc1": "Personalized E-commerce Stores, CRM Systems, and Landing Pages that boost conversions and improve user experiences.",
+        "button": "Start Your Digital Transformation and Increase Your Profits",
+        "desc2": "Dedicated Web and E-commerce Platforms that maximize customer satisfaction through intuitive interfaces.",
+        "desc3": "Modern online sales systems that are flexible and tailored to the specific needs of your industry, leading to increased efficiency.",
+        "header3": "Landing Pages That Attract Customers and Boost Sales"
+    },
+    "section3": {
+        "header1": "Performance and SEO Optimization",
+        "header2": "Boost Online and Social Media Visibility",
+        "header3": "Maximum Performance for Your Business",
+        "header4": "Advanced SEO for Search Engine Dominance",
+        "desc1": "Thanks to advanced SEO optimization, your business gains higher visibility in search engines, leading to increased website traffic and more potential customers. Our solutions ensure maximum performance, resulting in faster page load times and better user experiences.",
+        "desc3": "Extremely fast load times that enhance user experience and increase conversion rates across all devices.",
+        "desc4": "Data-driven SEO strategies that ensure high visibility in search results and attract traffic from social media."
+    },
+    "section4": {
+        "header1": "Maintenance and Updates",
+        "header2": "Reliable Support for Your Business",
+        "desc1": "We offer dedicated support that not only resolves current issues but also drives innovation.",
+        "desc2": "We provide regular updates and optimizations, allowing you to fully focus on growing your business.",
+        "button": "Contact Us to Discuss Your Needs"
+    }
+},
+
+
+
+   "aiabout": {
+    "title": "About Our Services",
+    "header3": "Create Intelligent Solutions with AI",
+    "subtitle1": "Benefits We Offer - Find Out What You Can Gain",
+    "subtitle2": "Innovative AI Agents for Your Business",
+    "section1": {
+        "header1": "We Build AI Agents That Work for You",
+        "header2": "Smart Solutions Tailored to Your Needs",
+        "header3": "Create Modern Automation with AI",
+        "header4": "With Our Professional Services",
+        "desc1": "Enhance your business efficiency with our personalized AI Agents, tailored to the unique needs of your company. We offer comprehensive AI implementations that integrate with local systems, cloud platforms, CRMs, email, and other data sources to automate processes and increase your competitiveness in the market.",
+        "desc2": "Focused on Efficiency and Success",
+        "desc3": "We guarantee fast and reliable operation of AI Agents, which work both locally and in the cloud, ensuring an optimal user experience and higher operational efficiency.",
+        "desc4": "AI Agents Tailored to Your Industry",
+        "desc5": "Our advanced AI solutions are flexible and can be customized to any business goals, from process automation to data analysis and integration with existing systems."
+    },
+    "section2": {
+        "header1": "Tailored to Your Needs",
+        "header2": "Custom AI Agents for Your Business",
+        "desc1": "Personalized AI Agents that integrate with Google Drive, Gmail, CRM, and other data sources to increase productivity and improve user experiences.",
+        "button": "Start Your AI Transformation and Boost Your Profits",
+        "desc2": "Dedicated AI Agents that maximize efficiency through intuitive automation and real-time data analysis.",
+        "desc3": "Modern AI solutions that are flexible and tailored to the specific needs of your industry, leading to increased efficiency and cost reduction.",
+        "header3": "AI Agents That Automate and Optimize Your Processes"
+    },
+    "section3": {
+        "header1": "Efficiency and AI Integration",
+        "header2": "Boost Efficiency with Intelligent Automation",
+        "header3": "Maximum Performance for Your Business",
+        "header4": "Advanced AI for Dominance in Your Industry",
+        "desc1": "Thanks to advanced AI Agents, your business gains tools for process automation, data analysis, and integration with any data sources. Our solutions ensure maximum performance, resulting in faster and more efficient business operations.",
+        "desc3": "Extremely fast data processing and automation that improve user experience and increase efficiency at all levels.",
+        "desc4": "Data-driven AI strategies that guarantee process optimization and deliver business value from every data source."
+    },
+    "section4": {
+        "header1": "AI Maintenance and Development",
+        "header2": "Reliable Support for Your Business",
+        "desc1": "We offer dedicated support that not only resolves current issues but also drives AI innovation to keep your solutions at the forefront of the industry.",
+        "desc2": "We provide regular updates and optimizations for AI Agents, allowing you to fully focus on growing your business while we handle the technical aspects.",
+        "button": "Contact Us to Discuss Your Needs"
+    }
+},
+
+"automationabout": {
+    "title": "About Our Services",
+    "header3": "Automation That Transforms Your Business",
+    "subtitle1": "Benefits We Offer - Find Out What You Can Gain",
+    "subtitle2": "Innovative Automation for Your Business",
+    "section1": {
+        "header1": "We Build Automation That Saves Time and Money",
+        "header2": "Automation Tailored to Your Needs",
+        "header3": "Automate Processes and Focus on Growth",
+        "header4": "With Our Professional Services",
+        "desc1": "Enhance your business efficiency with our personalized automation solutions, tailored to the unique needs of your company. We offer comprehensive implementations using tools like Make, Zapier, n8n, and custom scripts, which not only save time but also reduce costs and increase your competitiveness in the market.",
+        "desc2": "Focused on Saving Time and Resources",
+        "desc3": "We guarantee seamless integration with existing systems such as CRM, email inboxes, databases, and more, resulting in higher efficiency and less strain on your team.",
+        "desc4": "Automation Tailored to Your Industry",
+        "desc5": "Our advanced automation solutions are flexible and can be customized to any business goals, from customer service to data management and operational processes."
+    },
+    "section2": {
+        "header1": "Tailored to Your Needs",
+        "header2": "Custom Automation Solutions",
+        "desc1": "Personalized workflows that integrate with Google Drive, Gmail, CRM, and other data sources to increase productivity and improve user experiences.",
+        "button": "Start Automating and Boost Your Profits",
+        "desc2": "Dedicated automation solutions that maximize efficiency through intuitive integration and automation of repetitive processes.",
+        "desc3": "Modern automation systems that are flexible and tailored to the specific needs of your industry, leading to increased efficiency and cost reduction.",
+        "header3": "Automation That Accelerates Your Business"
+    },
+    "section3": {
+        "header1": "Efficiency and Innovation",
+        "header2": "Boost Efficiency with Intelligent Automation",
+        "header3": "Maximum Performance for Your Business",
+        "header4": "Advanced Automation for Dominance in Your Industry",
+        "desc1": "Thanks to advanced automation, your business gains tools to optimize processes, reduce errors, and increase efficiency. Our solutions ensure maximum performance, resulting in faster and more precise business operations.",
+        "desc3": "Extremely fast data processing and automation that improve user experience and increase efficiency at all levels.",
+        "desc4": "Data-driven automation strategies that guarantee process optimization and deliver business value from every data source."
+    },
+    "section4": {
+        "header1": "Automation Maintenance and Development",
+        "header2": "Reliable Support for Your Business",
+        "desc1": "We offer dedicated support that not only resolves current issues but also drives innovation in automation to keep your solutions at the forefront of the industry.",
+        "desc2": "We provide regular updates and optimizations for automation systems, allowing you to fully focus on growing your business while we handle the technical aspects.",
+        "button": "Contact Us to Discuss Your Needs"
+    }
+},
+
       "about": {
         "header1": {
           "header1": "Individual",
@@ -700,6 +878,11 @@
               "desc1":"The project we created for Skin Project Clinic is their website based on the WordPress platform. Leveraging our experience in designing and developing websites, we provided them with a professional site that not only represents their brand but also facilitates interaction with clients and ensures easy content management.",
               "desc2":"Our agency utilized the capabilities of WordPress to create a responsive and aesthetically pleasing website that not only showcases the clinic's services and products but also integrates with other tools such as social media, providing full support for marketing activities."              
           },
+          "ainsidertoolspl": {
+            "industry": "E-commerce",
+            "desc1": "The tools.ainsider.pl platform is a catalog of tools and AI models, serving as a knowledge center for artificial intelligence, offering complete UX/UI optimization."
+         },
+      
           "aiwarecloud": {
             "industry": "E-commerce",
             "desc1": "The aiware.cloud e-commerce platform was built on WooCommerce, with full optimization ensuring responsiveness, speed, and excellent compatibility with various devices and browsers.",

@@ -19,6 +19,8 @@ import Socials from "@/components/Socials";
 import SenjaWidget from "@/components/SenjaWidget";
 import CTAToNewsletter from "@/components/CTAToNewsletter";
 import CTAToAinsider from "@/components/CTAToAinsider";
+import About from "@/components/About";
+import MainAbout from "@/components/About/MainAbout";
 
 
 
@@ -44,9 +46,10 @@ export default function Home() {
     <main>
       <AiwareHero/>
       < Socials />
-      <Feature />  
-      <FeaturesTab /> 
-       {/* <About />            */}
+      <Feature /> 
+      <MainAbout/>
+      <About />   
+      <FeaturesTab />      
        <HomePortfolio/>
        {/* <CTAToAinsider/> */}
      

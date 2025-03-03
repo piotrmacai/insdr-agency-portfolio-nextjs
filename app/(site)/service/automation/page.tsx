@@ -6,6 +6,7 @@ import AutomationFunFact from "@/components/Automation/AutomationFunFact";
 import AutomationPricing from "@/components/Automation/AutomationPricing";
 import AiPortfolio from "@/components/Portfolio/AiPortfolio";
 import Contact from "@/components/Contact";
+import AutomationAbout from "@/components/About/AutomationAbout";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -19,6 +20,7 @@ const PortfolioPage = async () => {
     <>
     <AutomationHero />
     <AutomationFeature/>
+    <AutomationAbout/>
     <AutomationFeaturesTab/>
     <AiPortfolio/>
     <AutomationFunFact/>
