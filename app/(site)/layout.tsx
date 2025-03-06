@@ -10,7 +10,6 @@ import "../globals.css";
 import ToasterContext from "../context/ToastContext";
 import i18n from '../../i18n/i18n';
 import { I18nextProvider } from 'react-i18next';
-import Voiceflow from "@/components/Voiceflow";
 import Cookiebanner from "@/components/Cookiebanner";
 
 const inter = Inter({ subsets: ["latin"] });

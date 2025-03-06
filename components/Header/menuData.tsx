@@ -35,6 +35,13 @@ const getTranslatedMenuData = () => {
           icon: "/images/icon/bag.svg",
         },
         {
+          id: 2,
+          title: t('header.menuvoiceagents'),
+          newTab: false,
+          path: "/voicebots",
+          icon: "/images/icon/bag.svg",
+        },
+        {
           id: 3,
           title: t('header.menuAutomations'),
           newTab: false,
