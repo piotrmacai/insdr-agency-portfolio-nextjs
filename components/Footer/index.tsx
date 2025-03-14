@@ -107,6 +107,11 @@ const Footer = () => {
                         {t('header.menuAutomations')}
                       </a>
                     </li>
+                    <li>
+                      <a href="/crm" className="inline-block hover:text-primary mb-3">
+                        CRM
+                      </a>
+                    </li>
                     {/* <li>
                       <a href="/portfolio" className="inline-block hover:text-primary mb-3">
                         {t('footer.menu2')}

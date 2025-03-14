@@ -50,6 +50,13 @@ const getTranslatedMenuData = () => {
         },
         {
           id: 3,
+          title: "CRM",
+          newTab: false,
+          path: "/crm",
+          icon: "/images/icon/bag.svg",
+        },
+        {
+          id: 3,
           title: "AI Newsletter",
           newTab: true,
           path: t('header.menubeehiiv'),

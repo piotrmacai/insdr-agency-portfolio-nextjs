@@ -140,6 +140,75 @@
 },
 
 
+
+
+"crm": {
+    "header": "CRM & Management System Implementations",
+    "desc": "Tailored precisely to your business processes.",
+    "item1": "Basic CRM Package: from 1299 PLN",
+    "item2": "Advanced CRM Implementation: from 1999 PLN",
+    "item3": "Project Management System: from 2499 PLN",
+    "item4": "Custom Automation Solutions: from 2999 PLN",
+    "more": "Custom Quote"
+},
+
+"crmfeatures": {
+    "header": {
+        "title": "How Do We Optimize Your Processes?",
+        "subtitle": "Our Automation Specializations",
+        "description": "Comprehensive CRM solutions aligned with your business strategy"
+    },
+    "1Title": "CRM Implementation",
+    "1Description": "Rapid deployment of ready-made CRM solutions with core module integration - perfect for businesses seeking immediate process automation.",
+    "2Title": "Advanced Systems",
+    "2Description": "Comprehensive customer relationship and internal process management platforms with deep customization and existing tool integration capabilities.",
+    "3Title": "Workflow Automation",
+    "3Description": "We create smart workflow automation systems that reduce repetitive tasks and enhance operational efficiency."
+},
+
+"crmabout": {
+    "title": "About Our Implementations",
+    "header3": "Build a Modern Business Ecosystem",
+    "subtitle1": "Automation Benefits - Discover Our Solutions",
+    "subtitle2": "Innovative Management Systems for Your Success",
+    "section1": {
+        "header1": "We Create Process-Optimizing CRM Systems",
+        "header2": "Digital Transformation of Your Business Operations",
+        "header3": "Build a Modern Business Ecosystem",
+        "header4": "Through Our Expert Implementations",
+        "desc1": "Enhance operational efficiency with personalized CRM systems and management platforms that integrate all aspects of your business. We specialize in creating solutions that automate sales, marketing, and operational processes tailored to your organization's unique requirements.",
+        "desc2": "Focused on Efficiency and Automation",
+        "desc3": "We guarantee seamless integration with existing tools and optimized data flow between departments, resulting in reduced operational costs.",
+        "desc4": "Tailor-Made Automation Strategies",
+        "desc5": "Our process analysis-based solutions help identify and eliminate bottlenecks in your operations."
+    },
+    "section2": {
+        "header1": "Systems Adapted to Your Requirements",
+        "header2": "Comprehensive CRM & Automation Solutions",
+        "desc1": "Customized customer relationship management platforms that integrate data from all channels and automate sales processes.",
+        "button": "Start Your Business Process Automation",
+        "desc2": "Intuitive CRM interfaces boosting team productivity through centralized information management.",
+        "desc3": "Flexible workflow solutions adapted to your industry specifics with scalability for business growth.",
+        "header3": "Automation of Repetitive Business Processes"
+    },
+    "section3": {
+        "header1": "Optimization & Data Analytics",
+        "header2": "Boost Efficiency Through Smart Reporting",
+        "header3": "Maximum Operational Efficiency",
+        "header4": "Advanced Business Analytics",
+        "desc1": "With integrated analytical tools, your business gains real-time insights into key performance indicators (KPIs), enabling rapid data-driven decision making.",
+        "desc3": "Automatic generation of reports and managerial dashboards monitoring process efficiency across the organization.",
+        "desc4": "AI-powered predictive systems forecasting sales trends and resource optimization."
+    },
+    "section4": {
+        "header1": "System Support & Development",
+        "header2": "Comprehensive Implementation Care",
+        "desc1": "We offer continuous system monitoring and expansion as your business needs evolve.",
+        "desc2": "We provide regular security updates and team training to maximize benefits from implemented solutions.",
+        "button": "Schedule a CRM Expert Consultation"
+    }
+},
+
     
 
       

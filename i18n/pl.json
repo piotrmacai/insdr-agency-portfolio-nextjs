@@ -139,6 +139,69 @@
   "6Description": "Zwiększ widoczność, zdobywaj więcej leadów i klientów dzięki kompleksowym usługom SEO i marketingowym."
 },
 
+"crm": {
+    "header": "Wdrożenia systemów CRM i zarządzania",
+    "desc": "Skrojone precyzyjnie pod Twoje procesy biznesowe.",
+    "more": "Indywidualna Wycena"
+},
+
+"crmabout": {
+  "title": "O Naszych Wdrożeniach",
+  "header3": "Zbuduj Nowoczesny Ekosystem Biznesowy",
+  "subtitle1": "Korzyści CRM i Automatyzacji",
+  "subtitle2": "Innowacyjne Systemy Zarządzania Dla Twojego Sukcesu",
+  "section1": {
+      "header1": "Tworzymy systemy CRM, które optymalizują procesy",
+      "header2": "Cyfrowa Transformacja Twoich Operacji Biznesowych",
+      "header3": "Zbuduj Nowoczesny Ekosystem Biznesowy",
+      "header4": "Dzięki Naszym Eksperckim Wdrożeniom",
+      "desc1": "Zwiększ efektywność operacyjną dzięki spersonalizowanym systemom CRM i platformom zarządzania, które integrują wszystkie aspekty Twojego biznesu. Specjalizujemy się w tworzeniu rozwiązań automatyzujących procesy sprzedażowe, marketingowe i operacyjne, dostosowanych do unikalnych wymagań Twojej organizacji.",
+      "desc2": "Skoncentrowani na Efektywności i Automatyzacji",
+      "desc3": "Gwarantujemy płynną integrację z istniejącymi narzędziami oraz optymalizację przepływu danych między działami, co przekłada się na redukcję kosztów operacyjnych.",
+      "desc4": "Strategie Automatyzacji Szyte Na Miarkę",
+      "desc5": "Nasze rozwiązania oparte na analizie procesów biznesowych pozwalają zidentyfikować i wyeliminować wąskie gardła w Twoich operacjach."
+  },
+  "section2": {
+      "header1": "Systemy dopasowane do Twoich wymagań",
+      "header2": "Kompleksowe Rozwiązania CRM i Automatyzacji",
+      "desc1": "Personalizowane platformy zarządzania relacjami z klientami, które integrują dane z wszystkich kanałów i automatyzują procesy sprzedażowe.",
+      "button": "Rozpocznij Automatyzację Procesów Biznesowych",
+      "desc2": "Intuicyjne interfejsy systemów CRM zwiększające produktywność zespołów poprzez scentralizowane zarządzanie informacjami.",
+      "desc3": "Elastyczne rozwiązania workflow dostosowane do specyfiki Twojej branży, z możliwością skalowania w miarę rozwoju firmy.",
+      "header3": "Automatyzacja Powtarzalnych Procesów Biznesowych"
+  },
+  "section3": {
+      "header1": "Optymalizacja i Analiza Danych",
+      "header2": "Zwiększ Efektywność Poprzez Inteligentne Raportowanie",
+      "header3": "Maksymalna Wydajność Operacyjna",
+      "header4": "Zaawansowana Analityka Biznesowa",
+      "desc1": "Dzięki integracji narzędzi analitycznych, Twoja firma zyskuje wgląd w kluczowe wskaźniki efektywności (KPI) w czasie rzeczywistym, umożliwiając szybkie podejmowanie decyzji biznesowych opartych na danych.",
+      "desc3": "Automatyczne generowanie raportów i dashboardów menedżerskich, które monitorują efektywność procesów w całej organizacji.",
+      "desc4": "Zaawansowane systemy predykcyjne wykorzystujące AI do prognozowania trendów sprzedażowych i optymalizacji zasobów."
+  },
+  "section4": {
+      "header1": "Wsparcie i rozwój systemów",
+      "header2": "Kompleksowa Opieka Nad Wdrożeniem",
+      "desc1": "Oferujemy stały monitoring i rozbudowę systemów w miarę zmieniających się potrzeb Twojego biznesu.",
+      "desc2": "Zapewniamy regularne aktualizacje bezpieczeństwa oraz szkolenia dla zespołów, aby maksymalizować korzyści z wdrożonych rozwiązań.",
+      "button": "Umów Konsultację z Ekspertem CRM"
+  }
+},
+
+"crmfeatures": {
+  "header": {
+      "title": "Jak optymalizujemy Twoje procesy?",
+      "subtitle": "Nasze Specjalizacje w CRM i Automatyzacji",
+      "description": "Kompleksowe rozwiązania CRM dostosowane do strategii Twojej firmy."
+  },
+  "1Title": "Wdrożenia CRM",
+  "1Description": "Szybkie wdrożenie gotowych rozwiązań CRM z integracją podstawowych modułów - idealne dla firm poszukujących natychmiastowej automatyzacji procesów biznesowych.",
+  "2Title": "Zaawansowane systemy",
+  "2Description": "Kompleksowe platformy zarządzania relacjami z klientami i procesami wewnętrznymi, z możliwością głębokiej personalizacji i integracji z istniejącymi narzędziami.",
+  "3Title": "Automatyzacja workflow",
+  "3Description": "Tworzymy inteligentne systemy automatyzacji przepływu pracy, które redukują powtarzalne zadania i zwiększają efektywność operacyjną."
+},
+
     "automationFeatures": {
     "header": {
       "title": "Usprawnij Operacje Twojej Firmy",
@@ -581,6 +644,8 @@
                 "item4": "SEO i pozycjonowanie Google: od 999 PLN",
                 "more": "Szczegółowa Wycena"
             },
+
+
             "web": {
                 "header": "Strony internetowe i platformy e-commerce",
                 "desc": "Stworzone precyzyjnie dla Twoich potrzeb.",
@@ -590,6 +655,9 @@
                 "item4": "Indywidualne projekty: od 2999 PLN",
                 "more": "Szczegółowa Wycena"
             },
+
+
+
             "ai": {
                 "header": "AI i Automatyzacje",
                 "desc": "Procesy i wszelakie powtarzalne zadania w Twojej firmie",
