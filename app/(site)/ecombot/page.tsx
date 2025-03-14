@@ -7,6 +7,7 @@ import { useTranslation } from 'react-i18next';
 import SupportBotFeaturesTab from "@/components/FeaturesTabAi/SupportBot";
 import FeaturesTab from "@/components/FeaturesTab";
 import Contact from "@/components/Contact";
+import CTA from "@/components/CTA";
 
 const EcomBot = async () => {
   const { t } = useTranslation();
@@ -96,12 +97,21 @@ const EcomBot = async () => {
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
                 <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
                 {/* {t('ecombot.details')} */}
-                Chat Engine
+                AI App Engine
                 </h4>
+                <p className="text-dark dark:text-white mb-6">
+                    {t('bot.appengine')}
+                  </p>
                 <ul>      
 
                     <li className="last:mb-0 mb-2 transition-all duration-300">
                         <p className="Wtransition-all duration-300 hover:text-primary">Langchain</p>
+                    </li>
+                    <li className="last:mb-0 mb-2 transition-all duration-300">
+                        <p className="transition-all duration-300 hover:text-primary">n8n</p>
+                    </li>
+                    <li className="last:mb-0 mb-2 transition-all duration-300">
+                        <p className=" transition-all duration-300 hover:text-primary">Custom individual apps</p>
                     </li>
                     <li className="last:mb-0 mb-2 transition-all duration-300">
                         <p className="transition-all duration-300 hover:text-primary">Flowise</p>
@@ -116,13 +126,22 @@ const EcomBot = async () => {
               </div>
 
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
-                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
+                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-4">
                 {/* {t('ecombot.details')} */}
-                AI Engine
+                LLM Engine
                 </h4>
+                <p className="text-dark dark:text-white mb-6">
+                  {t('bot.llmengine')}
+                </p>
                 <ul>      
                 <li className="last:mb-0 mb-2 transition-all duration-300">                    
                   <p className="transition-all duration-300 hover:text-primary">OpenAI</p>
+                    </li>
+                    <li className="last:mb-0 mb-2 transition-all duration-300">                    
+                  <p className="transition-all duration-300 hover:text-primary">Google Gemini</p>
+                    </li>
+                    <li className="last:mb-0 mb-2 transition-all duration-300">                    
+                  <p className="transition-all duration-300 hover:text-primary">Deepseek</p>
                     </li>
                     <li className="last:mb-0 mb-2 transition-all duration-300">
                     <p className="transition-all duration-300 hover:text-primary">Claude Anthropic</p>
@@ -137,9 +156,12 @@ const EcomBot = async () => {
               </div>
 
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
-                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
+                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-4">
                   {t('ecombot.integrationsText')}
                 </h4>
+                <p className="text-dark dark:text-white mb-8">
+                {t('bot.integrations')}
+                </p>
                 <ul>
                 <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>Woocommerce</p>
@@ -162,20 +184,29 @@ const EcomBot = async () => {
                   <li className="last:mb-0 mb-2 transition-all duration-300">
                     <p>Notion</p>
                   </li>
+                  <li className="last:mb-0 mb-2 transition-all duration-300">
+                    <p>Any type of documents</p>
+                  </li>
                 </ul>
               </div>
 
               
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
-                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
+                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-4">
                   {t('ecombot.channels')}
                 </h4>
+                <p className="text-dark dark:text-white mb-8">
+                {t('bot.channels')}
+                </p>
                 <ul>
                 <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>Woocommerce</p>
                   </li>
                 <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>Shopify</p>
+                  </li>
+                  <li className="last:mb-0 mb-3 transition-all duration-300">
+                    <p>{t('leadbot.web')}</p>
                   </li>
                   <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>Telegram</p></li>
@@ -189,14 +220,14 @@ const EcomBot = async () => {
 
         </div>
 
-
+             <CTA/>
 
 {/* SECOND ROW */}          
 <div className="flex flex-col-reverse lg:flex-row gap-7.5 xl:gap-12.5 mt-8">
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-7.5 md:p-10">
                         
                 <div className="mb-10 w-full overflow-hidden ">
-   
+         
                 </div>
 
 
@@ -205,6 +236,8 @@ const EcomBot = async () => {
                   >{t('ecombot.desc2')}
                   </p>
                 </div> */}
+
+              
 
                 <div className="blog-details">
                     < FeaturesTab />

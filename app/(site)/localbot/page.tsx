@@ -7,6 +7,7 @@ import { useTranslation } from 'react-i18next';
 import SupportBotFeaturesTab from "@/components/FeaturesTabAi/SupportBot";
 import FeaturesTab from "@/components/FeaturesTab";
 import Contact from "@/components/Contact";
+import CTA from "@/components/CTA";
 
 const LocalBot = async () => {
   const { t } = useTranslation();
@@ -26,7 +27,7 @@ const LocalBot = async () => {
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-7.5 md:p-10">
                         
                 <h2 className="font-semibold text-3xl 2xl:text-sectiontitle2 text-black dark:text-white mb-5">
-                {t('localbot.header')}
+                 {t('localbot.header')}
                 </h2>
                 <div className="mb-10 w-full overflow-hidden ">
            
@@ -94,10 +95,13 @@ const LocalBot = async () => {
             
 
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
-                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
-                {/* {t('localbot.details')} */}
-                Chat Engine
+                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-4">
+                {t('localbot.details')}
+                AI App Engine
                 </h4>
+                <p className="text-dark dark:text-white mb-6">
+                    {t('bot.appengine')}
+                  </p>
                 <ul>      
 
                     <li className="last:mb-0 mb-2 transition-all duration-300">
@@ -106,23 +110,33 @@ const LocalBot = async () => {
                     <li className="last:mb-0 mb-2 transition-all duration-300">
                         <p className="transition-all duration-300 hover:text-primary">Flowise</p>
                     </li>
+      
                     <li className="last:mb-0 mb-2 transition-all duration-300">
-                        <p className=" transition-all duration-300 hover:text-primary">Voiceflow</p>
+                        <p className="transition-all duration-300 hover:text-primary">n8n</p>
                     </li>
-                    <li className="last:mb-0 mb-2 transition-all duration-300">
-                        <p className="transition-all duration-300 hover:text-primary">Botpress</p>
+                      <li className="last:mb-0 mb-2 transition-all duration-300">
+                        <p className=" transition-all duration-300 hover:text-primary">Custom apps in Javascript or Python</p>
                     </li>
                 </ul>
               </div>
 
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
-                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
+                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-4">
                 {/* {t('localbot.details')} */}
-                AI Engine
+                LLM Engine
                 </h4>
+                <p className="text-dark dark:text-white mb-6">
+                  {t('bot.llmengine')}
+                </p>
                 <ul>      
                 <li className="last:mb-0 mb-2 transition-all duration-300">                    
                   <p className="transition-all duration-300 hover:text-primary">OpenAI</p>
+                    </li>
+                    <li className="last:mb-0 mb-2 transition-all duration-300">                    
+                  <p className="transition-all duration-300 hover:text-primary">Google Gemini</p>
+                    </li>
+                    <li className="last:mb-0 mb-2 transition-all duration-300">                    
+                  <p className="transition-all duration-300 hover:text-primary">Deepseek</p>
                     </li>
                     <li className="last:mb-0 mb-2 transition-all duration-300">
                     <p className="transition-all duration-300 hover:text-primary">Claude Anthropic</p>
@@ -137,9 +151,12 @@ const LocalBot = async () => {
               </div>
 
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
-                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
+                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-4">
                   {t('localbot.integrationsText')}
                 </h4>
+                <p className="text-dark dark:text-white mb-8">
+                {t('bot.integrations')}
+                </p>
                 <ul>
                   <li className="last:mb-0 mb-2 transition-all duration-300">
                     <p>Google Workspace</p></li>
@@ -158,14 +175,20 @@ const LocalBot = async () => {
                   <li className="last:mb-0 mb-2 transition-all duration-300">
                     <p>Notion</p>
                   </li>
+                  <li className="last:mb-0 mb-2 transition-all duration-300">
+                    <p>Any type of documents</p>
+                  </li>
                 </ul>
               </div>
 
               
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
-                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
+                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-4">
                   {t('localbot.channels')}
                 </h4>
+                <p className="text-dark dark:text-white mb-8">
+                {t('bot.channels')}
+                </p>
                 <ul>
                 <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>{t('localbot.web')}</p>
@@ -182,14 +205,16 @@ const LocalBot = async () => {
 
         </div>
 
-
+<CTA/>
 
 {/* SECOND ROW */}          
 <div className="flex flex-col-reverse lg:flex-row gap-7.5 xl:gap-12.5 mt-8">
+  
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-7.5 md:p-10">
                         
                 <div className="mb-10 w-full overflow-hidden ">
-   
+                  
+
                 </div>
 
 
@@ -198,6 +223,8 @@ const LocalBot = async () => {
                   >{t('localbot.desc2')}
                   </p>
                 </div> */}
+
+                
 
                 <div className="blog-details">
                     < FeaturesTab />

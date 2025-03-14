@@ -7,6 +7,7 @@ import { useTranslation } from 'react-i18next';
 import SupportBotFeaturesTab from "@/components/FeaturesTabAi/SupportBot";
 import FeaturesTab from "@/components/FeaturesTab";
 import Contact from "@/components/Contact";
+import CTA from "@/components/CTA";
 
 const LeadgenBot = async () => {
   const { t } = useTranslation();
@@ -96,8 +97,11 @@ const LeadgenBot = async () => {
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
                 <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
                 {/* {t('leadbot.details')} */}
-                Chat Engine
+                AI App Engine
                 </h4>
+                <p className="text-dark dark:text-white mb-6">
+                    {t('bot.appengine')}
+                  </p>
                 <ul>      
 
                     <li className="last:mb-0 mb-2 transition-all duration-300">
@@ -105,6 +109,12 @@ const LeadgenBot = async () => {
                     </li>
                     <li className="last:mb-0 mb-2 transition-all duration-300">
                         <p className="transition-all duration-300 hover:text-primary">Flowise</p>
+                    </li>
+                    <li className="last:mb-0 mb-2 transition-all duration-300">
+                        <p className="transition-all duration-300 hover:text-primary">n8n</p>
+                    </li>
+                    <li className="last:mb-0 mb-2 transition-all duration-300">
+                        <p className=" transition-all duration-300 hover:text-primary">Custom individual apps</p>
                     </li>
                     <li className="last:mb-0 mb-2 transition-all duration-300">
                         <p className=" transition-all duration-300 hover:text-primary">Voiceflow</p>
@@ -116,13 +126,22 @@ const LeadgenBot = async () => {
               </div>
 
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
-                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
+                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-4">
                 {/* {t('leadbot.details')} */}
-                AI Engine
+                LLM Engine
                 </h4>
+                <p className="text-dark dark:text-white mb-6">
+                  {t('bot.llmengine')}
+                </p>
                 <ul>      
                 <li className="last:mb-0 mb-2 transition-all duration-300">                    
                   <p className="transition-all duration-300 hover:text-primary">OpenAI</p>
+                    </li>
+                    <li className="last:mb-0 mb-2 transition-all duration-300">                    
+                  <p className="transition-all duration-300 hover:text-primary">Google Gemini</p>
+                    </li>
+                    <li className="last:mb-0 mb-2 transition-all duration-300">                    
+                  <p className="transition-all duration-300 hover:text-primary">Deepseek</p>
                     </li>
                     <li className="last:mb-0 mb-2 transition-all duration-300">
                     <p className="transition-all duration-300 hover:text-primary">Claude Anthropic</p>
@@ -137,9 +156,12 @@ const LeadgenBot = async () => {
               </div>
 
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
-                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
+                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-4">
                   {t('leadbot.integrationsText')}
                 </h4>
+                <p className="text-dark dark:text-white mb-8">
+                {t('bot.integrations')}
+                </p>
                 <ul>
                   <li className="last:mb-0 mb-2 transition-all duration-300">
                     <p>Google Workspace</p></li>
@@ -158,14 +180,20 @@ const LeadgenBot = async () => {
                   <li className="last:mb-0 mb-2 transition-all duration-300">
                     <p>Notion</p>
                   </li>
+                  <li className="last:mb-0 mb-2 transition-all duration-300">
+                    <p>Any type of documents</p>
+                  </li>
                 </ul>
               </div>
 
               
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
-                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
+                <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-4">
                   {t('leadbot.channels')}
                 </h4>
+                <p className="text-dark dark:text-white mb-8">
+                {t('bot.channels')}
+                </p>
                 <ul>
                 <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>{t('leadbot.web')}</p>
@@ -183,13 +211,13 @@ const LeadgenBot = async () => {
         </div>
 
 
-
+ <CTA/>
 {/* SECOND ROW */}          
 <div className="flex flex-col-reverse lg:flex-row gap-7.5 xl:gap-12.5 mt-8">
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-7.5 md:p-10">
                         
                 <div className="mb-10 w-full overflow-hidden ">
-   
+                       
                 </div>
 
 
@@ -198,6 +226,9 @@ const LeadgenBot = async () => {
                   >{t('leadbot.desc2')}
                   </p>
                 </div> */}
+
+                 
+
 
                 <div className="blog-details">
                     < FeaturesTab />

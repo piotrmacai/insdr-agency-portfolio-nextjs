@@ -19,6 +19,13 @@
       "accept": "Accept"
     },
 
+    "bot": {
+      "appengine": "Applications and frameworks we use most often - each has unique advantages and features, allowing us to choose the best solutions for your project requirements",
+      "llmengine": "LLM models we use - selected for individual needs",
+      "integrations": "Integrations and knowledge base sources that we can integrate with the AI Agent",
+      "channels": "Channels and platforms where you can use the AI Agent"
+    },
+
   "features": {
     "header": {
       "title": "How can we help you?",

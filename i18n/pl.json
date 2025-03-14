@@ -1,4 +1,8 @@
 {
+
+
+
+
     "welcome": "Web & AI Studio",
     "mainheading":"AI-powered Web Solutions Studio",
     "description": "Web | AI | Marketing | Automatyzacje",
@@ -13,6 +17,15 @@
       "privacyLink": "Politykę Prywatności",
       "accept": "Akceptuj"
     },
+
+
+    "bot": {
+      "appengine": "Aplikacje i frameworki z których korzystamy najczęściej - każdy ma unikatowe zalety i cechy, pozwala Nam wybrać najlepsze rozwiązania dla wymagań Twoich projektów",
+      "llmengine": "Modele LLM które wykorzystujemy - wybrane dla indywidualnych potrzeb",
+      "integrations": "Integracje i źródła baz wiedzy jakie możemy zintegrować z Agentem AI ",
+      "channels": "Kanały i platformy na jakich możesz używać Agenta AI"
+    },
+
 
     "apps": {
       "header": "Kolekcja darmowych Asystentów i Chatbotów AI",
@@ -877,7 +890,7 @@
       "details": "Szczegóły",
       "integrationsText": "Integracje",
       "channels": "Kanały",
-      "web": "System CRM / Strona www",
+      "web": "Twoje urządzenie z systemem Windows",
       "forwho": "Dla kogo jest Lokalny Asystent AI?",
       "who1": "Instytucji finansowych wymagających najwyższego poziomu bezpieczeństwa.",
       "who2": "Firm operujących na danych wrażliwych i osobowych.",

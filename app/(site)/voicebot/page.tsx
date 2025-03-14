@@ -8,6 +8,7 @@ import SupportBotFeaturesTab from "@/components/FeaturesTabAi/SupportBot";
 import FeaturesTab from "@/components/FeaturesTab";
 import Contact from "@/components/Contact";
 // import ElevenLabsWidget from "@/components/Elevenlabs";
+import CTA from "@/components/CTA";
 
 const VoiceBot = async () => {
   const { t } = useTranslation();
@@ -97,21 +98,21 @@ const VoiceBot = async () => {
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
                 <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
                 {/* {t('voicebot.details')} */}
-                Chat Engine
+                AI App Engine
                 </h4>
+                <p className="text-dark dark:text-white mb-6">
+                    {t('bot.appengine')}
+                  </p>
                 <ul>      
 
                     <li className="last:mb-0 mb-2 transition-all duration-300">
-                        <p className="Wtransition-all duration-300 hover:text-primary">Langchain</p>
+                        <p className="Wtransition-all duration-300 hover:text-primary">ElevenLabs</p>
                     </li>
                     <li className="last:mb-0 mb-2 transition-all duration-300">
-                        <p className="transition-all duration-300 hover:text-primary">Flowise</p>
+                        <p className="transition-all duration-300 hover:text-primary">Synthflow</p>
                     </li>
                     <li className="last:mb-0 mb-2 transition-all duration-300">
                         <p className=" transition-all duration-300 hover:text-primary">Voiceflow</p>
-                    </li>
-                    <li className="last:mb-0 mb-2 transition-all duration-300">
-                        <p className="transition-all duration-300 hover:text-primary">Botpress</p>
                     </li>
                 </ul>
               </div>
@@ -119,8 +120,11 @@ const VoiceBot = async () => {
               <div className="animate_top rounded-md shadow-solid-13 bg-white dark:bg-blacksection border border-stroke dark:border-strokedark p-9 mb-10">
                 <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
                 {/* {t('voicebot.details')} */}
-                AI Engine
+                LLM Engine
                 </h4>
+                <p className="text-dark dark:text-white mb-6">
+                  {t('bot.llmengine')}
+                </p>
                 <ul>      
                 <li className="last:mb-0 mb-2 transition-all duration-300">                    
                   <p className="transition-all duration-300 hover:text-primary">OpenAI</p>
@@ -141,7 +145,9 @@ const VoiceBot = async () => {
                 <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
                   {t('voicebot.integrationsText')}
                 </h4>
-              
+                <p className="text-dark dark:text-white mb-8">
+                {t('bot.integrations')}
+                </p>
                 <ul> 
                    <li className="last:mb-0 mb-2 transition-all duration-300">
                     <p>Woocommerce</p>
@@ -174,6 +180,9 @@ const VoiceBot = async () => {
                 <h4 className="font-semibold text-2xl text-black dark:text-white mt-2 mb-7.5">
                   {t('voicebot.channels')}
                 </h4>
+                <p className="text-dark dark:text-white mb-8">
+                {t('bot.channels')}
+                </p>
                 <ul>
                 <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>Woocommerce</p>
@@ -194,6 +203,8 @@ const VoiceBot = async () => {
         </div>
 
 
+
+          <CTA/>
 
 {/* SECOND ROW */}          
 <div className="flex flex-col-reverse lg:flex-row gap-7.5 xl:gap-12.5 mt-8">
