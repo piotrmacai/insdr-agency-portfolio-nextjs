@@ -2,6 +2,15 @@ import { Portfolio } from "@/types/portfolio";
 
 const BlogData: Portfolio[] = [
   { 
+    _id: 13,
+    mainImage: "/images/portfolio/ainsiderco.png",
+    title: "Landing Page & Personal Portfolio Framework",
+    metadata:
+      "Personalized landing page and portfolio app with various social links and AI Assitant build in Next.js",
+      urlLink:"https://ainsider.co/",
+      tags: ["ai", "web"],
+  },
+  { 
     _id: 0,
     mainImage: "/images/portfolio/ainsidertoolpl.png",
     title: "Tools.ainsider.pl",
@@ -118,15 +127,15 @@ const BlogData: Portfolio[] = [
       urlLink:"/portfolio/volton",
       tags: ["web"],
   },
-  { 
-    _id: 13,
-    mainImage: "/images/portfolio/ainsiderco.png",
-    title: "Landing Page & Personal Portfolio Framework",
-    metadata:
-      "Personalized landing page and portfolio app with various social links and AI Assitant build in Next.js",
-      urlLink:"https://ainsider.co/",
-      tags: ["ai", "web"],
-  },
+  // { 
+  //   _id: 13,
+  //   mainImage: "/images/portfolio/ainsiderco.png",
+  //   title: "Landing Page & Personal Portfolio Framework",
+  //   metadata:
+  //     "Personalized landing page and portfolio app with various social links and AI Assitant build in Next.js",
+  //     urlLink:"https://ainsider.co/",
+  //     tags: ["ai", "web"],
+  // },
 
   { 
     _id: 14,
