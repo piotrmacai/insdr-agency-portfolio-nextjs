@@ -179,7 +179,7 @@ const Contact = () => {
                 {t('contact.email')}
                 </h4>
                 <p>
-                  <a href="mailto:piotr@insdr.cloud">piotr@insdr.cloud</a>
+                  <a href="mailto:piotr@ainsider.co">piotr@ainsider.co</a>
                 </p>
               </div>
               <div className="mb-7 5">

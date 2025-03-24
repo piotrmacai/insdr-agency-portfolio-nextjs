@@ -60,7 +60,7 @@ const Footer = () => {
                   href="#"
                   className="text-black dark:text-white font-medium  text-sectiontitle mb-1.5"
                 >
-                  piotr@insdr.cloud
+                  piotr@ainsider.co
                 </a>
               </motion.div>
 
@@ -343,7 +343,7 @@ const Footer = () => {
               viewport={{ once: true }}
               className="animate_top"
             >
-              <p>&copy; 2024 Insdr. All rights reserved</p>
+              <p>&copy; 2025 Ainsider. All rights reserved</p>
             </motion.div>
 
             <motion.div

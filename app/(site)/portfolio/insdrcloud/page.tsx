@@ -21,7 +21,7 @@ const SingleBlogPage = () => {
                 <ul>
                   <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>Link:</p>
-                    <a href="https://insdr.cloud" target="_blank" rel="noopener noreferrer" className="text-white transition-all duration-300 hover:text-primary">insdr.cloud</a>
+                    <a href="https://ainsider.co" target="_blank" rel="noopener noreferrer" className="text-white transition-all duration-300 hover:text-primary">insdr.cloud</a>
                   </li>
                   <li className="last:mb-0 mb-3 transition-all duration-300">
                     <p>{t('mainPortfolio.company')}</p>

@@ -218,12 +218,12 @@ const Header = () => {
          <Image src="/images/brand/github.png" alt="git" width={24} height={24} className="fill-[#D1D8E0] hover:fill-primary transition-all duration-300"/>
          </a>
        </li>
-       <li>
+       {/* <li>
          <a href="https://huggingface.co/Piotr-Macai" target="_blank">
            
          <Image src="/images/brand/hf-logo-pirate.svg" alt="git" width={24} height={24} className="fill-[#D1D8E0] hover:fill-primary transition-all duration-300"/>
          </a>
-       </li>
+       </li> */}
 
        {/* <li>
          <a href="https://www.behance.net/macaistudio" target="_blank">

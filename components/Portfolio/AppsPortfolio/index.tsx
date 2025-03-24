@@ -34,7 +34,7 @@ const AppsPortfolio = () => {
         <div className="flex flex-row mx-auto max-w-c-1280 px-4 md:px-8 xl:px-0 mt-15 xl:mt-20">
               <div className="flex flex-col justify-center items-center w-full">
                     <h2 className="text-black dark:text-white text-xl xl:text-hero font-bold mt-8 mb-6 sm:pr-2">
-                     🔥 Insdr            
+                     🔥 Ainsider           
                     </h2>
                     <h1 className="text-black dark:text-white text-3xl xl:text-hero font-bold mb-5 sm:pr-2">
                     {t('apps.header')}
