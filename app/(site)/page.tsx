@@ -49,7 +49,7 @@ export default function Home() {
       <MainAbout/>
       {/* <About />    */}
       <FeaturesTab />      
-       <HomePortfolio/>
+       {/* <HomePortfolio/> */}
        {/* <CTAToAinsider/> */}
      
       <CTA />       
