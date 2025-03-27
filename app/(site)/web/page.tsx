@@ -21,6 +21,7 @@ import { Metadata } from "next";
 import WebHero from "@/components/Web/WebHero";
 import WebFeature from "@/components/Web/WebFeature";
 import WebAbout from "@/components/About/WebAbout";
+import Motion from "@/components/Motion/MotionWeb";
 
 export const metadata: Metadata = {
   title: "Aiware.me Portfolio",
@@ -33,6 +34,7 @@ const ServicesPage = async () => {
     <>
     <WebHero/>
     <WebFeature/>
+    <Motion/>
     <WebAbout/>
     {/* < FeaturesTab /> */}
     <div id="headerWeb">

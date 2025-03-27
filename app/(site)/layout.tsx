@@ -26,8 +26,8 @@ export default function RootLayout({
   return (
     <I18nextProvider i18n={i18n}>
       <html lang={locale}>
-        <body className={`dark:bg-black`}>
-          <ThemeProvider enableSystem={false} attribute="class" defaultTheme="dark">
+        <body className={`bg-white dark:bg-black`}>
+          <ThemeProvider enableSystem={false} attribute="class" defaultTheme="light">
             <Lines />
             <Header />
             <ToasterContext />

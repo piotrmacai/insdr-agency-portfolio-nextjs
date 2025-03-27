@@ -23,6 +23,7 @@ import { Metadata } from "next";
 import Feature from "@/components/Features";
 import AiFeature from "@/components/Ai/AiFeature";
 import AiAbout from "@/components/About/AiAbout";
+import Motion from "@/components/Motion/MotionAgents";
 
 export const metadata: Metadata = {
   title: "Aiware.me Portfolio",
@@ -35,6 +36,7 @@ const ServicesPage = async () => {
     <>
     <AiHero />   
     <AiFeature/>  
+    <Motion/>
     <AiAbout/>
      <AiAboutOne/>        
     <AiAboutTwo/>      <

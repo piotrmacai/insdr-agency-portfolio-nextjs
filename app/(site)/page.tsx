@@ -21,6 +21,7 @@ import CTAToNewsletter from "@/components/CTAToNewsletter";
 import CTAToAinsider from "@/components/CTAToAinsider";
 import About from "@/components/About";
 import MainAbout from "@/components/About/MainAbout";
+import Motion from "@/components/Motion/MotionOrbit";
 
 
 
@@ -46,6 +47,7 @@ export default function Home() {
       <AiwareHero/>
       < Socials />
       <Feature /> 
+      <Motion/>
       <MainAbout/>
       {/* <About />    */}
       <FeaturesTab />      
