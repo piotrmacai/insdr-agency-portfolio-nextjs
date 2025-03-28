@@ -14,10 +14,13 @@ import Cookiebanner from "@/components/Cookiebanner";
 import Voiceflow from "@/components/Voiceflow";
 import ElevenLabsWidget from "@/components/Elevenlabs";
 
+
 const inter = Inter({
-  subsets: ["latin"],
-  display: "swap",
-  preload: false, // Prevents fetching at build time
+  subsets: ['latin'],
+  display: 'swap',
+  fallback: ['system-ui', 'Arial', 'sans-serif'],
+  // Optional: preload the most used weights
+  weight: ['400', '500', '700'],
 });
 
 export default function RootLayout({
