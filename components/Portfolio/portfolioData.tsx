@@ -12,11 +12,11 @@ const BlogData: Portfolio[] = [
   },
   { 
     _id: 0,
-    mainImage: "/images/portfolio/ainsidertoolpl.png",
-    title: "Tools.ainsider.pl",
+    mainImage: "/images/portfolio/ainsiderplimg.png",
+    title: "Ainsider.pl",
     metadata:
-      "Ai Tools Directory for polish audience",
-      urlLink:"/portfolio/ainsidertoolspl",
+      "Ai Tools and AI models Directory for polish audience",
+      urlLink:"/portfolio/ainsiderpl",
       tags: ["web", "ai"],  
   },
   { 
@@ -66,11 +66,11 @@ const BlogData: Portfolio[] = [
   },
   { 
     _id: 6,
-    mainImage: "/images/portfolio/ainsiderpl.png",
-    title: "ainsider.pl",
+    mainImage: "/images/portfolio/macaistudiostore.png",
+    title: "Store.macai.studio",
     metadata:
-      "AI Knowledge Hub for polish audience Platform",
-      urlLink:"/portfolio/ainsiderpl",
+      "Ecommerce created with Woo with AI, LLM and AI Art knowledge.",
+      urlLink:"/portfolio/storemacaistudio",
       tags: ["web"],
   },
   { 
@@ -100,15 +100,15 @@ const BlogData: Portfolio[] = [
       urlLink:"/portfolio/cora-goralczyk",
       tags: ["web"],
   },
-  { 
-    _id: 10,
-    mainImage: "/images/portfolio/ainsidersoftr.jpg",
-    title: "Ainsider.pl",
-    metadata:
-      "Gen AI Tools Directory and Magazine",
-      urlLink:"/portfolio/ainsiderpl",
-      tags: ["web", "ai"],
-  },
+  // { 
+  //   _id: 10,
+  //   mainImage: "/images/portfolio/ainsidersoftr.jpg",
+  //   title: "Ainsider.pl",
+  //   metadata:
+  //     "Gen AI Tools Directory and Magazine",
+  //     urlLink:"/portfolio/ainsiderpl",
+  //     tags: ["web", "ai"],
+  // },
   { 
     _id: 11,
     mainImage: "/images/portfolio/pgr.jpg",

@@ -39,12 +39,12 @@ const BlogData: Portfolio[] = [
   },
   { 
     _id: 0.3,
-    mainImage: "/images/portfolio/aiwareCloud.jpg",
-    title: "ainsider.pl",
+    mainImage: "/images/portfolio/ainsiderplimg.png",
+    title: "Ainsider.pl",
     metadata:
-      "AI Platform with Ecommerce and Blog",
-      urlLink:"/portfolio/ainsiderstore",
-      tags: ["web"],
+      "Ai Tools and AI models Directory for polish audience",
+      urlLink:"/portfolio/ainsiderpl",
+      tags: ["web", "ai"],  
   },
   { 
     _id: 1.5,
@@ -73,15 +73,6 @@ const BlogData: Portfolio[] = [
   //     urlLink:"/portfolio/cora-goralczyk",
   //     tags: ["websites"],
   // },
-  { 
-    _id: 2.5,
-    mainImage: "/images/portfolio/ainsidersoftr.jpg",
-    title: "Ainsider.pl",
-    metadata:
-      "Gen AI Tools Directory and Magazine",
-      urlLink:"/portfolio/ainsiderpl",
-      tags: ["web", "ai"],
-  },
   // {
   //   _id: 2,
   //   mainImage: "/images/portfolio/volton.jpg",
@@ -91,6 +82,15 @@ const BlogData: Portfolio[] = [
   //     urlLink:"/portfolio/volton",
   //     tags: ["websites"],
   // },
+  { 
+    _id: 4,
+    mainImage: "/images/portfolio/skin.jpg",
+    title: "Skinproject.pl",
+    metadata:
+      "Website for Aesthetic Medicine Office",
+      urlLink:"/portfolio/skinproject",
+      tags: ["websites"],
+  },
   { 
     _id: 5,
     mainImage: "/images/portfolio/macaiStudio.jpg",
@@ -119,16 +119,7 @@ const BlogData: Portfolio[] = [
   //     tags: ["websites", "ai"],
   // },
   { 
-    _id: 4,
-    mainImage: "/images/portfolio/skin.jpg",
-    title: "Skinproject.pl",
-    metadata:
-      "Website for Aesthetic Medicine Office",
-      urlLink:"/portfolio/skinproject",
-      tags: ["websites"],
-  },
-  { 
-    _id: 5,
+    _id: 5.5,
     mainImage: "/images/portfolio/afterrave.jpg",
     title: "After-rave.eu",
     metadata:
