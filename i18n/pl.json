@@ -43,31 +43,158 @@
         "socialmedia":"Social Media"
   },
 
+  "process": {
+    "title": "Nasz Proces",
+    "subtitle": "Jak Działamy",
+    "description": "Przejrzysty proces pracy gwarantujący jakość i efektywność na każdym etapie",
+    "tabs": {
+      "tabOne": "Analiza & Planowanie",
+      "tabTwo": "Projekt & Realizacja",
+      "tabThree": "Testowanie & Wdrożenie"
+    }
+  },
+
+  "landingsweb": {
+    "header1": "Landing page które sprzedają",
+    "header2": "Stworzone precyzyjnie dla Twoich potrzeb.",
+    "desc1": "Landing Page | One-page | Business cards",
+    "contact": "Szczegółowa Wycena"
+},
+
+"ecomweb": {
+  "header1": "Sklepy internetowe i platformy ecommerce",
+  "header2": "Stworzone precyzyjnie dla Twoich potrzeb.",
+  "desc1": "Sklepy internetowe | E-learning | Integracje ",
+  "contact": "Szczegółowa Wycena"
+},
+
+
+
+"webpricing": {
+    "title": "Nasze Usługi",
+    "subtitle": "Cennik",
+    "description": "Aby otrzymać szczegółową wycenę, zapraszamy do rozmowy z naszym doradcą lub wypełnienia formularza kontaktowego.",
+    "cta": "Otrzymaj Wycenę",
+    
+    "landing": {
+      "title": "Landing Page & One Page",
+      "pricelandingtheme": "od 499 PLN",
+      "pricelandingcustom": "od 1999 PLN",
+      "description": "Strony landingowe i one-page zaprojektowane, aby zmaksymalizować wyniki Twoich kampanii.",
+      "theme": {
+        "title": "Na Bazie Szablonu"
+      },
+      "custom": {
+        "title": "Indywidualny Projekt UX/UI"
+      },
+      "features": {
+        "title": "Kluczowe Funkcje",
+        "list": [
+          "Nowoczesny, responsywny design",
+          "Optymalizowana SEO",
+          "Szybkie ładowanie (90+ Google PageSpeed)",
+          "Dowolne integracje z CRM i Formularzami",
+          "Konfiguracja Google Analytics",
+          "Podejście mobile-first",
+          "Konfiguracja hostingu,domeny",
+          "Konfiguracja skrzynki email"
+        ]
+      }
+    },
+    "business": {
+      "title": "Strony biznesowe",
+      "pricebstheme": "od 999 PLN",
+      "pricebscustom": "od 2999 PLN",
+      "description": "Profesjonalne strony internetowe, które reprezentują Twoją markę i wspierają rozwój biznesu.",
+      "theme": {
+        "title": "Dostosowanie Motywu"
+      },
+      "custom": {
+        "title": "Indywidualny Projekt UX/UI"
+      },
+      "features": {
+        "title": "Kluczowe Funkcje",
+        "list": [
+          "Strona oraz 5-10 podstron",
+          "System zarządzania treścią",
+          "Zaawansowana optymalizacja SEO",
+          "Szybkie ładowanie (90+ Google PageSpeed)",
+          "Dowolne integracje z CRM i Formularzami",
+          "Konfiguracja Google Analytics i Search Console",
+          "Responsywny design mobile-first",
+          "1 rok wsparcia technicznego",
+          "Konfiguracja hostingu,domeny",
+          "Konfiguracja firmowej poczty email"
+        ]
+      }
+    },
+    "ecommerce": {
+      "title": "Sklepy Internetowe",
+      "priceecomtheme": "od 1999 PLN",
+      "priceecomcustom": "od 4999 PLN",
+      "description": "Wydajne platformy ecommerce zaprojektowane, aby zmaksymalizować sprzedaż i doświadczenie klienta.",
+      "theme": {
+        "title": "Dostosowanie Motywu"
+      },
+      "custom": {
+        "title": "Indywidualny Projekt UX/UI"
+      },
+      "features": {
+        "title": "Kluczowe Funkcje",
+        "list": [
+          "Wewnętrzny magazyn lub przez integracje",
+          "Dowolne bramki płatności",
+          "Integracje z systemami CRM",
+          "Integracje z systemami fakturowania",
+          "Systemy automatyzacji ecommerce",
+          "Zaawansowana optymalizacja SEO",
+          "Konfiguracja Google Analytics i Search Console",
+          "Responsywny design mobile-first",
+          "1 rok wsparcia technicznego",
+          "Konfiguracja wydajnego hostingu",
+          "Konfiguracja firmowej poczty email",
+          "Integracja narzędzi marketingowych",
+          "Konfiguracja dostaw i podatków"
+        ]
+      }
+    }
+  },
+
+
 
 
 "serviceTimeline": {
   "title": {
     "one": "Nasz proces usługowy",
     "two": "Jak z Tobą współpracujemy",
-    "three": "Krok po kroku przez nasz wspólny proces dostarczający spersonalizowane rozwiązania"
+    "three": "Krok po kroku przez nasz wspólny proces dostarczania spersonalizowanych rozwiązań"
   },
   "step1": {
-    "title": "Odkrywanie i analiza",
-    "description": "Zaczynamy od dogłębnego poznania Twoich potrzeb. Przeprowadzamy audyt systemów, procesów i technologii, niezależnie czy chodzi o strony internetowe czy narzędzia AI. Omawiamy cele biznesowe, wyzwania i grupę docelową podczas konsultacji przez Slack, WhatsApp czy Messenger. Korzystając z Notion lub Trello, dokumentujemy ustalenia i identyfikujemy obszary do poprawy. Ten etap łączy naszą wiedzę techniczną z Twoją wizją biznesową."
+    "title": "Konsultacja i brief",
+    "description1": "Rozpoczynamy od rozmowy, aby dokładnie zrozumieć Twoje potrzeby, oczekiwania i cele.",
+    "description2": "Omawiamy wymagania podczas konsultacji przez Slack, WhatsApp czy Messenger. Tworzymy brief projektu i analizujemy aktualny stan (jeśli istnieje).",
+    "description3": "Zbieramy wszystkie istotne informacje, które będą podstawą do zaprojektowania najlepszego rozwiązania i notujemy je w Notion lub Trello."
   },
   "step2": {
-    "title": "Opracowanie strategii",
-    "description": "Na podstawie zebranych informacji tworzymy spersonalizowaną strategię. Definiujemy mapę drogową - czy to dla wzmocnienia obecności online, czy integracji AI do automatyzacji. Wybieramy odpowiednie technologie, określamy KPI, harmonogramy i zasoby. Współpracujemy przez Slack czy WhatsApp, organizując zadania w Notion lub Trello dla pełnej przejrzystości. Finalnie otrzymujesz szczegółowy plan zgodny z Twoimi długoterminowymi celami."
+    "title": "Dobór rozwiązań i strategia",
+    "description1": "Na podstawie zebranych danych dobieramy najefektywniejsze technologie, narzędzia i metody realizacji.",
+    "description2": "Tworzymy jasną strategię działania, ustalamy harmonogram, KPI i rozkład prac.",
+    "description3": "Cały proces dokumentujemy i koordynujemy w Notion lub Trello, z bieżącym kontaktem przez Slack lub WhatsApp."
   },
   "step3": {
-    "title": "Wdrożenie i automatyzacja",
-    "description": "Tu zamieniamy strategię w działanie. Budujemy i wdrażamy rozwiązania z naciskiem na efektywność i skalowalność. Dla projektów webowych możemy użyć React czy Next.js; dla AI - zaawansowane algorytmy lub API. Stawiamy na automatyzację, aby usprawnić procesy i zwiększyć wydajność. Podczas wdrożenia komunikujemy się przez Messenger, Slack lub WhatsApp, śledząc postępy w Notion czy Trello. Dokładne testy zapewniają płynną integrację z istniejącymi systemami."
+    "title": "Wdrożenie i testy",
+    "description1": "Rozpoczynamy realizację – projektujemy, kodujemy i wdrażamy rozwiązanie zgodnie ze strategią.",
+    "description2": "Wykorzystujemy technologie jak React, Next.js czy integracje API AI, a na koniec przeprowadzamy szczegółowe testy techniczne i UX.",
+    "description3": "Cały czas utrzymujemy płynną komunikację i aktualizujemy statusy w Notion lub Twoim narzędziu pracy."
   },
   "step4": {
-    "title": "Monitorowanie i optymalizacja",
-    "description": "Nasze zaangażowanie nie kończy się na uruchomieniu. Monitorujemy wydajność rozwiązania przy użyciu narzędzi analitycznych, śledząc KPI jak szybkość czy zaangażowanie użytkowników. Regularne odprawy przez Slack, WhatsApp lub Messenger informują Cię na bieżąco, a tablice w Notion lub Trello pokazują przegląd trwających optymalizacji. Analizujemy dane, wprowadzając ulepszenia w razie potrzeby. Ten ciągły proces zapewnia, że Twoje rozwiązanie ewoluuje wraz z biznesem, dostarczając trwałą wartość."
+    "title": "Oddanie i optymalizacja",
+    "description1": "Oddajemy gotowe rozwiązanie wraz z instrukcją i manualem użytkownika (w formie PDF lub nagrania wideo).",
+    "description2": "Szkolimy Cię z obsługi, a następnie monitorujemy wydajność i analizujemy dane działania systemu.",
+    "description3": "Zapewniamy optymalizację, wsparcie techniczne i rozwój – jesteśmy z Tobą również po wdrożeniu."
   }
 },
+
 
     "features": {
       "header": {
@@ -366,46 +493,50 @@
 
 
 "mainabout": {
-    "title": "O Naszych Usługach",
-    "header3": "Kompleksowe Rozwiązania dla Twojego Biznesu",
-    "subtitle1": "Korzyści, Które Oferujemy - Poznaj Wartość dla Twojej Firmy",
-    "subtitle2": "Innowacyjne Technologie, które Napędzają Twój Sukces",
-    "section1": {
-        "header1": "Tworzymy Rozwiązania, Które Generują Wyniki",
-        "header2": "Web, AI i Automatyzacja na Miarę Twoich Celów",
-        "header3": "Nowoczesna Obecność Online z Elementami Sztucznej Inteligencji",
-        "header4": "Dzięki Naszemu Kompleksowemu Wsparciu",
-        "desc1": "Zwiększ efektywność i konkurencyjność swojej firmy dzięki spersonalizowanym rozwiązaniom – od profesjonalnych stron WWW i sklepów internetowych, przez AI Agents integrujące się z CRM i bazami danych, po zaawansowaną automatyzację procesów. Wszystko dostosowane do unikalnych potrzeb Twojej branży.",
-        "desc2": "Skoncentrowani na Oszczędności Czasu i Zasobów",
-        "desc3": "Gwarantujemy rozwiązania, które redukują koszty operacyjne: szybkie strony, automatyzacja powtarzalnych zadań, AI analizujące dane w czasie rzeczywistym.",
-        "desc4": "Strategie, Które Przyciągają Klientów i Zwiększają Sprzedaż",
-        "desc5": "Połączenie SEO, AI-driven personalizacji i automatyzacji marketingu zapewnia widoczność w wyszukiwarkach i konwersje, których potrzebujesz."
-    },
-    "section2": {
-        "header1": "Szyte na Miarę Twojej Branży",
-        "header2": "Integracja Web, AI i Narzędzi takich jak Make/Zapier/n8n",
-        "desc1": "Tworzymy systemy, które łączą Twoje narzędzia (Google Drive, CRM, social media) w spójny ekosystem – od zautomatyzowanych workflow’ów po AI Agents analizujące dane klientów.",
-        "button": "Rozpocznij Transformację i Zyskaj Przewagę Konkurencyjną",
-        "desc2": "Platformy e-commerce z AI rekomendującym produkty, chatbotami obsługującymi klientów 24/7 i automatyzacją zamówień – wszystko w jednym miejscu.",
-        "desc3": "Automatyzacja obsługi klienta, analityki i procesów backendowych, która oszczędza do 80% czasu Twojego zespołu.",
-        "header3": "Technologie, Które Pracują dla Ciebie 24/7"
-    },
-    "section3": {
-        "header1": "Wydajność i Innowacje w Każdym Detalu",
-        "header2": "Optymalizacja, Szybkość i Bezpieczeństwo",
-        "header3": "Maksymalna Wydajność Dzięki AI i Automatyzacji",
-        "header4": "Dominacja w Sieci i Poza Nią",
-        "desc1": "Nasze rozwiązania łączą technologiczną precyzję z biznesową efektywnością: strony ładujące się w mgnieniu oka, AI prognozujące trendy, automatyzacja usprawniająca logistykę.",
-        "desc3": "AI Agents monitorujące rynek i konkurencję w czasie rzeczywistym, dostarczające insightsy, które pomagają podejmować trafne decyzje.",
-        "desc4": "Automatyzacja kampanii marketingowych i analityki danych – od pozyskania leada do sprzedaży, bez marnowania zasobów."
-    },
-    "section4": {
-        "header1": "Wsparcie i Ciągły Rozwój",
-        "header2": "Partner, na Którym Możesz Polegać",
-        "desc1": "Oferujemy nie tylko wdrożenia, ale i stałe wsparcie: aktualizacje AI, optymalizację SEO, rozbudowę systemów w miarę rozwoju Twojego biznesu.",
-        "desc2": "Nasz zespół ekspertów jest dostępny 24/7, aby zapewnić płynność działania i wprowadzać innowacje, które utrzymają Cię przed konkurencją.",
-        "button": "Umów Konsultację i Odkryj Nowe Możliwości"
-    }
+  "title": "O Naszych Usługach",
+  "header3": "Strategiczne Rozwiązania dla Nowoczesnego Biznesu",
+  "subtitle1": "Zaprojektowane Dla Efektywności, Skuteczności i Rozwoju",
+  "subtitle2": "Technologia, Która Realnie Wspiera Twój Biznes",
+
+  "section1": {
+    "header1": "Rozwiązania Dopasowane do Twojego Modelu Biznesowego",
+    "header2": "Strategia Szyta na Miarę Twoich Celów",
+    "header3": "Nowoczesna Obecność Online, Która Pracuje dla Ciebie",
+    "header4": "Twoje Cele – Nasza Technologia i Doświadczenie",
+    "desc1": "Analizujemy Twoje potrzeby i projektujemy dedykowane rozwiązania – od profesjonalnych stron i sklepów, po chatboty AI, systemy rekomendacji i personalizowane automatyzacje. Efekt? Narzędzia, które naprawdę wspierają Twój model biznesowy.",
+    "desc2": "Twoje cele są dla nas punktem wyjścia – tworzymy rozwiązania, które pozwalają Ci szybciej działać, skuteczniej konkurować i lepiej komunikować się z klientami.",
+    "desc3": "Wszystkie nasze wdrożenia mają jeden cel: maksymalna skuteczność – zarówno w pozyskiwaniu klientów, jak i automatyzacji procesów, które do tej pory wymagały ręcznej pracy.",
+    "desc4": "Budujemy nie tylko stronę, ale kompleksowy system, który przynosi mierzalne rezultaty: więcej sprzedaży, większe zaangażowanie użytkowników, niższe koszty operacyjne.",
+    "desc5": "Dzięki naszej współpracy Twoja marka zyskuje nową jakość online – z technologiami, które realnie zwiększają wartość Twojej oferty."
+  },
+
+  "section2": {
+    "header1": "Nowoczesne Technologie Dostosowane do Rzeczywistych Potrzeb",
+    "header2": "Integracja Web, AI i Automatyzacji w Jedną Spójną Platformę",
+    "desc1": "Tworzymy inteligentne systemy dopasowane do narzędzi, które już znasz – CRM, Google Drive, social media, ERP – i rozszerzamy je o AI oraz automatyzację. Dzięki temu działasz szybciej, precyzyjniej i bardziej skalowalnie.",
+    "desc2": "Twoja firma otrzymuje system, który pracuje 24/7 – AI rekomendujące produkty, chatboty obsługujące klientów, automatyzacja zakupów i procesów – wszystko w jednym, spójnym środowisku.",
+    "desc3": "Wdrażamy technologie tam, gdzie przynoszą największy efekt: automatyzacja powtarzalnych zadań, oszczędność czasu zespołu, lepsza obsługa klienta, integracje z n8n, Zapier czy Make.",
+    "header3": "Technologia, Która Pracuje Zamiast Ciebie",
+    "button": "Zamień Procesy na Przewagę – Zacznij Teraz"
+  },
+
+  "section3": {
+    "header1": "Automatyzacja i Integracje, Które Przynoszą Wyniki",
+    "header2": "Skalowanie, Optymalizacja i Redukcja Kosztów",
+    "header3": "AI, Która Myśli – Automatyzacja, Która Działa",
+    "header4": "Skup się na Strategii – Resztę Wykona System",
+    "desc1": "Redukujemy Twój czas operacyjny o nawet 80% dzięki automatyzacji komunikacji, lead generation, raportowania i przetwarzania danych. Twój zespół może wreszcie skupić się na tym, co naprawdę ważne.",
+    "desc3": "AI Agents analizują dane klientów, monitorują konkurencję i rynek w czasie rzeczywistym, dostarczając rekomendacje i wnioski do podejmowania trafnych decyzji.",
+    "desc4": "Automatyzacja całej ścieżki klienta – od kontaktu przez sprzedaż po remarketing – bez potrzeby angażowania zespołu w każdą interakcję."
+  },
+
+  "section4": {
+    "header1": "Długofalowe Wsparcie i Gotowość na Rozwój",
+    "header2": "System, Który Rośnie Razem z Twoim Biznesem",
+    "desc1": "Nie kończymy na wdrożeniu – zapewniamy ciągły rozwój systemów, rozbudowę funkcjonalności, aktualizacje AI oraz analitykę, która wskazuje, co można jeszcze zoptymalizować.",
+    "desc2": "Jesteśmy partnerem technologicznym, który dba o Twój rozwój – skalowalna architektura, regularne aktualizacje i wsparcie 24/7 to nasz standard.",
+    "button": "Umów Konsultację i Poznaj Plan Rozwoju dla Twojego Biznesu"
+  }
 },
 
 "webabout": {
@@ -452,7 +583,134 @@
     }
 },
 
+"landingsabout": { 
+    "title": "O Naszych Usługach Landing Page",
+    "header3": "Profesjonalne Landing Page, Które Konwertują",
+    "subtitle1": "Korzyści Profesjonalnych Landing Page - Zobacz Różnicę",
+    "subtitle2": "Skuteczne Rozwiązania Dla Twoich Kampanii",
+    "section1": {
+        "header1": "Tworzymy landing page, które generują leady i sprzedaż",
+        "header2": "Perfekcyjne Landing Page Dopasowane Do Twoich Celów",
+        "header3": "Stwórz Konwersyjną Stronę Docelową",
+        "header4": "Dzięki Naszemu Doświadczeniu w Landing Page",
+        "desc1": "Zwiększ skuteczność swoich kampanii reklamowych dzięki naszym specjalistycznym landing page'om, które maksymalizują konwersję. Projektujemy strony docelowe precyzyjnie dopasowane do grup docelowych, produktów i celów marketingowych, co przekłada się na realny wzrost sprzedaży i jakości leadów.",
+        "desc2": "Skupieni na Konwersjach i Efektywności",
+        "desc3": "Gwarantujemy optymalizację pod kątem szybkości ładowania i ścieżki konwersji, co znacząco poprawia współczynnik przekształceń.",
+        "desc4": "Zintegrowane Strategie CRO i SEO",
+        "desc5": "Nasze zaawansowane techniki optymalizacji konwersji (CRO) połączone z SEO zwiększają efektywność landing page'ów w pozyskiwaniu klientów."
+    },
+    "section2": {
+        "header1": "Projektowane pod konkretne kampanie",
+        "header2": "Dedykowane Landing Page Dla Twoich Potrzeb",
+        "desc1": "Spersonalizowane strony docelowe, które zwiększają konwersję kampanii Google Ads, Facebook Ads i innych kanałów reklamowych.",
+        "button": "Zamów Landing Page, Który Zwiększy Twoje Konwersje",
+        "desc2": "Optymalne ścieżki konwersji zaprojektowane pod konkretne produkty i usługi, maksymalizujące ROI z kampanii.",
+        "desc3": "Nowoczesne landing page'e z elementami psychologii sprzedaży, dostosowane do specyfiki Twojej branży i grupy docelowej.",
+        "header3": "Landing Page, Które Generują Sprzedaż od Pierwszego Wejrzenia"
+    },
+    "section3": {
+        "header1": "Optymalizacja Konwersji i Wydajność",
+        "header2": "Zwiększ Efektywność Swoich Kampanii Reklamowych",
+        "header3": "Maksymalna Konwersja Dla Twojego Biznesu",
+        "header4": "Zaawansowane CRO Dla Lepszych Wyników",
+        "desc1": "Dzięki specjalistycznej optymalizacji pod kątem konwersji (CRO), Twoje landing page'e osiągają wyższe wskaźniki przekształceń, co bezpośrednio przekłada się na niższy koszt pozyskania klienta i wyższą efektywność kampanii. Nasze rozwiązania gwarantują perfekcyjne dopasowanie do celów marketingowych.",
+        "desc3": "Ekstremalnie skuteczne elementy CTA i ścieżki konwersji, które zwiększają współczynnik przekształceń.",
+        "desc4": "Strategie CRO oparte na testach A/B i analizie zachowań użytkowników, które maksymalizują efektywność landing page'ów."
+    },
+    "section4": {
+        "header1": "Testy i ciągła optymalizacja",
+        "header2": "Kompleksowe Wsparcie Dla Twoich Landing Page",
+        "desc1": "Oferujemy stałą optymalizację landing page'ów, w tym testy A/B, analizy ciepłowodowe i dostosowywanie do zmieniających się trendów.",
+        "desc2": "Zapewniamy regularne aktualizacje i usprawnienia konwersyjne, dzięki czemu Twoje landing page'e zawsze pracują na maksimum możliwości.",
+        "button": "Skontaktuj się, aby omówić projekt Landing Page"
+    }
+},
 
+"ecommerceabout": {
+    "title": "O Naszych Rozwiązaniach eCommerce",
+    "header3": "Profesjonalne Sklepy Internetowe, Które Sprzedają",
+    "subtitle1": "Korzyści Nowoczesnego eCommerce - Zobacz Różnicę",
+    "subtitle2": "Kompleksowe Rozwiązania Dla Twojego Biznesu Online",
+    "section1": {
+        "header1": "Tworzymy sklepy internetowe, które generują realne przychody",
+        "header2": "Perfekcyjne Platformy eCommerce Dopasowane Do Twoich Potrzeb",
+        "header3": "Stwórz Nowoczesny Sklep Online",
+        "header4": "Dzięki Naszemu Doświadczeniu w WooCommerce i Shopify",
+        "desc1": "Zwiększ sprzedaż dzięki naszym specjalistycznym rozwiązaniom eCommerce opartym na technologiach WooCommerce i Shopify. Projektujemy sklepy internetowe precyzyjnie dopasowane do Twojej branży, produktów i grupy docelowej, co przekłada się na wymierny wzrost przychodów.",
+        "desc2": "Skupieni na Sprzedaży i Doświadczeniu Klienta",
+        "desc3": "Gwarantujemy optymalizację pod kątem konwersji, szybkości ładowania i mobilności, co znacząco poprawia współczynnik sprzedaży.",
+        "desc4": "Zintegrowane Strategie Marketingowe i SEO",
+        "desc5": "Nasze zaawansowane techniki promocji sklepów połączone z SEO zwiększają ruch i sprzedaż w Twoim eCommerce."
+    },
+    "section2": {
+        "header1": "Projektowane pod specyfikę branży",
+        "header2": "Dedykowane Rozwiązania WooCommerce i Shopify",
+        "desc1": "Spersonalizowane sklepy internetowe z integracjami płatności, systemami ERP i narzędziami marketingowymi.",
+        "button": "Zamów Sklep Internetowy, Który Zwiększy Twoją Sprzedaż",
+        "desc2": "Optymalne ścieżki zakupowe zaprojektowane pod konkretne produkty, maksymalizujące średnią wartość zamówienia (AOV).",
+        "desc3": "Nowoczesne platformy z zaawansowanymi funkcjami sprzedażowymi (cross-selling, subskrypcje, automatyzacje).",
+        "header3": "Sklepy Internetowe Przygotowane na Skalowanie Biznesu"
+    },
+    "section3": {
+        "header1": "Wydajność i Bezpieczeństwo",
+        "header2": "Zwiększ Efektywność Swojego eCommerce",
+        "header3": "Maksymalna Konwersja Dla Twojego Sklepu",
+        "header4": "Zaawansowane Funkcje Sprzedażowe",
+        "desc1": "Dzięki specjalistycznej optymalizacji platform WooCommerce i Shopify, Twój sklep osiąga wyższe wskaźniki konwersji, płynność działania i bezpieczeństwo transakcji. Nasze rozwiązania gwarantują pełną integrację z systemami płatności i logistyki.",
+        "desc3": "Ekstremalnie wydajne sklepy z cache'owaniem, CDN i optymalizacją bazy danych.",
+        "desc4": "Strategie merchandisingu oparte na danych, które maksymalizują sprzedaż i lojalność klientów."
+    },
+    "section4": {
+        "header1": "Wsparcie i rozwój",
+        "header2": "Kompleksowa Obsługa Twojego eCommerce",
+        "desc1": "Oferujemy stałą opiekę nad sklepem: aktualizacje, backup, monitorowanie wydajności i bezpieczeństwa.",
+        "desc2": "Zapewniamy regularne rozszerzanie funkcjonalności zgodnie z rozwojem Twojego biznesu online.",
+        "button": "Skontaktuj się, aby omówić projekt Sklepu Internetowego"
+    }
+},
+
+"businesswebabout": {
+    "title": "O Naszych Stronach Firmowych",
+    "header3": "Profesjonalne Wizytówki Twojej Firmy Online",
+    "subtitle1": "Korzyści Efektywnej Strony Firmowej - Zobacz Różnicę",
+    "subtitle2": "Strategiczne Rozwiązania Dla Promocji Biznesu",
+    "section1": {
+        "header1": "Tworzymy strony firmowe, które generują leady i budują wizerunek",
+        "header2": "Perfekcyjne Wizytówki Online Dopasowane Do Twojej Marki",
+        "header3": "Stwórz Profesjonalną Prezentację Firmy",
+        "header4": "Dzięki Naszemu Doświadczeniu w Stronach Corporate",
+        "desc1": "Zwiększ rozpoznawalność marki i pozyskuj wartościowe kontakty biznesowe dzięki naszym specjalistycznym stronom firmowym. Projektujemy eleganckie, funkcjonalne strony, które skutecznie prezentują Twoją ofertę i zachęcają do kontaktu.",
+        "desc2": "Skupieni na Leadach i Wizerunku",
+        "desc3": "Gwarantujemy intuicyjne formularze kontaktowe, efektywne call-to-action i optymalizację pod kątem lead generation.",
+        "desc4": "Zintegrowane Strategie Content Marketing i SEO",
+        "desc5": "Nasze zaawansowane techniki pozycjonowania połączone z wartościową treścią zwiększają widoczność Twojej firmy w wyszukiwarkach."
+    },
+    "section2": {
+        "header1": "Projektowane pod cele biznesowe",
+        "header2": "Dedykowane Strony Firmowe Dla Twojego Sektora",
+        "desc1": "Spersonalizowane strony korporacyjne z systemami CMS, galeriami realizacji i sekcjami referencyjnymi.",
+        "button": "Zamów Stronę Firmową, Która Przyciągnie Klientów",
+        "desc2": "Optymalne ścieżki konwersji zaprojektowane pod generowanie zapytań ofertowych.",
+        "desc3": "Nowoczesne prezentacje firm z elementami storytellingu marki i portfolio projektów.",
+        "header3": "Strony Firmowe Które Budują Zaufanie i Profesjonalizm"
+    },
+    "section3": {
+        "header1": "Pozycjonowanie i Wizerunek",
+        "header2": "Zwiększ Rozpoznawalność Swojej Firmy",
+        "header3": "Maksymalna Widoczność w Sieci",
+        "header4": "Zaawansowane SEO Dla Firm",
+        "desc1": "Dzięki specjalistycznej optymalizacji pod kątem wyszukiwarek, Twoja strona firmowa osiąga wysokie pozycje dla fraz branżowych, generując wartościowe leady. Nasze rozwiązania łączą techniczne SEO z content marketingiem.",
+        "desc3": "Strategiczne rozmieszczenie elementów CTA i formularzy kontaktowych zwiększających konwersję.",
+        "desc4": "Kompleksowe zarządzanie treścią i aktualizacjami dla stałej widoczności w Google."
+    },
+    "section4": {
+        "header1": "Aktualizacje i rozwój",
+        "header2": "Kompleksowa Opieka Nad Twoją Stroną",
+        "desc1": "Oferujemy stałą aktualizację treści, zdjęć i realizacji, aby strona zawsze prezentowała aktualną ofertę firmy.",
+        "desc2": "Zapewniamy regularne rozszerzanie funkcjonalności zgodnie z rozwojem Twojego biznesu.",
+        "button": "Skontaktuj się, aby omówić Projekt Strony Firmowej"
+    }
+},
 
 "aivoiceabout": {
     "title": "O Naszych Usługach",
@@ -719,7 +977,6 @@
                 "item4": "Indywidualne projekty: od 2999 PLN",
                 "more": "Szczegółowa Wycena"
             },
-
 
 
             "ai": {
@@ -1233,6 +1490,8 @@
                       "desc3": "Chatbot - stworzony oczywiście w Flowise - dostępny pod powyższym linkiem dostarczy Ci najlepsze dostępne narzędzia AI dla Twoich indywidualnych celów oraz potrzeb."
                     }      
           },
+
+          
           "web": {
             "header": {
                 "header1": "Web Technologie",
@@ -1240,6 +1499,12 @@
                 "desc1": "Stworzone dla Twoich potrzeb",
                 "contact":"Kontakt" 
  
+              },
+              "landingsweb": {
+                "header": "Landing Page which sells",
+                "desc": "Created precisely for your needs.",
+                "desc1": "Stworzone dla Twoich potrzeb",
+                "contact":"Kontakt"  
               },
               "marketing": {
                 "header": "Marketing / Social Media",
@@ -1305,11 +1570,22 @@
             "subtitle": "Landing Page, Strony internetowe i E-commerce",
             "description": "Doskonale Dopasowane do Twojej Działalności"
           },
+          
           "WebFeaturesTab": {
             "header": {
               "tabOne": "Audyty i Konsultacje",
               "tabTwo": "Projektowanie i Wdrożenia",
               "tabThree": "Optymalizacja i SEO"
+            },
+            "process": {
+              "title": "Nasz Proces",
+              "subtitle": "Jak Działamy",
+              "description": "Przejrzysty proces pracy gwarantujący jakość i efektywność na każdym etapie",
+              "tabs": {
+                "tabOne": "Analiza & Planowanie",
+                "tabTwo": "Projekt & Realizacja",
+                "tabThree": "Testowanie & Wdrożenie"
+              }
             },
             "tab1Title": "Kompleksowe Audyty Stron Internetowych & Konsultacje",
             "tab1Description1": "Z wykorzystaniem najlepszych dostępnych narzędzi dokładnie analizujemy każdy aspekt Twojej istniejącej witryny, identyfikując obszary wymagające usprawnień, możliwości optymalizacji i potencjalne luki.",

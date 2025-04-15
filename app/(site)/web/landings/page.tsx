@@ -19,10 +19,9 @@ import HeaderAi from "@/components/HeaderAi";
 import HeaderWeb from "@/components/HeaderWeb";
 import { Metadata } from "next";
 import WebHero from "@/components/Web/WebHero";
-import WebFeature from "@/components/Web/WebFeature";
-import WebAbout from "@/components/About/WebAbout";
+import LandingsWebHero from "@/components/Web/WebHero/LandingsWebHero";
+import LandingsAbout from "@/components/About/LandingsAbout";
 import Motion from "@/components/Motion/MotionWeb";
-import WebPricing from "@/components/Web/WebPricing";
 
 export const metadata: Metadata = {
   title: "Ainsider.co Portfolio",
@@ -33,21 +32,22 @@ export const metadata: Metadata = {
 const ServicesPage = async () => {
   return (
     <>
-    <WebHero/>
-    <WebFeature/>
+    <LandingsWebHero/>
     <Motion/>
-    <WebAbout/>
+    <LandingsAbout/>
     {/* < FeaturesTab /> */}
+  
       {/* <HeaderWeb/> */}
       {/* <AboutWeb/> */}
       <WebFeaturesTab/>
-{/* 
-      <AboutCRM/>
-      <FeaturesTabCRM/> */}
-      <WebPricing/>
-      {/* <CTA/>  */}
+
+   
+      {/* <AboutCRM/> */}
+      {/* <FeaturesTabCRM/> */}
+
+      <CTA/> 
+     <Brands/>
     <Contact/>
-       <Brands/>
     </>
   );
 };

@@ -6,6 +6,7 @@ import FeaturesTabItem from "./FeaturesTabItem";
 import { useTranslation } from 'react-i18next';
 import { motion } from "framer-motion";
 import getTranslatedFeaturesTabData from "./featuresTabData";
+import SectionHeader from "../Common/SectionHeader";
 
 const WebFeaturesTab = () => {
   const [currentTab, setCurrentTab] = useState("tabOne");
@@ -15,6 +16,19 @@ const WebFeaturesTab = () => {
     <>
       {/* <!-- ===== Features Tab Start ===== --> */}
       <section className="pt-5 pb-27 lg:pb-30 relative">
+
+      <div className="mx-auto max-w-c-1315 px-4 md:px-8 mt-8 xl:px-0">
+          <div className="animate_top text-center mx-auto">
+          <SectionHeader
+            headerInfo={{
+              title: t('process.title'),
+              subtitle: t('process.subtitle'),
+              description: t('process.description'),
+            }}
+          />
+          </div>
+        </div>
+
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0 relative">
           <div className="absolute -top-16 -z-1 mx-auto h-[350px] w-[90%]">
             <Image

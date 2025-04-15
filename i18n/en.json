@@ -26,29 +26,157 @@
       "channels": "Channels and platforms where you can use the AI Agent"
     },
 
-    "serviceTimeline": {
-      "title": {
-        "one": "Our Service Process",
-        "two": "How We Work With You",
-        "three": "Step by step through our collaborative process designed to deliver personalized solutions"
-      },
-      "step1": {
-        "title": "Discovery and Analysis",
-        "description": "We begin by thoroughly understanding your needs. We audit your systems, processes, and technologies, whether for websites or AI tools. We discuss business goals, challenges, and target audience during consultations via Slack, WhatsApp, or Messenger. Using Notion or Trello, we document findings and identify areas for improvement. This phase combines our technical expertise with your business vision."
-      },
-      "step2": {
-        "title": "Strategy Development",
-        "description": "Based on gathered information, we create a personalized strategy. We define a roadmap - whether for strengthening your online presence or integrating AI for automation. We select appropriate technologies, establish KPIs, timelines, and resources. We collaborate through Slack or WhatsApp, organizing tasks in Notion or Trello for complete transparency. You receive a detailed plan aligned with your long-term goals."
-      },
-      "step3": {
-        "title": "Implementation and Automation",
-        "description": "Here we turn strategy into action. We build and deploy solutions with a focus on efficiency and scalability. For web projects, we may use React or Next.js; for AI - advanced algorithms or APIs. We emphasize automation to streamline processes and increase productivity. During implementation, we communicate via Messenger, Slack, or WhatsApp, tracking progress in Notion or Trello. Thorough testing ensures smooth integration with existing systems."
-      },
-      "step4": {
-        "title": "Monitoring and Optimization",
-        "description": "Our commitment doesn't end at launch. We monitor the performance of your solution using analytical tools, tracking KPIs such as speed or user engagement. Regular updates via Slack, WhatsApp, or Messenger keep you informed, while Notion or Trello boards provide an overview of ongoing optimizations. We analyze data, implementing improvements as needed. This continuous process ensures your solution evolves with your business, delivering lasting value."
+   "serviceTimeline": {
+  "title": {
+    "one": "Our service process",
+    "two": "How we work with you",
+    "three": "Step by step through our joint process of delivering personalized solutions"
+  },
+  "step1": {
+    "title": "Consultation and brief",
+    "description1": "We start with a conversation to thoroughly understand your needs, expectations, and goals.",
+    "description2": "We discuss requirements during consultations via Slack, WhatsApp, or Messenger. We create a project brief and analyze the current state (if one exists).",
+    "description3": "We gather all relevant information that will form the basis for designing the best solution and document it in Notion or Trello."
+  },
+  "step2": {
+    "title": "Solution selection and strategy",
+    "description1": "Based on the collected data, we select the most effective technologies, tools, and implementation methods.",
+    "description2": "We create a clear action plan, establish a timeline, KPIs, and work distribution.",
+    "description3": "We document and coordinate the entire process in Notion or Trello, with ongoing communication via Slack or WhatsApp."
+  },
+  "step3": {
+    "title": "Implementation and testing",
+    "description1": "We begin execution - designing, coding, and implementing the solution according to the strategy.",
+    "description2": "We use technologies like React, Next.js, or AI API integrations, and finally conduct detailed technical and UX testing.",
+    "description3": "We maintain smooth communication throughout and update statuses in Notion or your preferred work tool."
+  },
+  "step4": {
+    "title": "Delivery and optimization",
+    "description1": "We hand over the completed solution along with instructions and a user manual (in PDF format or video recording).",
+    "description2": "We train you on how to use it, then monitor performance and analyze system operation data.",
+    "description3": "We provide optimization, technical support, and further development - we're with you even after implementation."
+  }
+},
+
+    "process": {
+      "title": "Our Process",
+      "subtitle": "How We Work",
+      "description": "A transparent workflow that ensures quality and efficiency at every stage",
+      "tabs": {
+        "tabOne": "Discovery & Planning",
+        "tabTwo": "Design & Development",
+        "tabThree": "Testing & Launch"
       }
     },
+
+    "landingsweb": {
+      "header1": "Landing Pages That Sell",
+      "header2": "Created Precisely for Your Needs",
+      "desc1": "Landing Pages | One-page | Business Cards",
+      "contact": "Detailed Quote"
+  },
+
+  "ecomweb": {
+    "header1": "Online Stores and Ecommerce Platforms",
+    "header2": "Created Precisely for Your Needs",
+    "desc1": "Online Stores | E-learning | Integrations",
+    "contact": "Detailed Quote"
+ 
+},
+
+
+
+"webpricing": {
+  "title": "Our Services",
+  "subtitle": "Pricing",
+  "description": "For a detailed quote, we invite you to talk to our advisor or fill out the contact form on the 'Contact' page.",
+  "cta": "Get a Quote",
+  
+  "landing": {
+    "title": "Landing Pages",
+    "pricelandingtheme": "from $119",
+    "pricelandingcustom": "from $499",
+    "description": "High-converting landing pages designed to maximize your campaign results.",
+    "theme": {
+      "title": "From Template"
+    },
+    "custom": {
+      "title": "Custom Design"
+    },
+    "features": {
+      "title": "Key Features",
+        "list": [
+          "Modern, responsive design",
+          "Optimized SEO",
+          "Fast loading (90+ Google PageSpeed)",
+          "Any integrations with CRM and Forms",
+          "Google Analytics configuration",
+          "Mobile-first approach",
+          "Hosting and domain configuration",
+          "Email configuration"
+        ]
+    }
+  },
+  "business": {
+    "title": "Business Websites",
+    "pricebstheme": "from $249",
+    "pricebscustom": "from $699",
+    "description": "Professional websites that represent your brand and drive business growth.",
+    "theme": {
+      "title": "Theme Customization"
+    },
+    "custom": {
+      "title": "Custom Design"
+    },
+    "features": {
+      "title": "Key Features",
+          "list": [
+        "Main page and 5-10 subpages",
+        "Content management system",
+        "Advanced SEO optimization",
+        "Fast loading (90+ Google PageSpeed)",
+        "Any integrations with CRM and Forms",
+        "Google Analytics and Search Console configuration",
+        "Mobile-first responsive design",
+        "1 year technical support",
+        "Hosting and domain configuration",
+        "Corporate email configuration"
+      ]
+    }
+  },
+  "ecommerce": {
+    "title": "Ecommerce Platforms",
+    "priceecomtheme": "from $499",
+    "priceecomcustom": "from $999",
+    "description": "Powerful online stores designed to maximize your sales and customer experience.",
+    "theme": {
+      "title": "Theme Customization"
+    },
+    "custom": {
+      "title": "Custom Design"
+    },
+    "features": {
+      "title": "Key Features",
+          "list": [
+        "Internal inventory management or through integrations",
+        "Any payment gateways",
+        "CRM system integrations",
+        "Invoicing system integrations",
+        "E-commerce automation systems",
+        "Advanced SEO optimization",
+        "Google Analytics and Search Console configuration",
+        "Mobile-first responsive design",
+        "1 year technical support",
+        "High-performance hosting configuration",
+        "Corporate email configuration",
+        "Marketing tools integration",
+        "Supply and tax configuration"
+      ]
+    }
+  }
+},
+
+
 
   "features": {
     "header": {
@@ -410,47 +538,51 @@
 
 
 
-         "mainabout": {
-    "title": "About Our Services",
-    "header3": "Comprehensive Solutions for Your Business",
-    "subtitle1": "Benefits We Offer – Discover Value for Your Company",
-    "subtitle2": "Innovative Technologies That Drive Your Success",
-    "section1": {
-        "header1": "We Build Solutions That Deliver Results",
-        "header2": "Web, AI, and Automation Tailored to Your Goals",
-        "header3": "Modern Online Presence with AI Integration",
-        "header4": "With Our Comprehensive Support",
-        "desc1": "Enhance your business efficiency and competitiveness with personalized solutions – from professional websites and e-commerce stores to AI agents integrating with CRMs and databases, and advanced process automation. All tailored to the unique needs of your industry.",
-        "desc2": "Focused on Saving Time and Resources",
-        "desc3": "We guarantee solutions that reduce operational costs: fast-loading websites, automation of repetitive tasks, and AI analyzing data in real time.",
-        "desc4": "Strategies That Attract Customers and Boost Sales",
-        "desc5": "A combination of SEO, AI-driven personalization, and marketing automation ensures search engine visibility and the conversions you need."
-    },
-    "section2": {
-        "header1": "Tailored to Your Industry",
-        "header2": "Integration of Web, AI, and Tools like Make/Zapier/n8n",
-        "desc1": "We build systems that connect your tools (Google Drive, CRM, social media) into a cohesive ecosystem – from automated workflows to AI agents analyzing customer data.",
-        "button": "Start Your Transformation and Gain a Competitive Edge",
-        "desc2": "E-commerce platforms with AI-powered product recommendations, 24/7 customer service chatbots, and automated order processing – all in one place.",
-        "desc3": "Automation of customer service, analytics, and backend processes that saves up to 80% of your team’s time.",
-        "header3": "Technologies That Work for You 24/7"
-    },
-    "section3": {
-        "header1": "Efficiency and Innovation in Every Detail",
-        "header2": "Optimization, Speed, and Security",
-        "header3": "Maximum Performance Through AI and Automation",
-        "header4": "Dominance Online and Beyond",
-        "desc1": "Our solutions combine technological precision with business efficiency: lightning-fast websites, AI forecasting trends, and automation streamlining logistics.",
-        "desc3": "AI agents monitoring the market and competition in real time, delivering insights that help you make informed decisions.",
-        "desc4": "Automation of marketing campaigns and data analytics – from lead generation to sales, without wasting resources."
-    },
-    "section4": {
-        "header1": "Support and Continuous Development",
-        "header2": "A Partner You Can Rely On",
-        "desc1": "We offer not only implementations but also ongoing support: AI updates, SEO optimization, and system scaling as your business grows.",
-        "desc2": "Our team of experts is available 24/7 to ensure smooth operations and introduce innovations that keep you ahead of the competition.",
-        "button": "Schedule a Consultation and Discover New Possibilities"
-    }
+     "mainabout": {
+  "title": "About Our Services",
+  "header3": "Strategic Solutions for the Modern Business",
+  "subtitle1": "Designed for Efficiency, Effectiveness, and Growth",
+  "subtitle2": "Technology That Truly Supports Your Business",
+
+  "section1": {
+    "header1": "Solutions Tailored to Your Business Model",
+    "header2": "Strategy Aligned with Your Goals",
+    "header3": "A Modern Online Presence That Works for You",
+    "header4": "Your Goals – Powered by Our Tech and Experience",
+    "desc1": "We analyze your needs and design custom solutions – from professional websites and e-commerce platforms to AI chatbots, recommendation engines, and personalized automations. The result? Tools that truly support your unique business model.",
+    "desc2": "Your goals are our starting point – we build solutions that help you act faster, compete more effectively, and communicate with customers more clearly.",
+    "desc3": "Every implementation we deliver is built with one goal: maximum performance – in acquiring new customers, automating manual processes, and increasing your operational impact.",
+    "desc4": "We don’t just build websites – we create complete systems that deliver measurable results: more sales, greater user engagement, and reduced operational costs.",
+    "desc5": "Through our collaboration, your brand gains a new level of digital quality – with technologies that significantly boost the value of your offer."
+  },
+
+  "section2": {
+    "header1": "Modern Technologies Aligned with Real Business Needs",
+    "header2": "Seamless Integration of Web, AI, and Automation",
+    "desc1": "We build intelligent systems that integrate with tools you already use – CRMs, Google Drive, social media, ERP – and enhance them with AI and automation. This enables faster, more precise, and scalable operations.",
+    "desc2": "Your business gets a system that works 24/7 – AI recommending products, chatbots handling support, automated sales and processes – all within one cohesive platform.",
+    "desc3": "We deploy technology where it makes the biggest difference: automating repetitive tasks, saving your team’s time, improving customer service, and integrating with tools like n8n, Zapier, or Make.",
+    "header3": "Technology That Works *for* You",
+    "button": "Turn Processes Into an Advantage – Start Now"
+  },
+
+  "section3": {
+    "header1": "Automation and Integrations That Drive Real Results",
+    "header2": "Scaling, Optimization, and Cost Reduction",
+    "header3": "AI That Thinks – Automation That Performs",
+    "header4": "Focus on Strategy – Let the System Handle the Rest",
+    "desc1": "We cut your operational workload by up to 80% through automation of communication, lead generation, reporting, and data processing – so your team can finally focus on what truly matters.",
+    "desc3": "Our AI Agents analyze customer data, monitor competitors and market trends in real time, and deliver actionable insights to support better decisions.",
+    "desc4": "We automate the entire customer journey – from the first contact to sale and remarketing – with no need for constant team involvement at every step."
+  },
+
+  "section4": {
+    "header1": "Long-Term Support and Future-Ready Systems",
+    "header2": "A Platform That Grows with Your Business",
+    "desc1": "Our work doesn’t end at deployment – we ensure continuous system evolution, feature expansion, AI updates, and analytics-driven insights for ongoing optimization.",
+    "desc2": "We’re your long-term tech partner – with scalable architecture, regular updates, and 24/7 support as our standard.",
+    "button": "Schedule a Consultation and Discover Your Business Growth Plan"
+  }
 },
 
 
@@ -497,7 +629,136 @@
     }
 },
 
+"landingsabout": {
+    "title": "About Our Landing Page Services",
+    "header3": "Professional Landing Pages That Convert",
+    "subtitle1": "Benefits of Professional Landing Pages - See the Difference",
+    "subtitle2": "Effective Solutions for Your Campaigns",
+    "section1": {
+        "header1": "We build landing pages that generate leads and sales",
+        "header2": "Perfectly Tailored Landing Pages for Your Goals",
+        "header3": "Create a High-Converting Landing Page",
+        "header4": "Thanks to Our Landing Page Expertise",
+        "desc1": "Boost the effectiveness of your ad campaigns with our specialized landing pages designed to maximize conversions. We create targeted pages precisely tailored to your audience, products, and marketing objectives, resulting in real sales growth and higher-quality leads.",
+        "desc2": "Focused on Conversions and Efficiency",
+        "desc3": "We guarantee optimization for fast loading speeds and conversion paths that significantly improve your conversion rates.",
+        "desc4": "Integrated CRO and SEO Strategies",
+        "desc5": "Our advanced conversion optimization (CRO) techniques combined with SEO enhance your landing pages' ability to acquire customers."
+    },
+    "section2": {
+        "header1": "Designed for specific campaigns",
+        "header2": "Dedicated Landing Pages for Your Needs",
+        "desc1": "Customized landing pages that increase conversions for Google Ads, Facebook Ads, and other advertising channels.",
+        "button": "Order a Landing Page That Boosts Your Conversions",
+        "desc2": "Optimized conversion paths designed for specific products and services, maximizing your campaign ROI.",
+        "desc3": "Modern landing pages with sales psychology elements, tailored to your industry and target audience.",
+        "header3": "Landing Pages That Generate Sales at First Glance"
+    },
+    "section3": {
+        "header1": "Conversion Optimization and Performance",
+        "header2": "Increase Your Advertising Campaign Effectiveness",
+        "header3": "Maximum Conversions for Your Business",
+        "header4": "Advanced CRO for Better Results",
+        "desc1": "With specialized conversion rate optimization (CRO), your landing pages achieve higher conversion rates, directly lowering customer acquisition costs and improving campaign performance. Our solutions ensure perfect alignment with your marketing goals.",
+        "desc3": "Highly effective CTAs and conversion paths that increase your conversion rates.",
+        "desc4": "CRO strategies based on A/B testing and user behavior analysis that maximize landing page effectiveness."
+    },
+    "section4": {
+        "header1": "Testing and continuous optimization",
+        "header2": "Comprehensive Support for Your Landing Pages",
+        "desc1": "We offer ongoing landing page optimization including A/B testing, heatmap analysis, and adaptation to changing trends.",
+        "desc2": "We provide regular updates and conversion improvements so your landing pages always perform at their peak.",
+        "button": "Contact Us to Discuss Your Landing Page Project"
+    }
+},
 
+
+"businesswebabout": {
+    "title": "About Our Business Website Services",
+    "header3": "Professional Corporate Websites That Generate Leads",
+    "subtitle1": "Benefits of Effective Business Websites - See the Difference",
+    "subtitle2": "Strategic Solutions For Company Promotion",
+    "section1": {
+        "header1": "We build business websites that generate leads and enhance brand image",
+        "header2": "Perfect Online Business Cards Tailored to Your Brand",
+        "header3": "Create a Professional Company Presentation",
+        "header4": "Thanks to Our Corporate Website Expertise",
+        "desc1": "Increase brand recognition and acquire valuable business contacts with our specialized corporate websites. We design elegant, functional sites that effectively present your offerings and encourage engagement.",
+        "desc2": "Focused on Leads and Branding",
+        "desc3": "We guarantee intuitive contact forms, effective call-to-action elements, and lead generation optimization.",
+        "desc4": "Integrated Content Marketing and SEO Strategies",
+        "desc5": "Our advanced positioning techniques combined with valuable content increase your company's search engine visibility."
+    },
+    "section2": {
+        "header1": "Designed for business objectives",
+        "header2": "Dedicated Business Websites For Your Industry",
+        "desc1": "Custom corporate websites with CMS systems, project galleries, and testimonial sections.",
+        "button": "Order a Business Website That Attracts Clients",
+        "desc2": "Optimized conversion paths designed to generate quote requests.",
+        "desc3": "Modern company presentations with brand storytelling elements and project portfolios.",
+        "header3": "Business Websites That Build Trust and Professionalism"
+    },
+    "section3": {
+        "header1": "SEO and Brand Image",
+        "header2": "Increase Your Company's Online Presence",
+        "header3": "Maximum Visibility Online",
+        "header4": "Advanced SEO For Businesses",
+        "desc1": "With specialized search engine optimization, your business website achieves top rankings for industry keywords, generating quality leads. Our solutions combine technical SEO with content marketing.",
+        "desc3": "Strategic placement of CTAs and contact forms that boost conversion rates.",
+        "desc4": "Comprehensive content management and updates for consistent Google visibility."
+    },
+    "section4": {
+        "header1": "Updates and development",
+        "header2": "Comprehensive Website Maintenance",
+        "desc1": "We offer regular content, photo, and portfolio updates to keep your website current with company offerings.",
+        "desc2": "We provide ongoing feature expansions aligned with your business growth.",
+        "button": "Contact Us to Discuss Your Business Website Project"
+    }
+},
+
+
+"ecommerceabout": {
+    "title": "About Our eCommerce Solutions",
+    "header3": "Professional Online Stores That Drive Sales",
+    "subtitle1": "Benefits of Modern eCommerce - See the Difference",
+    "subtitle2": "Comprehensive Solutions For Your Online Business",
+    "section1": {
+        "header1": "We build online stores that generate real revenue",
+        "header2": "Perfect eCommerce Platforms Tailored to Your Needs",
+        "header3": "Create a Modern Online Store",
+        "header4": "Thanks to Our WooCommerce and Shopify Expertise",
+        "desc1": "Boost your sales with our specialized eCommerce solutions powered by WooCommerce and Shopify technologies. We design online stores precisely tailored to your industry, products, and target audience, resulting in measurable revenue growth.",
+        "desc2": "Focused on Sales and Customer Experience",
+        "desc3": "We guarantee optimization for conversions, loading speed, and mobile responsiveness, significantly improving your sales conversion rates.",
+        "desc4": "Integrated Marketing and SEO Strategies",
+        "desc5": "Our advanced store promotion techniques combined with SEO increase traffic and sales for your eCommerce business."
+    },
+    "section2": {
+        "header1": "Designed for industry specifics",
+        "header2": "Dedicated WooCommerce and Shopify Solutions",
+        "desc1": "Custom online stores with payment gateways, ERP systems, and marketing tools integrations.",
+        "button": "Order an Online Store That Will Increase Your Sales",
+        "desc2": "Optimized purchase paths designed for specific products, maximizing average order value (AOV).",
+        "desc3": "Modern platforms with advanced sales features (cross-selling, subscriptions, automations).",
+        "header3": "eCommerce Stores Ready for Business Scaling"
+    },
+    "section3": {
+        "header1": "Performance and Security",
+        "header2": "Increase Your eCommerce Efficiency",
+        "header3": "Maximum Conversion For Your Store",
+        "header4": "Advanced Sales Features",
+        "desc1": "With specialized optimization of WooCommerce and Shopify platforms, your store achieves higher conversion rates, smooth operation, and transaction security. Our solutions guarantee full integration with payment and logistics systems.",
+        "desc3": "Extremely efficient stores with caching, CDN, and database optimization.",
+        "desc4": "Data-driven merchandising strategies that maximize sales and customer loyalty."
+    },
+    "section4": {
+        "header1": "Support and development",
+        "header2": "Comprehensive eCommerce Management",
+        "desc1": "We offer ongoing store maintenance: updates, backups, performance and security monitoring.",
+        "desc2": "We provide regular feature expansions aligned with your online business growth.",
+        "button": "Contact Us to Discuss Your Online Store Project"
+    }
+},
 
 "aivoiceabout": {
     "title": "About Our Services",
@@ -1268,12 +1529,25 @@
 "headcook6": "§6. FINAL PROVISIONS",
 "cook7": "This Cookie Policy enters into force on 01.05.2024. The Administrator reserves the right to amend this Cookie Policy. Customers will be informed of any changes electronically."
 },
+
+
+
 "heroWebSection": {
   "header": {
     "title": "Web Technologies",
     "subtitle": "Landing Pages, Websites, and E-commerce",
     "description": "Perfectly Tailored for Your Online Presence"
   },
+  "process": {
+      "title": "Our Process",
+      "subtitle": "How We Work",
+      "description": "A transparent workflow that ensures quality and efficiency at every stage",
+      "tabs": {
+        "tabOne": "Discovery & Planning",
+        "tabTwo": "Design & Development",
+        "tabThree": "Testing & Launch"
+      }
+    },
   "WebFeaturesTab": {
     "header": {
       "tabOne": "Audits and Consultations",

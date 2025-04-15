@@ -40,9 +40,9 @@ const Contact = () => {
               fill
             />
           </div>
-          <h2 className="text-black dark:text-white text-3xl xl:text-sectiontitle2 font-semibold mb-15">
+          {/* <h2 className="text-black dark:text-white text-3xl xl:text-sectiontitle2 font-semibold mb-15">
               {t('contact.headermain')}
-              </h2>
+              </h2> */}
           <div className="flex flex-wrap md:flex-nowrap flex-col-reverse md:flex-row gap-8 xl:gap-20 md:justify-between">
             <motion.div
               variants={{
@@ -65,7 +65,7 @@ const Contact = () => {
               <h2 className="text-black dark:text-white text-2xl xl:text-sectiontitle2 font-semibold mb-15">
               {t('contact.header1')}
               </h2>
-              <h3 className="text-black dark:text-white text-xl xl:text-sectiontitle2 font-semibold mb-15">
+              <h3 className="text-black dark:text-white text-lg xl:text-xl font-semibold mb-15">
               {t('contact.header1.2')}
               </h3>
               {/* <form
