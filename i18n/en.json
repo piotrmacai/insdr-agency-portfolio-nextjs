@@ -144,6 +144,126 @@
       ]
     }
   },
+
+
+"agentpricing": {
+  "title": "Our AI Services",
+  "subtitle": "AI Agent Pricing",
+  "description": "Contact us for a detailed quote tailored to your needs in building and deploying AI agents.",
+  "cta": "Request a Quote",
+
+  "support": {
+    "title": "Customer Support and Lead Generation Agents",
+    "pricetemplate": "from $100",
+    "pricecustom": "from $299",
+    "description": "Intelligent AI agents to automate customer support and generate sales leads.",
+    "template": {
+      "title": "Text Agent"
+    },
+    "custom": {
+      "title": "Voice Agent"
+    },
+    "features": {
+      "title": "Key Features",
+      "list": [
+        "Automated responses to customer inquiries",
+        "Integration with website chat and social media",
+        "Basic natural language processing",
+        "Lead qualification and segmentation",
+        "Cloud-based configuration",
+        "Basic reporting and analytics",
+        "CRM integration (e.g., HubSpot, Salesforce)",
+        "3 months of technical support"
+      ]
+    }
+  },
+  "ecommerce": {
+    "title": "Ecommerce Agents and Recommendation Systems",
+    "pricetemplate": "from $199",
+    "pricecustom": "from $299",
+    "description": "Advanced AI agents and recommendation systems for online stores to boost sales and engagement.",
+    "template": {
+      "title": "Text Agent"
+    },
+    "custom": {
+      "title": "Voice Agent"
+    },
+    "features": {
+      "title": "Key Features",
+      "list": [
+        "Personalized product recommendations",
+        "Automated sales chat",
+        "Integration with ecommerce platforms (e.g., Shopify, WooCommerce)",
+        "Customer behavior analysis",
+        "Multilingual support",
+        "Advanced sales analytics",
+        "Cloud-based configuration",
+        "6 months of technical support",
+        "Team training"
+      ]
+    }
+  },
+  "content": {
+    "title": "Content Generation Agents",
+    "pricetemplate": "from $149",
+    "pricecustom": "from $299",
+    "description": "AI agents for generating high-quality marketing content, blog posts, and social media material.",
+    "template": {
+      "title": "Text Agent"
+    },
+    "custom": {
+      "title": "Voice Agent"
+    },
+    "features": {
+      "title": "Key Features",
+      "list": [
+        "Automated post and article generation",
+        "SEO optimization for content",
+        "Multilingual content generation",
+        "Integration with CMS (e.g., WordPress)",
+        "Publication scheduling",
+        "Basic content analytics",
+        "Cloud-based configuration",
+        "3 months of technical support"
+      ]
+    }
+  },
+  "custom": {
+    "title": "Custom AI Solutions",
+    "subtitle": "Tailored AI Agents",
+    "description": "We create personalized AI agents tailored to your company’s unique needs.",
+    "details": "Our custom AI solutions are designed from the ground up to meet your business’s specific challenges, from advanced automation to unique system integrations.",
+    "pricing": {
+      "title": "Pricing",
+      "price": "Invidual pricing - contact to get detailed quote"
+    },
+    "features": {
+      "title": "Key Features",
+      "list": [
+        "Full AI agent personalization",
+        "Integration with any internal systems",
+        "Advanced AI models and machine learning",
+        "Dedicated cloud or on-premise infrastructure",
+        "Advanced analytics and reporting",
+        "Support for multiple languages and dialects",
+        "12 months of technical support",
+        "Updates and upgrades",
+        "Team training and workshops"
+      ]
+    }
+  }
+},
+
+
+
+
+
+
+
+
+
+
+
   "ecommerce": {
     "title": "Ecommerce Platforms",
     "priceecomtheme": "from $499",

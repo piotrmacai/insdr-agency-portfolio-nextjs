@@ -161,6 +161,118 @@
   },
 
 
+  "agentpricing": {
+    "title": "Nasze Usługi AI",
+    "subtitle": "Cennik Agentów i Asystentów AI",
+    "description": "Skontaktuj się z nami, aby uzyskać szczegółową wycenę dopasowaną do Twoich potrzeb w zakresie tworzenia i wdrażania agentów AI.",
+    "cta": "Zamów Wycenę",
+    
+    "support": {
+      "title": "Agenci Dla Wsparcia Klienta i Generowania Leadów",
+      "pricetemplate": "od 299 PLN",
+      "pricecustom": "od 499 PLN",
+      "description": "Inteligentni agenci AI do automatyzacji obsługi klienta i generowania leadów sprzedażowych.",
+      "template": {
+        "title": "Agent Tekstowy"
+      },
+      "custom": {
+        "title": "Agent Głosowy"
+      },
+      "features": {
+        "title": "Kluczowe Funkcje",
+        "list": [
+          "Automatyzacja odpowiedzi na zapytania klientów",
+          "Integracja z czatem na stronie i mediami społecznościowymi",
+          "Proste przetwarzanie języka naturalnego",
+          "Kwalifikacja i segmentacja leadów",
+          "Konfiguracja w chmurze",
+          "Podstawowe raporty i analityka",
+          "Integracja z CRM (np. HubSpot, Salesforce)",
+          "3 miesiące wsparcia technicznego"
+        ]
+      }
+    },
+    "ecommerce": {
+      "title": "Agenci Ecommerce i Systemy Rekomendacji",
+      "pricetemplate": "od 999 PLN",
+      "pricecustom": "od 1499 PLN",
+      "description": "Zaawansowane agenty AI i systemy rekomendacji dla sklepów internetowych, zwiększające sprzedaż i zaangażowanie.",
+      "template": {
+        "title": "Agent Tekstowy"
+      },
+      "custom": {
+        "title": "Agent Głosowy"
+      },
+      "features": {
+        "title": "Kluczowe Funkcje",
+        "list": [
+          "Personalizowane rekomendacje produktów",
+          "Automatyzacja czatu sprzedażowego",
+          "Integracja z platformami ecommerce (np. Shopify, WooCommerce)",
+          "Analiza zachowań klientów",
+          "Wsparcie dla wielu języków",
+          "Zaawansowana analityka sprzedaży",
+          "Konfiguracja w chmurze",
+          "6 miesięcy wsparcia technicznego",
+          "Szkolenie dla zespołu"
+        ]
+      }
+    },
+    "content": {
+      "title": "Agenci Generowania Treści",
+      "pricetemplate": "od 499 PLN",
+      "pricecustom": "od 2999 PLN",
+      "description": "Agenty AI do tworzenia wysokiej jakości treści marketingowych, blogów i mediów społecznościowych.",
+      "template": {
+        "title": "Agent Tekstowy"
+      },
+      "custom": {
+        "title": "Agent Głosowy"
+      },
+      "features": {
+        "title": "Kluczowe Funkcje",
+        "list": [
+          "Automatyczne tworzenie postów i artykułów",
+          "Optymalizacja SEO dla treści",
+          "Generowanie treści w wielu językach",
+          "Integracja z CMS (np. WordPress)",
+          "Tworzenie harmonogramów publikacji",
+          "Podstawowa analityka treści",
+          "Konfiguracja w chmurze",
+          "3 miesiące wsparcia technicznego"
+        ]
+      }
+    },
+    "custom": {
+      "title": "Niestandardowe Rozwiązania AI",
+      "subtitle": "Dedykowane Agenty AI",
+      "description": "Tworzymy spersonalizowane agenty AI dostosowane do unikalnych potrzeb Twojej firmy.",
+      "details": "Nasze niestandardowe rozwiązania AI są projektowane od podstaw, aby sprostać specyficznym wyzwaniom Twojego biznesu, od zaawansowanych automatyzacji po unikalne integracje systemowe.",
+      "pricing": {
+        "title": "Cennik",
+        "price": "Indywidualna wycena"
+      },
+      "features": {
+        "title": "Kluczowe Funkcje",
+        "list": [
+          "Pełna personalizacja agenta AI",
+          "Integracja z dowolnymi systemami wewnętrznymi",
+          "Zaawansowane modele AI i uczenie maszynowe",
+          "Dedykowana infrastruktura chmurowa lub on-premise",
+          "Zaawansowana analityka i raportowanie",
+          "Wsparcie dla wielu języków i dialektów",
+          "12 miesięcy wsparcia technicznego",
+          "Dedykowany opiekun projektu",
+          "Szkolenie i warsztaty dla zespołu"
+        ]
+      }
+    }
+  },
+
+
+
+
+
 
 
 "serviceTimeline": {
@@ -526,7 +638,7 @@
     "header3": "AI, Która Myśli – Automatyzacja, Która Działa",
     "header4": "Skup się na Strategii – Resztę Wykona System",
     "desc1": "Redukujemy Twój czas operacyjny o nawet 80% dzięki automatyzacji komunikacji, lead generation, raportowania i przetwarzania danych. Twój zespół może wreszcie skupić się na tym, co naprawdę ważne.",
-    "desc3": "AI Agents analizują dane klientów, monitorują konkurencję i rynek w czasie rzeczywistym, dostarczając rekomendacje i wnioski do podejmowania trafnych decyzji.",
+    "desc3": "Agenci i Asystenci AI którzy analizują dane klientów, monitorują konkurencję i rynek w czasie rzeczywistym, dostarczając rekomendacje i wnioski do podejmowania trafnych decyzji.",
     "desc4": "Automatyzacja całej ścieżki klienta – od kontaktu przez sprzedaż po remarketing – bez potrzeby angażowania zespołu w każdą interakcję."
   },
 
@@ -761,33 +873,33 @@
     "title": "O Naszych Usługach",
     "header3": "Stwórz Inteligentne Rozwiązania z AI",
     "subtitle1": "Korzyści, Które Oferujemy - Dowiedz Się, Co Możesz Zyskać",
-    "subtitle2": "Innowacyjne AI Agents dla Twojego Biznesu",
+    "subtitle2": "Agenci i Asystenci AI szyte na miarę Twojego Biznesu",
     "section1": {
-        "header1": "Tworzymy AI Agents, które pracują dla Ciebie",
+        "header1": "Tworzymy Agentów i Asystentów AI, które pracują dla Ciebie",
         "header2": "Inteligentne Rozwiązania na Miarę Twoich Potrzeb",
         "header3": "Stwórz Nowoczesną Automatyzację z AI",
         "header4": "Dzięki Naszym Profesjonalnym Usługom",
-        "desc1": "Zwiększ efektywność swojego biznesu dzięki naszym spersonalizowanym AI Agents, które są dostosowane do unikalnych potrzeb Twojej firmy. Oferujemy kompleksowe wdrożenia AI, które integrują się z lokalnymi systemami, chmurą, CRM, pocztą e-mail i innymi źródłami danych, aby automatyzować procesy i zwiększać Twoją konkurencyjność na rynku.",
+        "desc1": "Zwiększ efektywność swojego biznesu dzięki naszym spersonalizowanym Agentom i Automatyzacjom, które są dostosowane do unikalnych potrzeb Twojej firmy. Oferujemy kompleksowe wdrożenia AI, które integrują się z lokalnymi systemami, chmurą, CRM, pocztą e-mail i innymi źródłami danych, aby automatyzować procesy i zwiększać Twoją konkurencyjność na rynku.",
         "desc2": "Skoncentrowani na Wydajności i Sukcesie",
-        "desc3": "Gwarantujemy szybkie i niezawodne działanie AI Agents, które pracują zarówno lokalnie, jak i w chmurze, zapewniając optymalne doświadczenie użytkownika i wyższą efektywność operacyjną.",
-        "desc4": "AI Agents Dostosowane do Twojej Branży",
+        "desc3": "Gwarantujemy szybkie i niezawodne działanie Agentów, które pracują zarówno lokalnie, jak i w chmurze, zapewniając optymalne doświadczenie użytkownika i wyższą efektywność operacyjną.",
+        "desc4": "Agenci i Automatyzacje Dostosowane do Twojej Branży",
         "desc5": "Nasze zaawansowane rozwiązania AI są elastyczne i mogą być dostosowane do dowolnych celów biznesowych, od automatyzacji procesów po analizę danych i integrację z istniejącymi systemami."
     },
     "section2": {
         "header1": "Szyte na miarę Twoich potrzeb",
-        "header2": "Indywidualne AI Agents dla Twojego Biznesu",
-        "desc1": "Personalizowane AI Agents, które integrują się z Google Drive, Gmail, CRM i innymi źródłami danych, aby zwiększyć produktywność i poprawić doświadczenia użytkowników.",
+        "header2": "Indywidualne Asytenci i Automatyzacje AI dla Twojego Biznesu",
+        "desc1": "Personalizowane Agenci, Asystenci i Automatyzacje, które integrują się z Google Drive, Gmail, CRM i innymi źródłami danych, aby zwiększyć produktywność i poprawić doświadczenia użytkowników.",
         "button": "Rozpocznij Transformację z AI i Zwiększ Swoje Zyski",
-        "desc2": "Dedykowane AI Agents, które maksymalizują efektywność dzięki intuicyjnej automatyzacji i analizie danych w czasie rzeczywistym.",
+        "desc2": "Dedykowani Agenci AI, które maksymalizują efektywność dzięki intuicyjnej automatyzacji i analizie danych w czasie rzeczywistym.",
         "desc3": "Nowoczesne rozwiązania AI, które są elastyczne i dostosowane do specyficznych potrzeb Twojej branży, co przekłada się na wzrost efektywności i redukcję kosztów.",
-        "header3": "AI Agents, które Automatyzują i Optymalizują Twoje Procesy"
+        "header3": "AI, które Automatyzuje i Optymalizuje Twoje Procesy"
     },
     "section3": {
         "header1": "Wydajność i Integracja z AI",
         "header2": "Zwiększ Efektywność Dzięki Inteligentnej Automatyzacji",
         "header3": "Maksymalna Wydajność dla Twojego Biznesu",
         "header4": "Zaawansowane AI dla Dominacji w Twojej Branży",
-        "desc1": "Dzięki zaawansowanym AI Agents, Twoja firma zyskuje narzędzia do automatyzacji procesów, analizy danych i integracji z dowolnymi źródłami danych. Nasze rozwiązania zapewniają maksymalną wydajność, co przekłada się na szybsze i bardziej efektywne operacje biznesowe.",
+        "desc1": "Dzięki zaawansowanym Agentom AI, Twoja firma zyskuje narzędzia do automatyzacji procesów, analizy danych i integracji z dowolnymi źródłami danych. Nasze rozwiązania zapewniają maksymalną wydajność, co przekłada się na szybsze i bardziej efektywne operacje biznesowe.",
         "desc3": "Ekstremalnie szybkie przetwarzanie danych i automatyzacja, które poprawiają doświadczenie użytkownika i zwiększają efektywność na wszystkich poziomach.",
         "desc4": "Strategie AI oparte na analizie danych, które gwarantują optymalizację procesów i przyciągają wartość biznesową z każdego źródła danych."
     },
@@ -795,7 +907,7 @@
         "header1": "Utrzymanie i Rozwój AI",
         "header2": "Niezawodne Wsparcie dla Twojego Biznesu",
         "desc1": "Oferujemy dedykowane wsparcie, które nie tylko rozwiązuje bieżące problemy, ale także wprowadza innowacje w zakresie AI, aby Twoje rozwiązania były zawsze na czołowej pozycji w branży.",
-        "desc2": "Zapewniamy regularne aktualizacje i optymalizacje AI Agents, co pozwala Ci skupić się w pełni na rozwoju Twojego biznesu, podczas gdy my dbamy o techniczne aspekty.",
+        "desc2": "Zapewniamy regularne aktualizacje i optymalizacje, co pozwala Ci skupić się w pełni na rozwoju Twojego biznesu, podczas gdy my dbamy o techniczne aspekty.",
         "button": "Skontaktuj się z nami, aby omówić Twoje potrzeby"
     }
 },
