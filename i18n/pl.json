@@ -245,7 +245,7 @@
     },
     "custom": {
       "title": "Niestandardowe Rozwiązania AI",
-      "subtitle": "Dedykowane Agenty AI",
+      "subtitle": "Dedykowani Agenci AI",
       "description": "Tworzymy spersonalizowane agenty AI dostosowane do unikalnych potrzeb Twojej firmy.",
       "details": "Nasze niestandardowe rozwiązania AI są projektowane od podstaw, aby sprostać specyficznym wyzwaniom Twojego biznesu, od zaawansowanych automatyzacji po unikalne integracje systemowe.",
       "pricing": {
@@ -1010,9 +1010,9 @@
           "header1": "Asystenci i Agenci AI",
           "header2": "Indywidualne Rozwiązania AI",
            "desc1": "Idealnie dopasowani do indywidualnych celów i potrzeb Twojej firmy",
-           "desc2": "Dowolna baza wiedzy - z wielu różnych źródeł",
-           "desc3": "Dokładnie określone zachowania, ton, oraz format odpowiedzi",
-           "desc4": "Integracje z dowolnymi platformami i systemami CRM",
+           "desc2": "Agenci tekstowy oraz głosowi",
+           "desc3": "Integracje z dowolnymi platformami i systemami CRM",
+           "desc4": "Dowolna baza wiedzy - z wielu różnych źródeł",
            "desc5": "Automatyzacje szyte na miarę potrzeb"
         }
       },
@@ -1173,7 +1173,8 @@
         "header": {
             "menu1": "Home",
             "menu2": "Portfolio",
-            "menu3": "Rozwiązania",
+            "menu3": "AI & Automatyzacje",    
+            "menu12":"Web & Ecom",
             "menu4": "Kontakt",
             "menu5": "Strony i Platformy www",
             "menu6": "AI",
@@ -1182,7 +1183,7 @@
             "menu10":"Marketing",
             "menu9": "Polityka Prywatności",
             "menu11":"Magazyn AI",
-            "menu12":"Agenci AI",
+            "voiceagents":"Głosowi Agenci AI",
             "menu13":"Kursy i Szkolenia",
             "menu14":"Biblioteka Narzędzi AI",
             "menuapps":"Nasze Aplikacje AI",

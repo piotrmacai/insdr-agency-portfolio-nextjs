@@ -42,8 +42,8 @@ const ServicesPage = async () => {
    
        < FeaturesTab />
       <CTA/> 
-     <Brands/>
     <Contact/>
+         <Brands/>
     </>
   );
 };

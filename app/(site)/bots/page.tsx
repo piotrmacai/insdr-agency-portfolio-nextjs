@@ -36,18 +36,18 @@ const ServicesPage = async () => {
   return (
     <>
     <AiHero />   
-    <AiFeature/>  
-    <Motion/>
+    <AiFeature/>   
     <AiAbout/>
-     <AiAboutOne/>        
-    <AiAboutTwo/>      
-    <CTAToPortfolio/> 
+    <Motion/>
+    {/* <AiAboutOne/>         */}
+    {/* <AiAboutTwo/>       */}
+    {/* <CTAToPortfolio/>  */}
     <AgentPricing/>   
     <FeaturesTab />    
     <CTA/>   
     {/* <AiFeaturesTab/>    */}
-    <Brands/>   
     <Contact/>
+    <Brands/>   
     </>
   );
 };

@@ -22,7 +22,6 @@ const GenAiPortfolio = () => {
             </h1>
             <p className="text-black dark:text-white mb-4">{t('aivoice.hero.desc1')}</p> 
             <p className="mb-2">✅ {t('aivoice.hero.desc2')}</p> 
-            <p className="mb-2">✅ {t('aivoice.hero.desc3')}</p>
             <p className="mb-2">✅ {t('aivoice.hero.desc3')}</p>  
             <p className="mb-2">✅ {t('aivoice.hero.desc4')}</p> 
           </div>

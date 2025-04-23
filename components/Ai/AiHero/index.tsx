@@ -22,7 +22,6 @@ const GenAiPortfolio = () => {
             </h1>
             <p className="text-black dark:text-white mb-4">{t('ai.hero.desc1')}</p> 
             <p className="mb-2">✅ {t('ai.hero.desc2')}</p> 
-            <p className="mb-2">✅ {t('ai.hero.desc3')}</p>
             <p className="mb-2">✅ {t('ai.hero.desc3')}</p>  
             <p className="mb-2">✅ {t('ai.hero.desc4')}</p> 
           </div>

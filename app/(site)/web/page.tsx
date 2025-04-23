@@ -21,6 +21,7 @@ import { Metadata } from "next";
 import WebHero from "@/components/Web/WebHero";
 import WebFeature from "@/components/Web/WebFeature";
 import WebAbout from "@/components/About/WebAbout";
+import SenjaWidget from "@/components/SenjaWidget";
 import Motion from "@/components/Motion/MotionWeb";
 import WebPricing from "@/components/Web/WebPricing";
 
@@ -37,15 +38,9 @@ const ServicesPage = async () => {
     <WebFeature/>
     <Motion/>
     <WebAbout/>
-    {/* < FeaturesTab /> */}
-      {/* <HeaderWeb/> */}
-      {/* <AboutWeb/> */}
-      <WebFeaturesTab/>
-{/* 
-      <AboutCRM/>
-      <FeaturesTabCRM/> */}
-      <WebPricing/>
-      {/* <CTA/>  */}
+    <WebFeaturesTab/>
+    <WebPricing/>
+    <SenjaWidget/>  
     <Contact/>
        <Brands/>
     </>
