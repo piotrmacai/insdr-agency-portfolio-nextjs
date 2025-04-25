@@ -2,6 +2,24 @@ import { Portfolio } from "@/types/portfolio";
 
 const BlogData: Portfolio[] = [
   { 
+    _id: 1.1,
+    mainImage: "/images/portfolio/librechat.png",
+    title: "LibreChat - LLM User Interface",
+    metadata:
+      "Personalized landing page and portfolio app with various social links and AI Assitant build in Next.js",
+      urlLink:"https://github.com/piotrmacai/librechat-docker",
+      tags: ["ai", "agents"],
+  },
+  { 
+    _id: 13,
+    mainImage: "/images/portfolio/videoapp.png",
+    title: "Video Portfolio App",
+    metadata:
+      "Fully interactive and modern video portfolio app build in Next.js",
+      urlLink:"https://nextjs-video-web-app.vercel.app/",
+      tags: ["web"],
+  },
+  { 
     _id: 0,
     mainImage: "/images/portfolio/voicebot2.jpg",
     title: "Voice AI Assistant for Macai.studio",

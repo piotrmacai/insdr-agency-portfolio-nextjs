@@ -2,6 +2,42 @@ import { Portfolio } from "@/types/portfolio";
 
 const BlogData: Portfolio[] = [
   { 
+    _id: 1.1,
+    mainImage: "/images/portfolio/librechat.png",
+    title: "LibreChat - LLM User Interface",
+    metadata:
+      "Personalized landing page and portfolio app with various social links and AI Assitant build in Next.js",
+      urlLink:"https://github.com/piotrmacai/librechat-docker",
+      tags: ["ai", "agents"],
+  },
+  { 
+    _id: 13,
+    mainImage: "/images/portfolio/videoapp.png",
+    title: "Video Portfolio App",
+    metadata:
+      "Fully interactive and modern video portfolio app build in Next.js",
+      urlLink:"https://nextjs-video-web-app.vercel.app/",
+      tags: ["web"],
+  },
+  { 
+    _id: 1.2,
+    mainImage: "/images/portfolio/n8n-docker.png",
+    title: "n8n platform installed locally",
+    metadata:
+      "Locally installed n8n AI Automation platform - with Docker Container",
+      urlLink:"https://github.com/piotrmacai/",
+      tags: ["ai", "agents"],
+  },
+  { 
+    _id: 1.2,
+    mainImage: "/images/portfolio/openwebui.png",
+    title: "Open WebUI - very powerful local LLM interface",
+    metadata:
+      "Locally installed n8n AI Automation platform - with Docker Container",
+      urlLink:"https://github.com/piotrmacai/",
+      tags: ["ai", "agents"],
+  },
+  { 
     _id: 13,
     mainImage: "/images/portfolio/ainsiderco.png",
     title: "Landing Page & Personal Portfolio Framework",
