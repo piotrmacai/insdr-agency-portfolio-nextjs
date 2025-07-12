@@ -17,12 +17,12 @@ i18n
   .use(initReactI18next)
   .init({
     resources,
-    lng: "pl", // Default language
-    fallbackLng: "en",
+    lng: "en", // Default language
+    fallbackLng: "pl",
     interpolation: {
       escapeValue: false // React already escapes values
     }
-  });
+  }); 
 
 export default i18n;
 

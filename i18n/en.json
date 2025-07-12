@@ -84,7 +84,13 @@
  
 },
 
-
+          
+  "store": {
+                  "header": "Automation Systems based on AI Agents",
+                  "desc1": "Created precisely for specific goals and needs, integrated with your data.",
+                  "desc2": "Ready to use and integrate with your platforms.",
+                  "more": "See more"
+              },
 
 "webpricing": {
   "title": "Our Services",
@@ -1168,6 +1174,10 @@
         "header": {
             "menu1": "Home",
             "menu2": "Portfolio",
+            "menu-solutions": "Solutions",
+            "menu-resources": "Resources",
+            "menu-store": "Store",
+            "menu-crm": "CRM Systems",
             "menu3": "AI & Automation",
             "menu4": "Contact",
             "menu5": "Web & Ecommerce",

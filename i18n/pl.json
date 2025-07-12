@@ -18,6 +18,12 @@
       "accept": "Akceptuj"
     },
 
+           "store": {
+                "header": "Systemy Automatyzacji oparte na Agentach AI",
+                 "desc1": "Gotowe do integracji i użycia z Twoimi platformami.",
+                 "desc2": "Stworzone precyzyjnie dla określonych celów i potrzeb, zintegrowane z Twoimi danymi.",
+                "more": "Zobacz"
+            },
 
     "bot": {
       "appengine": "Aplikacje i frameworki z których korzystamy najczęściej - każdy ma unikatowe zalety i cechy, pozwala Nam wybrać najlepsze rozwiązania dla wymagań Twoich projektów",
@@ -1091,6 +1097,8 @@
             },
 
 
+
+
             "ai": {
                 "header": "AI i Automatyzacje",
                 "desc": "Procesy i wszelakie powtarzalne zadania w Twojej firmie",
@@ -1173,6 +1181,10 @@
         "header": {
             "menu1": "Home",
             "menu2": "Portfolio",
+            "menu-solutions": "Rozwiązania",
+            "menu-resources": "Zasoby",
+            "menu-store": "Sklep",
+            "menu-crm": "Systemy CRM",
             "menu3": "AI & Automatyzacje",    
             "menu12":"Web & Ecom",
             "menu4": "Kontakt",
