@@ -3,6 +3,8 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
+import SectionHeader from "../Common/SectionHeader";
+import { useTranslation } from 'react-i18next';
 
 interface Product {
   id: number;
@@ -31,6 +33,7 @@ const WooProductGrid = () => {
   const [products, setProducts] = useState<Product[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const { t } = useTranslation();
 
   useEffect(() => {
     const fetchProducts = async () => {
@@ -130,7 +133,16 @@ const WooProductGrid = () => {
   return (
     <section className="py-10">
       <div className="max-w-screen-xl mx-auto px-4">
-        <h2 className="text-3xl font-bold mb-6">Our Products</h2>
+        {/* <h2 className="text-3xl font-bold mb-6 text-center">Our Products</h2> */}
+        <div className="mb-8">
+              <SectionHeader 
+          headerInfo={{
+            title: t('storePage.title.one'),
+            subtitle: t('storePage.title.two'),
+            description: t('storePage.title.three'),
+          }}
+        />
+        </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {products.map(product => {
             const priceInfo = getDisplayPrice(product);

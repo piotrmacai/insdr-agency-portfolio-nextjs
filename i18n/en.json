@@ -434,7 +434,13 @@
 },
 
 
-
+"storePage": {
+  "title": {
+    "one": "Ainsider.store",
+    "two": "AI & Automation Systems",
+    "three": "Discover ready-to-use automation systems and AI agents"
+  }
+},
 
 "crm": {
     "header": "CRM & Management System Implementations",

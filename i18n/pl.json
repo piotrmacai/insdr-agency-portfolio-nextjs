@@ -33,6 +33,15 @@
     },
 
 
+    "storePage": {
+      "title": {
+        "one": "Ainsider.store",
+        "two": "Gotowe systemy AI & Automatyzacji",
+        "three": "Odkryj gotowe do użycia systemy automatyzacji i agentów AI"
+      }
+    },
+
+
     "apps": {
       "header": "Kolekcja darmowych Asystentów i Chatbotów AI",
       "desc": "Stworzone do pomocy w różnych, lecz najpotrzebniejszych celach.",

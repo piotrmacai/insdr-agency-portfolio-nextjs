@@ -24,6 +24,7 @@ import MainAbout from "@/components/About/MainAbout";
 import Motion from "@/components/Motion/MotionOrbit";
 import ServiceTimeline from "@/components/ServiceTimeline";
 import FeaturesTabResources from "@/components/FeaturesTabsResources";
+import WooProductGrid from "@/components/WooProductGrid";
 
 
 export const metadata: Metadata = {
@@ -52,14 +53,12 @@ export default function Home() {
       </div>
       <Motion/>
       
-      <MainAbout/>
-      {/* <About />    */}
-      {/* <FeaturesTab />   */}
-      <ServiceTimeline/>    
-       {/* <HomePortfolio/> */}
-       {/* <CTAToAinsider/> */}
+      {/* <MainAbout/> */}
+      {/* <ServiceTimeline/>     */}
+      <WooProductGrid/>
+
       <CTA />       
-      <SenjaWidget/>  
+      {/* <SenjaWidget/>   */}
       <Brands />
       <Contact />
       < Socials />     
