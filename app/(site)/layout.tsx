@@ -46,7 +46,7 @@ export default function RootLayout({
     <I18nextProvider i18n={i18n}>
       <html lang={locale}>
         <body className={`bg-white dark:bg-black`}>
-          <ThemeProvider enableSystem={false} attribute="class" defaultTheme="light">
+          <ThemeProvider enableSystem={false} attribute="class" defaultTheme="dark">
             <Lines />
             <Header />
             <ToasterContext />
@@ -54,7 +54,7 @@ export default function RootLayout({
             <Footer />
           </ThemeProvider>
           <Cookiebanner/>
-          <Voiceflow/>
+          {/* <Voiceflow/> */}
           <ElevenLabsWidget />
         </body>
       </html>
