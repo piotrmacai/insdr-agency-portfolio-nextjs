@@ -8,7 +8,7 @@ const FunFact = () => {
     <>
       {/* <!-- ===== Funfact Start ===== --> */}
       <section className="py-20 lg:py-30 px-6 md:px-8 2xl:px-2">
-        <div className="mx-auto max-w-c-1390 py-22.5 xl:py-27.5 relative z-1 rounded-lg bg-gradient-to-t from-[#F8F9FF] to-[#DEE7FF] dark:bg-gradient-to-t dark:from-transparent dark:to-transparent dark:bg-blacksection dark:stroke-strokedark">
+        <div className="mx-auto max-w-c-1390 py-22.5 xl:py-27.5 relative z-1 rounded-lg bg-gradient-to-t from-[#F8F9FF] to-[#f7faff] dark:bg-gradient-to-t dark:from-transparent dark:to-transparent dark:bg-blacksection dark:stroke-strokedark">
           <Image
             width={335}
             height={384}

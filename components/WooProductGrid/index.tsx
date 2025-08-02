@@ -105,7 +105,7 @@ const WooProductGrid = () => {
 
   if (error) {
     return (
-      <section className="py-10">
+      <section className="py-12">
         <div className="max-w-screen-xl mx-auto px-4">
           <div className="text-center">
             <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded">
@@ -143,7 +143,7 @@ const WooProductGrid = () => {
           }}
         />
         </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 px-2 py-4">
           {products.map(product => {
             const priceInfo = getDisplayPrice(product);
             
@@ -153,7 +153,7 @@ const WooProductGrid = () => {
                 href={product.permalink}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="shadow-md rounded-xl p-4 shadow hover:shadow-lg transition-shadow duration-200"
+                className="shadow-md rounded-xl p-6 shadow hover:shadow-xl transition-shadow duration-200"
               >
                 <div className="relative">
                   <Image

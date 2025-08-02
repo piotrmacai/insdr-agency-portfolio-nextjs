@@ -18,7 +18,7 @@ const Signup = () => {
       {/* <!-- ===== SignUp Form Start ===== --> */}
       <section className="pt-32.5 lg:pt-45 xl:pt-50 pb-12.5 lg:pb-25 xl:pb-30">
         <div className="mx-auto max-w-c-1016 relative z-1 pt-10 lg:pt-15 xl:pt-20 pb-7.5 px-7.5 lg:px-15 xl:px-20">
-          <div className="absolute -z-1 rounded-lg left-0 top-0 w-full h-2/3 bg-gradient-to-t from-[#F8F9FF] to-[#dee7ff47] dark:bg-gradient-to-t dark:from-[#24283E] dark:to-[#252A42]"></div>
+          <div className="absolute -z-1 rounded-lg left-0 top-0 w-full h-2/3 bg-gradient-to-t from-[#F8F9FF] to-[#f7faff47] dark:bg-gradient-to-t dark:from-[#24283E] dark:to-[#252A42]"></div>
           <div className="absolute -z-1 bottom-17.5 left-0 w-full h-1/3">
             <Image
               src="/images/shape/shape-dotted-light.svg"
