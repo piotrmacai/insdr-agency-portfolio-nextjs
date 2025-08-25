@@ -59,6 +59,13 @@ const getTranslatedMenuData = () => {
     },  
     {
       id: 4,
+      title: "Skool",
+      newTab: true,
+      path: "https://www.skool.com/ainsider-6149/about?ref=d207b2af5b914ff09daac8af70f1162c",
+      icon: "/images/icon/bag.svg",
+    }, 
+    {
+      id: 4.5,
       title: t('header.menu-store'),
       newTab: false,
       path: "/store",

@@ -69,6 +69,49 @@
     }
   },
 
+  "localbot": {
+    "header": "Lokalny Agent AI z pełną prywatnością danych",
+    "desc1": "Lokalny Asystent AI to rozwiązanie działające w pełni na Twojej infrastrukturze, bez połączenia z chmurą. Wszystkie dane i interakcje pozostają na Twoich serwerach, zapewniając maksymalny poziom bezpieczeństwa i zgodność z RODO.",
+    "desc2": "System działa w modelu on-premise, wykorzystując lokalne modele AI bez wysyłania danych na zewnątrz. Gwarantuje to pełną kontrolę nad danymi, co jest kluczowe dla firm operujących na wrażliwych danych klientów i transakcjach.",
+    "integrations": "Bezpieczna integracja z wewnętrznymi systemami firmy, bazami danych i infrastrukturą, z zachowaniem protokołów bezpieczeństwa.",
+    "usecases": "Przetwarzanie poufnych danych klientów, obsługa transakcji finansowych, analiza dokumentów wewnętrznych, zarządzanie danymi osobowymi.",
+    "details": "Szczegóły",
+    "integrationsText": "Integracje",
+    "channels": "Kanały",
+    "web": "Twoje urządzenie z systemem Windows",
+    "forwho": "Dla kogo jest Lokalny Asystent AI?",
+    "who1": "Instytucji finansowych wymagających najwyższego poziomu bezpieczeństwa.",
+    "who2": "Firm operujących na danych wrażliwych i osobowych.",
+    "who3": "Organizacji zobowiązanych do przechowywania danych lokalnie.",
+    "who4": "Przedsiębiorstw z rygorystyczną polityką bezpieczeństwa danych.",
+    "features": {
+    "privacy": {
+      "title": "Pełna Prywatność",
+      "desc": "Twój chatbot działa wyłącznie lokalnie – dane klientów nigdy nie opuszczają Twojej firmy."
+    },
+    "personalization": {
+      "title": "Personalizacja",
+      "desc": "Dopasuj wygląd, ton i odpowiedzi bota do potrzeb Twojej marki i klientów."
+    },
+    "support": {
+      "title": "Wsparcie 24/7",
+      "desc": "Bot obsługuje klientów o każdej porze, odpowiadając na pytania i wspierając sprzedaż."
+    },
+    "integrations": {
+      "title": "Integracje",
+      "desc": "Łatwa integracja z systemami CRM, pocztą i stroną internetową Twojej firmy."
+    },
+    "analytics": {
+      "title": "Analiza i Raporty",
+      "desc": "Monitoruj skuteczność bota, analizuj rozmowy i optymalizuj obsługę klienta."
+    },
+    "installation": {
+      "title": "Łatwa Instalacja",
+      "desc": "Szybka konfiguracja i wdrożenie – uruchom własnego chatbota w kilka minut."
+    }
+  }
+  },
+
   "landingsweb": {
     "header1": "Landing page które sprzedają",
     "header2": "Stworzone precyzyjnie dla Twoich potrzeb.",
@@ -1355,22 +1398,6 @@
         "who4": "Sprzedawców chcących zoptymalizować cross-selling i up-selling."
       },
 
-      "localbot": {
-      "header": "Lokalny Agent AI z pełną prywatnością danych",
-      "desc1": "Lokalny Asystent AI to rozwiązanie działające w pełni na Twojej infrastrukturze, bez połączenia z chmurą. Wszystkie dane i interakcje pozostają na Twoich serwerach, zapewniając maksymalny poziom bezpieczeństwa i zgodność z RODO.",
-      "desc2": "System działa w modelu on-premise, wykorzystując lokalne modele AI bez wysyłania danych na zewnątrz. Gwarantuje to pełną kontrolę nad danymi, co jest kluczowe dla firm operujących na wrażliwych danych klientów i transakcjach.",
-      "integrations": "Bezpieczna integracja z wewnętrznymi systemami firmy, bazami danych i infrastrukturą, z zachowaniem protokołów bezpieczeństwa.",
-      "usecases": "Przetwarzanie poufnych danych klientów, obsługa transakcji finansowych, analiza dokumentów wewnętrznych, zarządzanie danymi osobowymi.",
-      "details": "Szczegóły",
-      "integrationsText": "Integracje",
-      "channels": "Kanały",
-      "web": "Twoje urządzenie z systemem Windows",
-      "forwho": "Dla kogo jest Lokalny Asystent AI?",
-      "who1": "Instytucji finansowych wymagających najwyższego poziomu bezpieczeństwa.",
-      "who2": "Firm operujących na danych wrażliwych i osobowych.",
-      "who3": "Organizacji zobowiązanych do przechowywania danych lokalnie.",
-      "who4": "Przedsiębiorstw z rygorystyczną polityką bezpieczeństwa danych."
-    },
 
           "mainPortfolio": {
             "header1": "Sztuka AI",

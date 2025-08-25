@@ -162,25 +162,23 @@ const Hero = () => {
               </ul>
             </motion.div>
 
-            {/* <div className="mt-10">
-              <form   action="https://formspree.io/f/xpwzwngo" target="_blank" method="POST">
-                <div className="flex flex-wrap gap-5">
-                  <input
-                    type="email" name="email"
-                    placeholder={t('leaveemail')}
-                    className="dark:bg-black border border-stroke dark:border-strokedark shadow-solid-2 dark:shadow-none rounded-full focus:outline-none focus:border-primary dark:focus:border-primary py-2.5 px-6"
-                  />
-                  <button
-                    type="submit"
-                    value="Submit"
-                    aria-label="contact"
-                    className="flex bg-black hover:bg-blackho dark:bg-btndark text-white rounded-full ease-in-out duration-300 px-7.5 py-2.5"
-                  >
-                    {t('herocontact')}
-                  </button>
+         <div className="mt-10 gap-4 flex flex-col md:flex-row">
+            <a href="#services">
+            <button
+                  className="flex bg-black hover:bg-blackho dark:bg-btndark text-white rounded-full ease-in-out duration-300 px-7.5 py-2.5"
+                >
+                  Services
+                </button>
+                </a>
+
+                <a href="https://www.skool.com/ainsider-6149/about?ref=d207b2af5b914ff09daac8af70f1162c" target="_blank">
+            <button
+                  className="flex bg-blackho hover:bg-black dark:bg-btndark text-white rounded-full ease-in-out duration-300 px-7.5 py-2.5"
+                >
+                  Skool
+                </button>
+                </a>
                 </div>
-              </form>
-            </div> */}
           </div>
 
           <div className="md:w-1/2 sm:w-full md:block p-8 md:p-3"> {/* Removed the hidden class for mobile view */}

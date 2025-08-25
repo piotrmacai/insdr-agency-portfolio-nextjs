@@ -125,6 +125,15 @@ const Footer = () => {
                         {t('header.menuServices')}
                       </a>
                     </li> */}
+                      <li>
+                      <a
+                        href="https://www.skool.com/ainsider-6149/about?ref=d207b2af5b914ff09daac8af70f1162c"
+                        className="inline-block hover:text-primary mb-3"
+                      >
+                        Skool
+                      </a>
+                    </li>
+                    <li></li>
                     <li>
                       <a
                         href="/contact"

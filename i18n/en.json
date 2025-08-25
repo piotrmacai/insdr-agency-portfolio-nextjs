@@ -58,6 +58,91 @@
   }
 },
 
+"automations": {
+  "header": "Automate Any Business Process with AI",
+  "desc1": "Streamline workflows, reduce manual tasks, and scale operations with intelligent automation solutions.",
+  "desc2": "Our AI-powered automation platform integrates with your existing tools and learns your processes to act autonomously.",
+  "forwho": "Who benefits from process automation?",
+  "who1": "Operations Managers looking to reduce costs",
+  "who2": "Startups scaling customer onboarding",
+  "who3": "Enterprises automating data entry and reporting",
+  "who4": "Teams tired of repetitive daily tasks",
+
+  "features": {
+    "security": {
+      "title": "Secure by Design",
+      "desc": "All automations run in encrypted environments with role-based access control."
+    },
+    "customization": {
+      "title": "Fully Customizable",
+      "desc": "Tailor workflows to your exact business logic and approval chains."
+    },
+    "support": {
+      "title": "Dedicated Support",
+      "desc": "Our team helps design, deploy, and monitor your automation pipelines."
+    },
+    "workflow": {
+      "title": "Multi-Step Workflows",
+      "desc": "Chain actions across apps, approvals, and decisions with visual builders."
+    },
+    "monitoring": {
+      "title": "Real-Time Analytics",
+      "desc": "Track performance, bottlenecks, and ROI of every automated process."
+    },
+    "speed": {
+      "title": "Lightning Fast",
+      "desc": "Reduce process time from hours to seconds with AI decision-making."
+    }
+  },
+
+  "aiengine": "Powered by leading AI models to understand and act on unstructured data.",
+  "integrationsText": "Connected Ecosystem",
+  "integrations": "Seamlessly integrate with your existing tools and databases."
+},
+
+"localbot": {
+    "header": "Local AI Agent with Full Data Privacy",
+    "desc1": "Local AI Assistant is a solution that runs entirely on your infrastructure, with no cloud connection required. All data and interactions remain on your servers, ensuring maximum security and GDPR compliance.",
+    "desc2": "The system operates in an on-premise model, using local AI models without sending data externally. This guarantees full control over your data, which is crucial for companies handling sensitive customer information and transactions.",
+    "integrations": "Secure integration with internal business systems, databases, and infrastructure while maintaining security protocols.",
+    "usecases": "Processing of confidential customer data, handling financial transactions, analyzing internal documents, managing personal data.",
+    "details": "Details",
+    "integrationsText": "Integrations",
+    "channels": "Channels",
+    "web": "Your Windows device",
+    "forwho": "Who is the Local AI Assistant for?",
+    "who1": "Financial institutions requiring the highest level of security.",
+    "who2": "Companies handling sensitive and personal data.",
+    "who3": "Organizations obligated to store data locally.",
+    "who4": "Enterprises with strict data security policies.",
+    "features": {
+      "privacy": {
+        "title": "Full Privacy",
+        "desc": "Your chatbot works entirely locally – customer data never leaves your company."
+      },
+      "personalization": {
+        "title": "Personalization",
+        "desc": "Customize the look, tone and responses of the bot to fit your brand and customers."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "desc": "The bot assists customers at any time, answering questions and supporting sales."
+      },
+      "integrations": {
+        "title": "Integrations",
+        "desc": "Easily integrate with CRM systems, email, and your company website."
+      },
+      "analytics": {
+        "title": "Analytics & Reports",
+        "desc": "Track bot performance, analyze conversations and optimize customer service."
+      },
+      "installation": {
+        "title": "Easy Setup",
+        "desc": "Quick setup and deployment – launch your own private chatbot in minutes."
+      }
+    }
+ },
+
     "process": {
       "title": "Our Process",
       "subtitle": "How We Work",
@@ -1151,8 +1236,10 @@
             "button": " Contact"
         },
         "contact": {
-            "header": "Project Pricing",
-            "button": "Send Message",
+            "headermain": "Let's start your project now",
+            "header1": "A quote tailored to you.",
+            "header1.2": "Fill out the form and receive a detailed offer!",
+             "button": "Send Message",
             "consent":"I consect to process my personal data",
             "header2": "Let's get to know",
             "header3": "Get Free Consultation",
@@ -1869,6 +1956,5 @@
     }
   }
 }
+}
 
-
-  }
