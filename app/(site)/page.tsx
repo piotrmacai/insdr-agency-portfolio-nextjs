@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     description:"Tailored To The Needs Of Your Company Web & AI and Automation solutions that help businesses to grow. Discover our services tailored to the needs of your company.",
     images: [
       {
-        url: '/images/logo/logo-white.png', // Updated path to your image
+        url: '/images/logo/webLogo.png', // Updated path to your image
         alt: 'Ainsider AI Company', // Optional: alt text for the image
       },
     ]
@@ -50,13 +50,11 @@ export default function Home() {
       <FeaturesTabResources/>
       <div id="services">
       <Feature /> 
-      </div>
-      <Motion/>
-      
+      </div> 
+      <Motion/>     
       {/* <MainAbout/> */}
       {/* <ServiceTimeline/>     */}
       <WooProductGrid/>
-
       <CTA />       
       {/* <SenjaWidget/>   */}
       <Brands />
