@@ -74,8 +74,55 @@
     "mainsubtitle": "By ustalić indywidualne szczegóły integracji niezbędne dla wdrożenia",
     "title": "Zacznijmy już teraz",
     "subtitle": "By ustalić indywidualne szczegóły integracji niezbędne dla wdrożenia",
-    "button": "Umów konsultację",
+    "button": "Wycena projektu",
 "footertext": "Darmowa konsultacja • Bez zobowiązań • Profesjonalne doradztwo"  },
+
+
+
+"landing-ai": {
+  "header": "Tworzenie Landing Page z AI — Szybko, Tanie i Profesjonalnie",
+  "desc1": "Projektujemy i wdrażamy landing page z wykorzystaniem AI: od briefu po gotową stronę w HTML/CSS/JS lub React.js. Idealne dla kampanii marketingowych, startupów i szybkiego testowania pomysłów.",
+  "desc2": "Pełna personalizacja UX/UI z AI w tle. Dostarczamy responsywne strony w ciągu 24–48h za ułamek kosztów tradycyjnej agencji — bez kompromisów w jakości.",
+  "integrations": "Integracje z Google Analytics, Meta Pixel, Mailchimp, Shopify oraz systemami CMS.",
+  "usecases": "Strony sprzedażowe, landingi dla kampanii AdWords, mikroserwisy SaaS, prelejce produktów i strony eventowe.",
+  "details": "Jak to działa?",
+  "integrationsText": "Narzędzia",
+  "integrationsHeader": "Integracje",
+  "channels": "Formaty",
+  "web": "HTML/CSS/JS lub React.js • Responsywne • Gotowe do wdrożenia",
+  "forwho": "Dla kogo jest nasza usługa?",
+  "who1": "Startupy potrzebujące szybkiego MVP lub prelejki produktu bez dużych kosztów.",
+  "who2": "Marketerzy tworzący kampanie sprzedażowe z optymalizacją konwersji.",
+  "who3": "Agencje szukające elastycznego wykonawcy na landing page pod klucz.",
+  "who4": "Firmy chcące skalowalnych rozwiązań bez blokady budżetu na frontend.",
+  "technologies": "Technologie Web",
+  "features": {
+    "privacy": {
+      "title": "Responsywność i Wydajność",
+      "desc": "Strony zoptymalizowane pod mobile (Lighthouse >90), szybkie ładowanie i SEO-ready — sprawdzone narzędziami Google."
+    },
+    "personalization": {
+      "title": "AI-Assisted UX/UI Design",
+      "desc": "Tworzymy unikalne projekty od briefu: AI pomaga w generowaniu koncepcji, a ludzie dopracowują detale dla maksymalnej konwersji."
+    },
+    "support": {
+      "title": "Szybkie Wdrożenie",
+      "desc": "Gotowa strona w 24–48h: od briefu przez projekt UX/UI po kod w czystym HTML/CSS/JS lub React.js — bez zbędnych opóźnień."
+    },
+    "integrations": {
+      "title": "Integracje z Narzędziami Marketingowymi",
+      "desc": "Natywne wsparcie Google Analytics, Meta Pixel, formularzy leadowych (HubSpot, Typeform) i systemów płatności (Stripe, PayPal)."
+    },
+    "analytics": {
+      "title": "Optymalizacja Konwersji",
+      "desc": "Strony projektowane z naciskiem na CTA, analizę ścieżek użytkownika i testy A/B — by maksymalizować sprzedaż lub leady."
+    },
+    "installation": {
+      "title": "Świetny stosynek ceny do jakości",
+      "desc": "Do 70% taniej niż agencje. Brak kosztów utrzymania — płacisz tylko za projekt. Bez abonamentów, bez ukrytych opłat."
+    }
+  }
+},
 
 "invoice-ai": {
   "header": "Automatyzacja Przypomnień o Fakturach — Inteligentne Wdrożenie AI",
@@ -1844,32 +1891,33 @@
             "description": "Doskonale Dopasowane do Twojej Działalności"
           },
           
-          "WebFeaturesTab": {
-            "header": {
-              "tabOne": "Audyty i Konsultacje",
-              "tabTwo": "Projektowanie i Wdrożenia",
-              "tabThree": "Optymalizacja i SEO"
-            },
-            "process": {
-              "title": "Nasz Proces",
-              "subtitle": "Jak Działamy",
-              "description": "Przejrzysty proces pracy gwarantujący jakość i efektywność na każdym etapie",
-              "tabs": {
-                "tabOne": "Analiza & Planowanie",
-                "tabTwo": "Projekt & Realizacja",
-                "tabThree": "Testowanie & Wdrożenie"
-              }
-            },
-            "tab1Title": "Kompleksowe Audyty Stron Internetowych & Konsultacje",
-            "tab1Description1": "Z wykorzystaniem najlepszych dostępnych narzędzi dokładnie analizujemy każdy aspekt Twojej istniejącej witryny, identyfikując obszary wymagające usprawnień, możliwości optymalizacji i potencjalne luki.",
-            "tab1Description2": "Poprzez kompleksowe audyty, dostarczamy kompleksowe raporty mające na celu zwiększenie wydajności Twojej strony internetowej, poprawę doświadczenia użytkownika oraz widocznośc w wyszukiwarkach, social mediach oraz wizytówkach firm.",
-            "tab2Title": "Nowoczesne i Responsywne Projektowanie oraz Wdrożenia Stron Internetowych",
-            "tab2Description1": "Przekształć swoje pomysły w rzeczywistość online. Specjalizujemy się w tworzeniu wizualnie atrakcyjnych, przyjaznych dla użytkownika i nowoczesnych platform internetowych, które przykuwają uwagę odbiorców i zapewniają wyjątkowe doświadczenie użytkownika na wszystkich urządzeniach.",
-            "tab2Description2": "Wykorzystując najnowsze technologie internetowe i najlepsze praktyki branżowe, budujemy niestandardowe strony internetowe dopasowane do Twojej marki i celów biznesowych. Od koncepcji po uruchomienie, dbamy o to, aby Twoja witryna była zoptymalizowana pod kątem wydajności, widoczności w wyszukiwarkach oraz sprzedaży i marketingu Twoich produktów oraz usług.",
-            "tab3Title": "Optymalizacja Stron Internetowych i Strategie Rozwoju",
-            "tab3Description1": "Wykorzystujemy zaawansowane narzędzia analityczne, aby zidentyfikować obszary wymagające usprawnień, monitorować metryki wydajności oraz wdrażać optymalizacje oparte na danych, mające na celu zwiększenie zaangażowania użytkowników, wskaźników konwersji i pozycji w wyszukiwarkach.",
-            "tab3Description2": "Nasze usługi obejmują szeroki zakres pracy - w tym optymalizację dla wyszukiwarek (SEO), jak i udoskonalenia w zakresie doświadczenia użytkownika (UX). Pozostając o krok przed konkurencją, zapewniamy, że Twoja strona internetowa zachowa przewagę konkurencyjną i będzie nadal napędzać rozwój Twojej firmy."
-          },
+     "WebFeaturesTab": {
+        "header": {
+          "tabOne": "Brief: Wytyczne i Potrzeby",
+          "tabTwo": "Projektowanie UX/UI",
+          "tabThree": "Wdrożenie Pixel Perfect"
+        },
+        "process": {
+          "title": "Nasz Proces Wdrożenia",
+          "subtitle": "Etapy Tworzenia Landing Page",
+          "description": "Przejrzysty i dopracowany proces pracy, gwarantujący najwyższą jakość oraz doskonałe odwzorowanie projektu na każdym etapie",
+          "tabs": {
+            "tabOne": "Brief i Analiza Potrzeb",
+            "tabTwo": "Projektowanie UX/UI",
+            "tabThree": "Wdrożenie i Optymalizacja"
+          }
+        },
+        "tab1Title": "Brief: Zbieranie Wytycznych i Potrzeb",
+        "tab1Description1": "Wspólnie definiujemy cele, wytyczne oraz potrzeby biznesowe i użytkowników, które są fundamentem dla całego projektu landing page.",
+        "tab1Description2": "To etap, na którym ustalamy zakres, funkcjonalności oraz szczegóły, dzięki którym projekt będzie idealnie dopasowany do oczekiwań i specyfiki Twojej marki.",
+        "tab2Title": "Projekt UX/UI: Szczegóły i Design",
+        "tab2Description1": "Tworzymy dokładny projekt interfejsu użytkownika i doświadczeń, gdzie ustalamy każdy element wizualny i funkcjonalny strony, dbając o intuicyjność i estetykę.",
+        "tab2Description2": "Projekt jest przygotowany zgodnie z najlepszymi praktykami UX i UI, dostosowany do grupy docelowej oraz zapewniający maksymalną konwersję i komfort użytkowania.",
+        "tab3Title": "Wdrożenie: Pixel Perfect w Wybranej Technologii",
+        "tab3Description1": "Realizujemy wdrożenie graficzne z zachowaniem pełnej zgodności z projektem - każdy detal jest odwzorowany z precyzją pixel perfect.",
+        "tab3Description2": "Wdrażamy landing page w nowoczesnej technologii, dbając o responsywność, szybkość działania oraz zgodność ze standardami internetowymi, zapewniając najlepsze doświadczenie odbiorcom."
+      },
+
           "aboutWeb": {
             "header1": {
               "header1": "Web Development",
