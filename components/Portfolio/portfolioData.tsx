@@ -46,6 +46,15 @@ const BlogData: Portfolio[] = [
       urlLink:"https://ainsider.store",
       tags: ["ai", "agents"],
   },
+  {
+    _id: 3.5,
+    mainImage: "/images/portfolio/AiRoomDesigner.jpg",
+    title: "AI Interior Designer",
+    metadata:
+      "Ai-powered App to create interior designs with drawings canvas and upload products feature",
+    tags: ["web"],
+    urlLink: "https://ai.studio/apps/drive/1uKtZrmz-GqMDbVsnurr35N-Oq_FvdEqi",
+  },
   { 
     _id: 1.2,
     mainImage: "/images/portfolio/openwebui.png",
@@ -54,6 +63,33 @@ const BlogData: Portfolio[] = [
       "Locally installed n8n AI Automation platform - with Docker Container",
       urlLink:"https://github.com/piotrmacai/",
       tags: ["ai", "agents"],
+  },
+  {
+    _id: 2,
+    title: "AI Langind Page Builder",
+    mainImage: "/images/portfolio/AiWebsiteBuilder.jpg",
+    metadata:
+     "Landing Page builder powered by Google Gemini AI",
+    tags: ["ai", "agents"],
+    urlLink: "https://ai.studio/apps/drive/1cncRS8NIp2Ig8IVxKijO1NVc1x94Pf1m",
+  },
+  {
+    _id: 2.1,
+    title: "AI powered Business Dashboard",
+    mainImage: "/images/portfolio/AiLocalSeo.jpg",
+    metadata:
+     "Created in React.js with Google Gemini AI",
+    tags: ["ai", "agents"],
+    urlLink: "https://ai.studio/apps/drive/1XayPfs4Sb0EQpLeUKm5mQRyw2KEdMdmQ",
+  },
+  {
+    _id: 3.5,
+    mainImage: "/images/portfolio/AiPhotoshop.jpg",
+    title: "AI Photoshop",
+    metadata: 
+    "Ai-powered App to edit images with text prompts and drawing canvsas",
+    tags: ["ai", "agents"],
+    urlLink: "https://ai.studio/apps/drive/1OptMLu_Y9w_xcKe0wFMm-ATZXVZRtqeR",
   },
   { 
     _id: 0,
