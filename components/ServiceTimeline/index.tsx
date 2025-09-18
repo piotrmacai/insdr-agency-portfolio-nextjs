@@ -58,7 +58,7 @@ const ServiceTimeline = () => {
   ];
 
   return (
-    <section className="pt-8 pb-12 lg:py-15 xl:py-20 px-10 relative">
+    <section className="pt-8 pb-12 lg:py-15 xl:py-20 px-2 md:px-8 relative">
       <SectionHeader
         headerInfo={{
           title: t('serviceTimeline.title.one'),

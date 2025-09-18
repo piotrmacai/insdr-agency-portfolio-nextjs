@@ -10,7 +10,7 @@ import SectionHeader from "../Common/SectionHeader";
 
 
 const FeaturesTab = () => {
-  const [currentTab, setCurrentTab] = useState("tabOne");
+  const [currentTab, setCurrentTab] = useState("tabFour");
   const { t } = useTranslation();
   const featuresTabData = getTranslatedFeaturesTabData();
 
