@@ -23,11 +23,11 @@ const FeaturesTabItem: React.FC<Props> = ({ featureTab }) => {
           <p className="w-11/12">{t(desc2)}</p>
 
         </div>
-        <div className="md:flex md:items-center md:justify-center  md:w-1/3 relative mx-auto aspect-[562/366] max-w-[550px]">
+        <div className="md:flex sm:w-full md:w-1/3 sm:justify-end md:justify-center">
           {/* <Image src={image} alt={t(title)} fill className="dark:hidden" />
           <Image src={imageDark} alt={t(title)} fill className="hidden dark:block" /> */}
              {link && linkText && (
-            <div className="flex md:items-center md:justify-center">
+            <div className="flex w-full sm:justify-end md:justify-center">
               <Link 
                 href={link}
                 className="text-blue-600 dark:text-blue-400 hover:underline px-4 py-2 border border-transparent rounded-2xl text-sm font-medium text-white bg-primary hover:bg-secondary/90 transition-colors duration-200 mt-4 md:mt-0"

@@ -19,7 +19,7 @@ const Hero = () => {
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0 flex flex-col md:flex-row"> {/* Added flex and flex-col for mobile view */}
           <div className="md:w-1/2 sm:w-full md:block mb-8 md:mb-0 md:mt-12"> {/* Added mb-8 for mobile view */}
             <h4 className="text-black dark:text-white text-lg font-medium mb-4.5">
-              Hello: {t('we')} Ainsider Company
+              Ainsider Company
             </h4>
             <h1 className="text-black dark:text-white text-3xl xl:text-hero font-bold mb-5 pr-16">
               {t('mainheading')} 
@@ -38,7 +38,7 @@ const Hero = () => {
               whileInView="visible"
               transition={{ duration: 1, delay: 0.1 }}
               viewport={{ once: true }}
-              className="animate_top"
+              className="animate_top mt-6"
             >
               <ul className="flex items-center gap-5">
 
@@ -162,12 +162,12 @@ const Hero = () => {
               </ul>
             </motion.div>
 
-         <div className="mt-10 gap-4 flex flex-col md:flex-row">
+         <div className="mt-16 gap-4 flex flex-row">
             <a href="#services">
             <button
                   className="flex bg-black hover:bg-blackho dark:bg-btndark text-white rounded-full ease-in-out duration-300 px-7.5 py-2.5"
                 >
-                  Services
+                  {t('servicesbutton')}
                 </button>
                 </a>
 
