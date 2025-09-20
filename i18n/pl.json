@@ -615,11 +615,11 @@
   },
   "1Title": "Landing Page",
   "1Description": "Nowoczesne i dopasowane strony internetowe, stworzone w dowolnej technologii lub z wykorzystaniem wybranych szablonów – zawsze projektowane z myślą o osiąganiu Twoich celów.",
-  "2Title": "Strony wwww",
+  "2Title": "Strony internetowe dla biznesu",
   "2Description": "Strony stworzone do sprzedaży i promocji, zawsze nowoczesne i dostosowane – projektowane z myślą o osiąganiu Twoich celów.",
   "3Title": "Ecommerce",
   "3Description": "Sklepy i platformy internetowe, które zwiększają sprzedaż, poprawiają doświadczenia użytkowników i wspierają rozwój Twojego biznesu.",
-  "4Title": "Custom Web Apps & Platforms",
+  "4Title": "Indywidualne rozwiązania Web",
   "4Description": "Dostosowane do Twojego biznesu e-commerce, aby poprawić doświadczenia użytkowników i wspierać rozwój Twojej działalności.",
   "5Title": "CRM & CMS",
   "5Description": "Dedykowane rozwiązania CRM do automatyzacji, optymalizacji i zarządzania wszystkimi procesami biznesowymi, zapewniające kompleksowy i efektywny sposób zarządzania firmą oraz relacjami z klientami.",
@@ -696,8 +696,8 @@
       "subtitle": "Inteligentne Rozwiązania Automatyzacyjne",
       "description": "Zwiększ efektywność, ogranicz pracę ręczną i wykorzystaj pełny potencjał swojej organizacji."
     },
-    "1Title": "Kompleksowe Strategie Automatyzacji",
-    "1Description": "Projektujemy pełne strategie automatyzacji procesów biznesowych, które obejmują analizę potrzeb, mapowanie przepływów pracy i identyfikację obszarów o największym potencjale do optymalizacji.",
+    "1Title": "Audyty i Strategie Automatyzacji",
+    "1Description": "Projektujemy pełne strategie automatyzacji procesów biznesowych, które obejmują kompleksowy audyt i analizę potrzeb, mapowanie przepływów pracy i identyfikację obszarów o największym potencjale do optymalizacji.",
     "2Title": "Wdrożenia Strategii Automatyzacyjnych",
     "2Description": "Realizujemy zaplanowane strategie w praktyce, wykorzystując narzędzia takie jak Make.com, Zapier, n8n czy architektury serverless, aby przekształcić procesy w wydajne i skalowalne systemy.",
     "3Title": "Monitoring i Optymalizacja Procesów",
@@ -799,26 +799,31 @@
   "tab3Description2": "Tworzymy intuicyjne rozwiązania z funkcjami śledzenia postępów, personalizacji treści i integracji z innymi systemami. Nasze platformy zwiększają produktywność zespołów i wspierają rozwój organizacji."
 },
 
-  "agentsFeatures": {
-  "header": {
-    "title": "Chatboty i Asystenci AI",
-    "subtitle": "Personalizowani Agenci AI",
-    "description": "Spersonalizowani do Potrzeb i Wymagań Twojej Firmy"
+   "agentsFeatures": {
+    "header": {
+      "title": "Rozwiązania AI Agent dla Biznesu",
+      "subtitle": "Inteligentna automatyzacja na dowolną skalę",
+      "description": "Projektujemy i wdrażamy spersonalizowane agenty AI, które zrewolucjonizują Twoje procesy, obsługę klienta i działania marketingowe."
+    },
+    "1Title": "AI dla Automatyzacji i Optymalizacji Procesów Wewnętrznych",
+    "1Description": "Wdrażamy inteligentne agenty, które automatyzują powtarzalne zadania, zarządzają dokumentacją i optymalizują przepływy pracy w obszarach HR, finansów i logistyki. Zapewnij swojej firmie maksymalną wydajność i bezpieczeństwo danych.",
+    "2Title": "AI dla Wszechkanałowej Obsługi Klienta 24/7",
+    "2Description": "Tworzymy zaawansowane asystenty AI, które rozumieją intencje klientów, udzielają błyskawicznych i trafnych odpowiedzi oraz proaktywnie rozwiązują problemy na czacie, w e-mailach i mediach społecznościowych, gwarantując najwyższy poziom satysfakcji.",
+    "3Title": "Agenci dla Sprzedaży i Generowania Leadów",
+    "3Description": "Nasi agenci AI pracują 24/7, aby identyfikować i kwalifikować potencjalnych klientów, automatyzować lejki sprzedażowe oraz integrować się z Twoim systemem CRM. Zwiększ swoje wskaźniki konwersji i pozwól swojemu zespołowi skupić się na finalizacji transakcji.",
+    "4Title": "Inteligentni agenci AI dla E-commerce",
+    "4Description": "Zwiększaj sprzedaż dzięki agentom AI, którzy pełnią rolę osobistych asystentów zakupowych. Oferują oni hiperpersonalizowane rekomendacje, dynamicznie realizują strategie cross-sellingu i upsellingu oraz pomagają w odzyskiwaniu porzuconych koszyków.",
+    "5Title": "Kreatywni Agenci AI do Generowania Obrazów",
+    "5Description": "Dostarczamy rozwiązania AI, które na żądanie tworzą unikalne grafiki marketingowe, wizualizacje produktów i spójne materiały brandingowe. Drastycznie przyspiesz swoje procesy kreatywne i zredukuj koszty produkcji treści wizualnych.",
+    "6Title": "AI do Automatyzacji Produkcji Wideo",
+    "6Description": "Wdrażamy systemy AI, które potrafią automatycznie tworzyć wideo z tekstu, personalizować treści na dużą skalę i generować animacje. Otwórz nowy wymiar w komunikacji marketingowej i szkoleniach wewnętrznych.",
+    "7Title": "Rozwiązania głsowowe i Voiceboty",
+    "7Description": "Zautomatyzuj komunikację głosową dzięki inteligentnym voicebotom. Nasi agenci rozumieją język naturalny, obsługują zapytania klientów przez telefon i integrują się z systemami IVR, aby unowocześnić Twoje call center.",
+    "8Title": "Integracje z istniejącymi systemami",
+    "8Description": "Integrujemy sztuczną inteligencję z platformami już używanymi w Twojej firmie, takimi jak CRM, ERP, systemy magazynowe czy aplikacje biurowe, aby zwiększyć ich funkcjonalność i wydajność.",
+    "9Title": "Dedykowane Ekosystemy AI Szyte na Miarę",
+    "9Description": "Realizujemy unikalne projekty AI, które odpowiadają na specyficzne wyzwania Twojego biznesu. Budujemy kompleksowe, skalowalne rozwiązania, które integrują się z Twoją istniejącą infrastrukturą i tworzą trwałą przewagę konkurencyjną."
   },
-  "1Title": "Inteligentne chatboty AI dla firm",
-"1Description": "Zaawansowane chatboty AI wspierające zarządzanie wewnętrznymi procesami firmy, automatyzację pracy z dokumentacją oraz efektywną współpracę zespołową, gwarantując bezpieczeństwo danych.",
-"2Title": "AI dla obsługi i wsparcia klienta",
-"2Description": "Asystenci AI wspierający obsługę klienta, którzy analizują zapytania, udzielają trafnych odpowiedzi w czasie rzeczywistym i zwiększają satysfakcję użytkownika dzięki spersonalizowanemu podejściu.",
-"3Title": "AI do generowania leadów i automatyzacji sprzedaży",
-"3Description": "Agenci AI dedykowani pozyskiwaniu klientów, kwalifikowaniu leadów oraz automatyzacji działań sprzedażowych, zwiększając skuteczność konwersji i procesów marketingowych.",
-"4Title": "Chatboty AI dla e-commerce i sprzedaży",
-"4Description": "Nowoczesne chatboty AI do e-commerce, które oferują personalizowane rekomendacje produktów, prowadzą klientów przez proces zakupowy i zwiększają przychody dzięki strategiom cross-sellingu i upsellingu.",
-"5Title": "Rozwiązania AI dla komunikacji głosowej",
-"5Description": "Głosowi asystenci AI, którzy ułatwiają interakcje z klientami, zapewniają automatyzację wsparcia głosowego i oferują nowoczesne rozwiązania do zarządzania zapytaniami w czasie rzeczywistym.",
-"6Title": "Dedykowane rozwiązania AI dla biznesu",
-"6Description": "Indywidualnie projektowane systemy AI, które odpowiadają na specyficzne potrzeby firm, integrując się z istniejącymi narzędziami i dostarczając skalowalne oraz innowacyjne rozwiązania technologiczne."
-},
-
 
 "mainabout": {
   "title": "O Naszych Usługach",

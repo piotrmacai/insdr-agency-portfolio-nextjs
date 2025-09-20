@@ -43,7 +43,24 @@ const getTranslatedFeatures = () => {
       description: t('agentsFeatures.6Description'),
     }, 
   
-   
+      {
+      id: 7,
+      icon: "/images/icon/undraw_chat-withai.svg",
+      title: t('agentsFeatures.7Title'),
+      description: t('agentsFeatures.7Description'),
+    }, 
+       {
+      id: 8,
+      icon: "/images/icon/undraw_online-community.svg",
+      title: t('agentsFeatures.8Title'),
+      description: t('agentsFeatures.8Description'),
+    }, 
+       {
+      id: 9,
+      icon: "/images/icon/undraw_chat-bot.svg",
+      title: t('agentsFeatures.9Title'),
+      description: t('agentsFeatures.9Description'),
+    }, 
  
    
   ];

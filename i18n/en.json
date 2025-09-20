@@ -811,24 +811,30 @@
 },
 
       "agentsFeatures": {
-  "header": {
-    "title": "AI Chatbots and Assistants",
-    "subtitle": "Personalized AI Agents",
-    "description": "Personalized to Your Company Needs and Requirements"
+    "header": {
+      "title": "AI Agent Solutions for Business",
+      "subtitle": "Intelligent Automation at Any Scale",
+      "description": "We design and implement personalized AI agents that will revolutionize your processes, customer service, and marketing efforts."
+    },
+    "1Title": "AI for Internal Process Automation & Optimization",
+    "1Description": "We implement intelligent agents that automate repetitive tasks, manage documentation, and optimize workflows in HR, finance, and logistics. Ensure maximum efficiency and data security for your company.",
+    "2Title": "AI for 24/7 Omnichannel Customer Support",
+    "2Description": "We create advanced AI assistants that understand customer intent, provide instant, accurate answers, and proactively resolve issues across chat, email, and social media, guaranteeing the highest level of satisfaction.",
+    "3Title": "AI in Sales and Lead Generation",
+    "3Description": "Our AI agents work around the clock to identify and qualify potential customers, automate sales funnels, and integrate with your CRM. Increase your conversion rates and let your team focus on closing deals.",
+    "4Title": "Intelligent AI Agents for E-commerce",
+    "4Description": "Boost your sales with AI agents that act as personal shopping assistants. They offer hyper-personalized recommendations, dynamically execute cross-selling and upselling strategies, and help recover abandoned carts.",
+    "5Title": "Creative AI Agents for Image Generation",
+    "5Description": "We provide AI solutions that create unique marketing graphics, product visualizations, and consistent branding materials on demand. Drastically accelerate your creative processes and reduce the costs of visual content production.",
+    "6Title": "AI for Video Production Automation",
+    "6Description": "We implement AI systems capable of automatic editing, creating video from text, personalizing content at scale, and generating animations. Unlock a new dimension in marketing communication and internal training.",
+    "7Title": "Conversational AI and Voicebots",
+    "7Description": "Automate voice communication with intelligent voicebots. Our agents understand natural language, handle customer inquiries over the phone, and integrate with IVR systems to modernize your contact center.",
+    "8Title": "Integrations with existing platforms",
+    "8Description": "We integrate AI with the platforms already used in your company, such as CRM, ERP, inventory systems, or office applications, to enhance their functionality and efficiency.",
+    "9Title": "Bespoke AI Ecosystems & Tailor-Made Solutions",
+    "9Description": "We execute unique AI projects that address your business's specific challenges. We build comprehensive, scalable solutions that integrate with your existing infrastructure and create a lasting competitive advantage."
   },
-  "1Title": "Internal workflows and documents AI",
-  "1Description": "AI Agents designed to manage and streamline internal workflows and documentation, ensuring seamless task delegation, real-time collaboration, and secure data management.",
-  "2Title": "Customer support",
-  "2Description": "AI Agents for customer support that handle inquiries, provide instant solutions, and improve user satisfaction through natural language understanding and context-aware responses.",
-  "3Title": "Lead Generation Agents",
-  "3Description": "Smart AI Agents that specialize in identifying potential customers, qualifying leads, and automating follow-ups to maximize conversion rates and sales efficiency.",
-  "4Title": "Sales and Ecommerce Chatbots",
-  "4Description": "AI-powered chatbots tailored for sales and e-commerce, offering personalized product recommendations, upselling, and real-time customer assistance to boost revenue.",
-  "5Title": "Voice AI Agents",
-  "5Description": "Voice-enabled AI Agents that enhance customer interaction, streamline communication, and provide hands-free solutions for support, inquiries, and task management.",
-  "6Title": "Individual Solutions",
-  "6Description": "Custom AI Agents designed to address unique business challenges, integrating seamlessly into existing systems to deliver scalable, efficient, and innovative solutions."
-},
 
    "automationFeatures": {
     "header": {
@@ -836,8 +842,8 @@
       "subtitle": "Intelligent Automation Solutions",
       "description": "Increase efficiency, reduce manual work, and unlock the full potential of your organization."
     },
-    "1Title": "Comprehensive Automation Strategies",
-    "1Description": "We design complete automation strategies for business processes, including needs analysis, workflow mapping, and identifying areas with the highest optimization potential.",
+    "1Title": "Automation Audits & Strategies",
+    "1Description": "We conduct comprehensive audits and design complete automation strategies for business processes, including needs analysis, workflow mapping, and identifying areas with the highest optimization potential.",
     "2Title": "Automation Strategy Implementation",
     "2Description": "We put planned strategies into action using tools such as Make.com, Zapier, n8n, and serverless architectures to transform workflows into efficient and scalable systems.",
     "3Title": "Process Monitoring and Optimization",
