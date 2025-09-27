@@ -29,7 +29,7 @@ const PortfolioItem = ({ portfolio }: { portfolio: Portfolio }) => {
       <div className="flex flex-col md:flex-row gap-6 items-start">
         {/* Image - Left side on desktop */}
         <div className="w-full md:w-1/3 relative">
-          <Link href={urlLink} className="block relative aspect-[4/3]" target="_blank" rel="noopener noreferrer">
+          <Link href={urlLink} className="block relative aspect-[16/9]" target="_blank" rel="noopener noreferrer">
             <Image 
               src={mainImage} 
               alt={title} 

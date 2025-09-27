@@ -20,7 +20,7 @@ const BlogData: Portfolio[] = [
   //     tags: ["ai", "web"],
   // },
   { 
-    _id: 1,
+    _id: 2,
     mainImage: "/images/portfolio/rekrutspark.png",
     title: "Rekrut Spark Website",
     metadata:
@@ -28,35 +28,35 @@ const BlogData: Portfolio[] = [
       urlLink:"https://rekrut-spark.com/",
       tags: ["web"],
   },
-  { 
-    _id: 1.1,
-    mainImage: "/images/portfolio/librechat.png",
-    title: "LibreChat - Custom LLM User Interface",
+   { 
+    _id: 3,
+    mainImage: "/images/portfolio/osk.png",
+    title: "Oskmachowski.pl",
     metadata:
-      "Personalized landing page and portfolio app with various social links and AI Assitant build in Next.js",
-      urlLink:"https://github.com/piotrmacai/librechat-docker",
-      tags: ["ai", "agents"],
+      "Ultra-fast Business & well SEO-optimized Website with built-in AI Assistant",
+      urlLink:"https://oskmachowski.pl/",
+      tags: ["web"],
   },
-  { 
-    _id: 1.2,
-    mainImage: "/images/portfolio/ainsiderstore.png",
-    title: "n8n Agents and Automations Workflows",
+   { 
+    _id: 4,
+    mainImage: "/images/portfolio/aidash.png",
+    title: "AI powered Business Dashboard",
     metadata:
-      "Store with ready to use n8n agents and automations workflows for business",
-      urlLink:"https://ainsider.store",
-      tags: ["ai", "agents"],
+      "Ultra-fast Business & powered by Gemini AI models Dashboard for all business owners",
+      urlLink:"https://ai.studio/apps/drive/1XayPfs4Sb0EQpLeUKm5mQRyw2KEdMdmQ",
+      tags: ["ai", "web"],
   },
-  {
-    _id: 3.5,
-    mainImage: "/images/portfolio/AiRoomDesigner.jpg",
-    title: "AI Interior Designer",
+    { 
+    _id: 5,
+    mainImage: "/images/portfolio/ainsiderlanding.png",
+    title: "Landing Page for Ainsider.co",
     metadata:
-      "Ai-powered App to create interior designs with drawings canvas and upload products feature",
-    tags: ["web"],
-    urlLink: "https://ai.studio/apps/drive/1uKtZrmz-GqMDbVsnurr35N-Oq_FvdEqi",
+      "Ultra-fast Business Landing Page for Vibe Coded Landings",
+      urlLink:"https://landings.ainsider.co/",
+      tags: ["web"],
   },
-  { 
-    _id: 1.2,
+    { 
+    _id: 6,
     mainImage: "/images/portfolio/openwebui.png",
     title: "Open WebUI - very powerful local LLM interface",
     metadata:
@@ -64,8 +64,62 @@ const BlogData: Portfolio[] = [
       urlLink:"https://github.com/piotrmacai/",
       tags: ["ai", "agents"],
   },
+    { 
+    _id: 8,
+    mainImage: "/images/portfolio/ainsider_tools.jpg",
+    title: "Ainsider.store",
+    metadata:
+      "Gen AI Tools Directory and Magazine",
+      urlLink:"/portfolio/aitoolslibrary",
+      tags: ["web", "ai"],
+  },
+    { 
+    _id: 7,
+    mainImage: "/images/portfolio/ainsidercrm.png",
+    title: "Landing Page for Ainsider CRM",
+    metadata:
+      "Ultra-fast Business & well SEO-optimized Website with built-in AI Assistant",
+      urlLink:"https://ai.studio/apps/drive/1gj3DyNXi5-9fgxTmBWZ_OH9cvNEqRVBR",
+      tags: ["web"],
+  },
+  // { 
+  //   _id: 1.1,
+  //   mainImage: "/images/portfolio/librechat.png",
+  //   title: "LibreChat - Custom LLM User Interface",
+  //   metadata:
+  //     "Personalized landing page and portfolio app with various social links and AI Assitant build in Next.js",
+  //     urlLink:"https://github.com/piotrmacai/librechat-docker",
+  //     tags: ["ai", "agents"],
+  // },
+  { 
+    _id: 8,
+    mainImage: "/images/portfolio/ainsiderstore.png",
+    title: "n8n Agents and Automations Workflows",
+    metadata:
+      "Store with ready to use n8n agents and automations workflows for business",
+      urlLink:"https://ainsider.store",
+      tags: ["ai", "agents"],
+  },
+  // {
+  //   _id: 9,
+  //   mainImage: "/images/portfolio/AiRoomDesigner.jpg",
+  //   title: "AI Interior Designer",
+  //   metadata:
+  //     "Ai-powered App to create interior designs with drawings canvas and upload products feature",
+  //   tags: ["web"],
+  //   urlLink: "https://ai.studio/apps/drive/1uKtZrmz-GqMDbVsnurr35N-Oq_FvdEqi",
+  // },
+    { 
+    _id: 10,
+    mainImage: "/images/portfolio/afterrave.jpg",
+    title: "After-rave.eu",
+    metadata:
+      "Shop in Shopify in multiple languages",
+      urlLink:"/portfolio/after-rave",
+      tags: ["websites"],
+  },
   {
-    _id: 2,
+    _id: 11,
     title: "AI Langind Page Builder",
     mainImage: "/images/portfolio/AiWebsiteBuilder.jpg",
     metadata:
@@ -73,17 +127,26 @@ const BlogData: Portfolio[] = [
     tags: ["ai", "agents"],
     urlLink: "https://ai.studio/apps/drive/1cncRS8NIp2Ig8IVxKijO1NVc1x94Pf1m",
   },
-  {
-    _id: 2.1,
-    title: "AI powered Business Dashboard",
-    mainImage: "/images/portfolio/AiLocalSeo.jpg",
+  // {
+  //   _id: 2.1,
+  //   title: "AI powered Business Dashboard",
+  //   mainImage: "/images/portfolio/AiLocalSeo.jpg",
+  //   metadata:
+  //    "Created in React.js with Google Gemini AI",
+  //   tags: ["ai", "agents"],
+  //   urlLink: "https://ai.studio/apps/drive/1XayPfs4Sb0EQpLeUKm5mQRyw2KEdMdmQ",
+  // },
+   { 
+    _id: 12,
+    mainImage: "/images/portfolio/machtrans.png",
+    title: "Machtrans.pl",
     metadata:
-     "Created in React.js with Google Gemini AI",
-    tags: ["ai", "agents"],
-    urlLink: "https://ai.studio/apps/drive/1XayPfs4Sb0EQpLeUKm5mQRyw2KEdMdmQ",
+      "Ultra-fast Business & well SEO-optimized Website for Logistic and Transport Company",
+      urlLink:"https://machtrans.pl/",
+      tags: ["web"],
   },
   {
-    _id: 3.5,
+    _id: 13,
     mainImage: "/images/portfolio/AiPhotoshop.jpg",
     title: "AI Photoshop",
     metadata: 
@@ -92,7 +155,7 @@ const BlogData: Portfolio[] = [
     urlLink: "https://ai.studio/apps/drive/1OptMLu_Y9w_xcKe0wFMm-ATZXVZRtqeR",
   },
   { 
-    _id: 0,
+    _id: 14,
     mainImage: "/images/portfolio/ainsiderplimg.png",
     title: "Ainsider.pl",
     metadata:
@@ -101,7 +164,7 @@ const BlogData: Portfolio[] = [
       tags: ["web", "ai"],  
   },
   { 
-    _id: 2,
+    _id: 15,
     mainImage: "/images/portfolio/voicebot2.jpg",
     title: "Voice AI Assistants",
     metadata:
@@ -110,7 +173,7 @@ const BlogData: Portfolio[] = [
       tags: ["ai", "agents"],
   },
   { 
-    _id: 3,
+    _id: 16,
     mainImage: "/images/portfolio/ainsiderlink.jpg",
     title: "Personal Portfolio with Links and AI Assitant",
     metadata:
@@ -129,15 +192,6 @@ const BlogData: Portfolio[] = [
   // },
   { 
     _id: 17,
-    mainImage: "/images/portfolio/afterrave.jpg",
-    title: "After-rave.eu",
-    metadata:
-      "Shop in Shopify in multiple languages",
-      urlLink:"/portfolio/after-rave",
-      tags: ["websites"],
-  },
-  { 
-    _id: 5,
     mainImage: "/images/portfolio/voicebot.jpg",
     title: "Voice AI Assistant for Szkolajazdymachowski.pl",
     metadata:
@@ -163,15 +217,6 @@ const BlogData: Portfolio[] = [
   //     urlLink:"https://macai.studio",
   //     tags: ["web"],
   // },
-  { 
-    _id: 8,
-    mainImage: "/images/portfolio/ainsider_tools.jpg",
-    title: "Ainsider.Tools",
-    metadata:
-      "Gen AI Tools Directory and Magazine",
-      urlLink:"/portfolio/aitoolslibrary",
-      tags: ["web", "ai"],
-  },
   { 
     _id: 9,
     mainImage: "/images/portfolio/cora.jpg",
