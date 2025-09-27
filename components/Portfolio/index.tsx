@@ -32,9 +32,9 @@ const Portfolio = () => {
 
   return (
     <>
-      <section className="pt-40 md:pt-40 xl:pt-46 pb-20 xl:pb-25 px-3 overflow-hidden">
+      <section className="pt-18 md:pt-8 xl:pt-16 pb-2 xl:pb-6 px-3 overflow-hidden">
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0 flex flex-col md:flex-row">
-          <div className="md:w-1/2 sm:w-full md:block md:mt-16 mb-8 md:mb-0 flex items-center justify-center flex-col h-full">
+          <div className="md:w-1/2 sm:w-full md:block md:mt-16 mb-4 md:mb-0 flex items-center justify-center flex-col h-full">
             <h4 className="text-black dark:text-white text-lg font-medium mb-4.5">
               {t('portfoliosee')} 🔥
             </h4>
@@ -131,8 +131,8 @@ const Portfolio = () => {
             </motion.div>
           </div>
 
-          <div className="md:w-1/2 sm:w-full md:block p-8 md:p-3">
-            <div className="relative 2xl:-mr-7.5">
+          <div className="md:w-1/2 sm:w-full md:block p-4 md:p-3">
+            {/* <div className="relative 2xl:-mr-7.5">
               <Image
                 src="/images/shape/shape-01.png"
                 alt="shape"
@@ -168,13 +168,13 @@ const Portfolio = () => {
                   fill
                 />
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
 
       {/* Modified Portfolio Section with Sidebar Filter and List View */}
-      <section className="pb-10 lg:py-15 xl:py-20 px-4 lg:px-10">
+      <section className="pb-10 lg:py-4 xl:py-10 px-4 lg:px-10">
         <div className="flex flex-col md:flex-row mx-auto max-w-c-1390">
           {/* Sidebar Filter - 20% width on desktop */}
           <div className="w-full md:w-1/5 mb-8 md:mb-0 md:pr-6">
