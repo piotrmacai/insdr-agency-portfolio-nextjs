@@ -80,9 +80,9 @@ const getTranslatedMenuData = () => {
     // }, 
     {
       id: 4.5,
-      title: t('header.menu-store'),
+      title: "Portfolio",
       newTab: false,
-      path: "https://ainsider.store",
+      path: "/portfolio",
       icon: "/images/icon/bag.svg",
     }, 
       {

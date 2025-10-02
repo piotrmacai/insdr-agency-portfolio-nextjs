@@ -16,7 +16,7 @@ const Portfolio = () => {
   const { t } = useTranslation();
  
   useEffect(() => {
-    if (selectedTag === "ai") {
+    if (selectedTag === "web") {
       setFilteredPortfolio(PortfolioData);
     } else {
       const filteredItems = PortfolioData.filter((item) =>
@@ -199,9 +199,9 @@ const Portfolio = () => {
                 </button>
                 <button
                   className={`py-3 px-4 rounded-lg text-left transition-all duration-300 ${
-                    selectedTag === "agents" ? "bg-blue-500 bg-gray-300" : "bg-gray-600 dark:bg-gray-600 dark:text-white hover:bg-gray-600 dark:hover:bg-gray-600"
+                    selectedTag === "ecommerce" ? "bg-blue-500 bg-gray-300" : "bg-gray-600 dark:bg-gray-600 dark:text-white hover:bg-gray-600 dark:hover:bg-gray-600"
                   }`}
-                  onClick={() => handleTagSelection("agents")}
+                  onClick={() => handleTagSelection("ecommerce")}
                 >
                   {t('portfolio.button6')}
                 </button>
