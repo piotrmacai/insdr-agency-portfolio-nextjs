@@ -82,6 +82,23 @@ const BlogData: Portfolio[] = [
   //     urlLink:"https://github.com/piotrmacai/librechat-docker",
   //     tags: ["ai", "agents"],
   // },
+  //  id: 10,
+  //   title: "Machtrans.pl",
+  //   description: "Top SEO and ultra-fast Website in React.js for Transport Company",
+  //   type: "image",
+  //   imageUrl: "/images/machtrans.png",
+  //   aspectRatio: "16:9",
+  //   tags: ["web"],
+  //   externalUrl: "https://machtrans.pl",
+    { 
+    _id: 3,
+    mainImage: "/images/portfolio/osk.png",
+    title: "Machtrans.pl",
+    metadata:
+      "Top SEO and ultra-fast Website in React.js for Transport Company",
+      urlLink:"https://machtrans.pl/",
+      tags: ["web"],
+  },
   { 
     _id: 8,
     mainImage: "/images/portfolio/ainsiderstore.png",
