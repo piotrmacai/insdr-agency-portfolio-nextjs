@@ -3,7 +3,7 @@ import { Portfolio } from "@/types/portfolio";
 const BlogData: Portfolio[] = [
      { 
     _id: 1,
-    mainImage: "/images/portfolio/videoapp.png",
+    mainImage: "/images/portfolio/macailabs-full.png",
     title: "Video Portfolio App",
     metadata:
       "Fully interactive and modern video portfolio app build in Next.js",
@@ -21,7 +21,7 @@ const BlogData: Portfolio[] = [
   // },
   { 
     _id: 2,
-    mainImage: "/images/portfolio/rekrutspark.png",
+    mainImage: "/images/portfolio/rekrut-full.png",
     title: "Rekrut Spark Website",
     metadata:
       "Modern website for HR Agency with job listing and application functionality",
@@ -34,7 +34,7 @@ const BlogData: Portfolio[] = [
     title: "AI Assitant built-in into website",
     metadata:
       "AI Agent trained on business data built-in into website",
-      urlLink:"https://github.com/piotrmacai/",
+      urlLink:"https://ainsider.co",
       tags: ["ai", "all", "web"],
   },
    { 
@@ -66,7 +66,7 @@ const BlogData: Portfolio[] = [
   },
     { 
     _id: 7,
-    mainImage: "/images/portfolio/openwebui.png",
+    mainImage: "/images/portfolio/openweb-full.png",
     title: "Open WebUI - very powerful local LLM interface",
     metadata:
       "Locally installed n8n AI Automation platform - with Docker Container",
@@ -75,7 +75,7 @@ const BlogData: Portfolio[] = [
   },
     { 
     _id: 8,
-    mainImage: "/images/portfolio/ainsider_tools.jpg",
+    mainImage: "/images/portfolio/ainsiderstore-full.png",
     title: "Ainsider.store",
     metadata:
       "Gen AI Tools Directory and Magazine",
@@ -111,22 +111,22 @@ const BlogData: Portfolio[] = [
   //   externalUrl: "https://machtrans.pl",
     { 
     _id: 10,
-    mainImage: "/images/portfolio/osk.png",
+    mainImage: "/images/portfolio/machtrans-full.png",
     title: "Machtrans.pl",
     metadata:
       "Top SEO and ultra-fast Website in React.js for Transport Company",
       urlLink:"https://machtrans.pl/",
       tags: ["all", "web"],
   },
-  { 
-    _id: 11,
-    mainImage: "/images/portfolio/ainsiderstore.png",
-    title: "n8n Agents and Automations Workflows",
-    metadata:
-      "Store with ready to use n8n agents and automations workflows for business",
-      urlLink:"https://ainsider.store",
-      tags: ["ai", "all", "web", "ecommerce"],
-  },
+  // { 
+  //   _id: 11,
+  //   mainImage: "/images/portfolio/ainsiderstore-full.png",
+  //   title: "n8n Agents and Automations Workflows",
+  //   metadata:
+  //     "Store with ready to use n8n agents and automations workflows for business",
+  //     urlLink:"https://ainsider.store",
+  //     tags: ["ai", "all", "web", "ecommerce"],
+  // },
   // {
   //   _id: 9,
   //   mainImage: "/images/portfolio/AiRoomDesigner.jpg",
@@ -147,7 +147,7 @@ const BlogData: Portfolio[] = [
   },
      { 
     _id: 13,
-    mainImage: "/images/portfolio/aidash.png",
+    mainImage: "/images/portfolio/bizdash-full.png",
     title: "AI powered Business Dashboard",
     metadata:
       "Ultra-fast Business & powered by Gemini AI models Dashboard for all business owners",
@@ -164,18 +164,18 @@ const BlogData: Portfolio[] = [
   //   tags: ["ai", "agents"],
   //   urlLink: "https://ai.studio/apps/drive/1XayPfs4Sb0EQpLeUKm5mQRyw2KEdMdmQ",
   // },
-   { 
-    _id: 14,
-    mainImage: "/images/portfolio/machtrans.png",
-    title: "Machtrans.pl",
-    metadata:
-      "Ultra-fast Business & well SEO-optimized Website for Logistic and Transport Company",
-      urlLink:"https://machtrans.pl/",
-      tags: ["all", "web"],
-  },
+  //  { 
+  //   _id: 14,
+  //   mainImage: "/images/portfolio/machtrans-full.png",
+  //   title: "Machtrans.pl",
+  //   metadata:
+  //     "Ultra-fast Business & well SEO-optimized Website for Logistic and Transport Company",
+  //     urlLink:"https://machtrans.pl/",
+  //     tags: ["all", "web"],
+  // },
     { 
     _id: 15,
-    mainImage: "/images/portfolio/pgr.jpg",
+    mainImage: "/images/portfolio/pgr-full.png",
     title: "Pgr-elektroteam.pl",
     metadata:
       "Website for smart home company",
@@ -202,7 +202,7 @@ const BlogData: Portfolio[] = [
   },
      { 
     _id: 18,
-    mainImage: "/images/portfolio/klicious.jpg",
+    mainImage: "/images/portfolio/klicious-full.png",
     title: "K-licious.pl",
     metadata:
       "Website and Ecom for Creative Company",

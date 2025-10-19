@@ -26,51 +26,54 @@ const PortfolioItem = ({ portfolio }: { portfolio: Portfolio }) => {
       viewport={{ once: true }}
       className="animate_top bg-white dark:bg-blacksection rounded-lg shadow-solid-8 p-6 hover:shadow-solid-12 transition-all duration-300"
     >
-      <div className="flex flex-col md:flex-row gap-6 items-start">
-        {/* Image - Left side on desktop */}
-        <div className="w-full md:w-1/3 relative">
-          <Link href={urlLink} className="block relative aspect-[16/9]" target="_blank" rel="noopener noreferrer">
+      <div className="flex flex-col lg:flex-row gap-8 items-start">
+        {/* Image - Left side - 50% width on large screens */}
+        <div className="w-full lg:w-1/2 relative">
+          <Link href={urlLink} className="block relative aspect-[16/9] w-full" target="_blank" rel="noopener noreferrer">
             <Image 
               src={mainImage} 
               alt={title} 
               fill 
               className="rounded-lg object-cover transition-transform duration-300 hover:scale-105"
               style={{ objectPosition: 'center' }}
+              sizes="(max-width: 1024px) 100vw, 50vw"
+              priority
             />
           </Link>
         </div>
 
-        {/* Content - Right side on desktop */}
-        <div className="w-full md:w-2/3">
-          <h3 className="font-semibold text-xl md:text-2xl text-black dark:text-white mb-3 hover:text-primary dark:hover:text-primary transition-colors duration-300">
-            <Link href={urlLink} target="_blank" rel="noopener noreferrer">
+        {/* Content - Right side - 50% width on large screens */}
+        <div className="w-full lg:w-1/2 lg:pl-4">
+          <h3 className="font-semibold text-2xl lg:text-3xl text-black dark:text-white mb-4 hover:text-primary dark:hover:text-primary transition-colors duration-300">
+            <Link href={urlLink} target="_blank" rel="noopener noreferrer" className="hover:underline">
               {title}
             </Link>
           </h3>
           
-          <p className="text-gray-700 dark:text-gray-300 mb-4">
+          <p className="text-gray-700 dark:text-gray-300 mb-6 text-lg">
             {metadata}
           </p>
           
           {/* Tags display */}
-          <div className="flex flex-wrap gap-2 mt-2">
+          {/* <div className="flex flex-wrap gap-2 mb-6">
             {tags.map((tag, index) => (
               <span 
                 key={index} 
-                className="inline-block bg-gray-700 dark:bg-gray-800 text-gray-700 dark:text-gray-700 rounded-full px-3 py-1 text-sm"
+                className="inline-block bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 rounded-full px-4 py-1.5 text-sm font-medium"
               >
                 #{tag}
               </span>
             ))}
           </div>
-          
+           */}
           <Link 
             href={urlLink} 
             target="_blank" 
             rel="noopener noreferrer" 
-            className="inline-block mt-4 text-primary dark:text-blue-400 font-medium hover:underline"
+            className="inline-flex items-center text-primary dark:text-blue-400 md:mt-14 mt-2 font-medium text-lg hover:underline group"
           >
-            View Project →
+            View Project
+            <span className="ml-2 group-hover:translate-x-1 transition-transform duration-300">→</span>
           </Link>
         </div>
       </div>
