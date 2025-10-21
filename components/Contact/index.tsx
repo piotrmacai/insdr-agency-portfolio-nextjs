@@ -203,7 +203,7 @@ const Contact = () => {
               {t('contact.number')}
                 </h4>
                 <p>
-                  <a href="#">+48 576 287 032</a>
+                  <a href="#">+48 730 776 541</a>
                 </p>
               </div>
               <div>

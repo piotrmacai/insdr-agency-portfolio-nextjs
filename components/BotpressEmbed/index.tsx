@@ -88,8 +88,8 @@ const BotpressChat: React.FC<BotpressChatProps> = ({
               "link": "piotr@ainsider.pl"
             },
             "phone": {
-              "title": "+48 576 287 032",
-              "link": "+48 576 287 032"
+              "title": "+48 730 776 541",
+              "link": "+48 730 776 541"
             },
             "termsOfService": {},
             "privacyPolicy": {},
