@@ -19,6 +19,15 @@ const BlogData: Portfolio[] = [
       urlLink:"https://macai.cloud/",
       tags: ["all", "web"],
   },
+    { 
+    _id: 1.7,
+    mainImage: "/images/portfolio/ainsider-link.jpg",
+    title: "AI Recommendation Agent",
+    metadata:
+      "AI Agent with purpose to find the best AI Solutoins or Services based on their needs - trained on company data and AI best resources",
+      urlLink:"https://ainsider.link",
+      tags: ["ai", "all", "web"],
+  },
   // { 
   //   _id: 13,
   //   mainImage: "/images/portfolio/ainsiderco.png",
@@ -28,6 +37,15 @@ const BlogData: Portfolio[] = [
   //     urlLink:"https://ainsider.link",
   //     tags: ["ai", "web"],
   // },
+       { 
+    _id: 3,
+    mainImage: "/images/portfolio/n8n-workflows.jpg",
+    title: "n8n workflows and AI Agents",
+    metadata:
+      "Only top quality & open-sourced n8n workflows and AI Agents for various business needs",
+      urlLink:"https://github.com/piotrmacai/n8n",
+      tags: ["ai", "all", "web"],
+  },
   { 
     _id: 2,
     mainImage: "/images/portfolio/rekrut-full.png",
@@ -71,6 +89,15 @@ const BlogData: Portfolio[] = [
     metadata:
       "Locally installed n8n AI Automation platform - with Docker Container",
       urlLink:"https://github.com/piotrmacai/",
+      tags: ["ai", "all", "web"],
+  },
+    { 
+    _id: 6.5,
+    mainImage: "/images/portfolio/notioncrm.jpg",
+    title: "Complete CRM for Business",
+    metadata:
+      "Highly personalized CRM for business with AI Assitant and automation workflows",
+      urlLink:"https://ainsider.co/crm",
       tags: ["ai", "all", "web"],
   },
     { 
@@ -207,24 +234,6 @@ const BlogData: Portfolio[] = [
       "Website for smart home company",
       urlLink:"/portfolio/elektroteam",
       tags: ["all", "web"],
-  },
-  { 
-    _id: 15.5,
-    mainImage: "/images/portfolio/notioncrm.jpg",
-    title: "Complete CRM for Business",
-    metadata:
-      "Highly personalized CRM for business with AI Assitant and automation workflows",
-      urlLink:"https://ainsider.co/crm",
-      tags: ["ai", "all", "web"],
-  },
-  { 
-    _id: 15.7,
-    mainImage: "/images/portfolio/ainsider-link.jpg",
-    title: "AI Recommendation Agent",
-    metadata:
-      "AI Agent with purpose to find the best AI Solutoins or Services based on their needs - trained on company data and AI best resources",
-      urlLink:"https://ainsider.link",
-      tags: ["ai", "all", "web"],
   },
   {
     _id: 16,
@@ -487,7 +496,7 @@ const BlogData: Portfolio[] = [
   //     urlLink:"/portfolio/macai-chatbot",
   //     tags: ["ai"],
   // },
-  // { 
+  // {  
   //   _id: 12,
   //   mainImage: "/images/portfolio/akcesoria.jpg",
   //   title: "Akcesoriadouprawy.pl",
