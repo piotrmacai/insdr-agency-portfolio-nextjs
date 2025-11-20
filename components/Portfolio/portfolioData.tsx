@@ -37,6 +37,15 @@ const BlogData: Portfolio[] = [
       urlLink:"https://ainsider.link",
       tags: ["ai", "all", "web"],
   },
+   { 
+    _id: 1.75,
+    mainImage: "/images/portfolio/blog-ainsider.png",
+    title: "Modern Blog about AI for polish audience",
+    metadata:
+      "Automation, Agents and technology - with tutorials, guides and toolkits",
+      urlLink:"https://blog.ainsider.cloud",
+      tags: ["ai", "all", "web"],
+  },
   // { 
   //   _id: 13,
   //   mainImage: "/images/portfolio/ainsiderco.png",
