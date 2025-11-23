@@ -15,7 +15,7 @@ const Hero = () => {
 
   return (
     <>
-      <section className="pt-20 md:pt-26 xl:pt-28 pb-4 xl:pb-6 px-3 overflow-hidden relative">
+      <section className="pt-20 md:pt-26 xl:pt-28 pb-4 xl:pb-6 px-3 mx-2 overflow-hidden relative">
         {/* Content Wrapper with relative positioning */}
         <div className="mx-auto max-w-c-1390 px-4 md:px-4 2xl:px-0 relative z-10">
           <div className="flex flex-col md:flex-row">
@@ -25,7 +25,7 @@ const Hero = () => {
                 Ainsider Company
               </h4>
               <h1 className="text-black dark:text-white text-3xl xl:text-hero font-bold mb-5 pr-2">
-                {t('mainheading')} 
+                {t('mainheading')}
                 <span className="inline-block relative before:absolute before:bottom-2.5 before:left-0 before:w-full before:h-3 before:bg-titlebg dark:before:bg-titlebgdark before:-z-1 ml-2.5">
                 </span>
               </h1>
@@ -43,11 +43,11 @@ const Hero = () => {
                   </button>
                 </a>
 
-                <a href="https://www.skool.com/ainsider-6149/about?ref=d207b2af5b914ff09daac8af70f1162c" target="_blank">
+                <a href="https://ainsider.store" target="_blank">
                   <button
                     className="flex bg-blackho hover:bg-black dark:bg-btndark text-white rounded-full ease-in-out duration-300 px-7.5 py-2.5"
                   >
-                    Skool
+                    Ainsider.store
                   </button>
                 </a>
               </div>
@@ -71,8 +71,8 @@ const Hero = () => {
                   fill
                 />
               </div>
-            </div>         
-       
+            </div>
+
           </div>
         </div>
 
@@ -106,7 +106,7 @@ const Hero = () => {
                 </svg>
               </a>
             </li>
-            
+
             <li>
               <a href="https://www.linkedin.com/in/piotrmac0/" target="_blank" rel="noopener noreferrer">
                 <svg
@@ -131,7 +131,7 @@ const Hero = () => {
                 </svg>
               </a>
             </li>
-          
+
             <li>
               <a href="https://www.github.com/aiwareai/" target="_blank" rel="noopener noreferrer">
                 <svg
@@ -181,7 +181,7 @@ const Hero = () => {
                 </svg>
               </a>
             </li>
-            
+
             <li>
               <a href="https://www.linkedin.com/in/piotrmac0/" target="_blank" rel="noopener noreferrer">
                 <svg
@@ -206,7 +206,7 @@ const Hero = () => {
                 </svg>
               </a>
             </li>
-          
+
             <li>
               <a href="https://www.github.com/aiwareai/" target="_blank" rel="noopener noreferrer">
                 <svg
