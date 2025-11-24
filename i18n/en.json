@@ -21,6 +21,15 @@
       }
     }
   },
+
+  "notionform": {
+    "title": "Form",
+    "subtitle": "Formularz",
+    "description": "Formularz",
+    "button": "Wyślij",
+    "link":"https://ainsider.notion.site/26eb65ddefcf81098302cc75e1382471?pvs=105"
+  },
+
   "welcome": "Hello! We're Ainsider!",
   "mainheading": "Your Partner in Automation and AI for Business",
   "description": "Automations | AI Agents | Web and CRM",

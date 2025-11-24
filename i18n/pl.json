@@ -19,6 +19,16 @@
     "savePreferences": "Zapisz ustawienia",
     "back": "Wróć"
   },
+
+
+  "notionform": {
+    "title": "Formularz",
+    "subtitle": "Formularz",
+    "description": "Formularz",
+    "button": "Wyślij",
+    "link":"https://ainsider.notion.site/26eb65ddefcf80c694e9fab2ca8d98ee?pvs=105"
+  },
+
   "ainsiderstore": {
     "badge": "Ainsider Store",
     "title": "Najlepszy katalog",

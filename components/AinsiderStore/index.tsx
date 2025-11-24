@@ -72,7 +72,7 @@ const AinsiderStore = () => {
                                 {t('ainsiderstore.badge')}
                             </div>
 
-                            <h2 className="text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900 dark:text-white mb-6 leading-[1.1]">
+                            <h2 className="text-2xl md:text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white mb-6 leading-[1.1]">
                                 {t('ainsiderstore.title')} <br />
                                 <span className="bg-clip-text text-gray-900 dark:text-white bg-gradient-to-r from-indigo-600 to-purple-600 dark:from-indigo-400 dark:to-purple-300">
                                     {t('ainsiderstore.subtitle')}

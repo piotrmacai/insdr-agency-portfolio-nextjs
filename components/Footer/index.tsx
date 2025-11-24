@@ -88,30 +88,30 @@ const Footer = () => {
                   </h4>
 
                   <ul>
-                    <li>
+                    {/* <li>
                       <a
                         href="/"
                         className="inline-block hover:text-primary mb-3"
                       >
                          {t('footer.menu1')}
                       </a>
-                    </li>
+                    </li> */}
                   
-                    <li>
+                    {/* <li>
                       <a href="/bots" className="inline-block hover:text-primary mb-3">
                         {t('footer.menu12')}
                       </a>
-                    </li>
-                    <li>
+                    </li> */}
+                    {/* <li>
                       <a href="/automations" className="inline-block hover:text-primary mb-3">
                         {t('header.menuAutomations')}
                       </a>
-                    </li>
-                    <li>
+                    </li> */}
+                    {/* <li>
                       <a href="/crm" className="inline-block hover:text-primary mb-3">
                         CRM
                       </a>
-                    </li>
+                    </li> */}
                     {/* <li>
                       <a href="/portfolio" className="inline-block hover:text-primary mb-3">
                         {t('footer.menu2')}
@@ -125,15 +125,14 @@ const Footer = () => {
                         {t('header.menuServices')}
                       </a>
                     </li> */}
-                      <li>
+                      {/* <li>
                       <a
                         href="https://www.skool.com/ainsider-6149/about?ref=d207b2af5b914ff09daac8af70f1162c"
                         className="inline-block hover:text-primary mb-3"
                       >
                         Skool
                       </a>
-                    </li>
-                    <li></li>
+                    </li> */}
                     <li>
                       <a
                         href="/contact"
@@ -144,7 +143,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="https://ainsider.pl/"
+                        href="https://ainsiderai.substack.com/"
                         className="inline-block hover:text-primary mb-3"
                       >
                          AI Newsletter
@@ -152,20 +151,13 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="https://newsletter.ainsider.pl/"
+                        href="https://blog.ainsider.cloud/"
                         className="inline-block hover:text-primary mb-3"
                       >
                          AI Newsletter PL
                       </a>
                     </li>
-                    <li>
-                      <a
-                        href="/apps"
-                        className="inline-block hover:text-primary mb-3"
-                      >
-                          {t('header.menuapps')}
-                      </a>
-                    </li>
+              
                     <li>
                       <a
                         href="/privacy-policy"
