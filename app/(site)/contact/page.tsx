@@ -3,12 +3,11 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Darmowe Konsultacje oraz Wyceny Projektu",
-  description: "Porozmawiaj z Nami, lub Naszym chatbotem, a odezwiemy się do Ciebie w sprawie Twojego projektu",
-  // other metadata
+  title: "Darmowe Konsultacje oraz Wyceny Projektu | Skontaktuj Się z MacAI & AInsider",
+  description: "Porozmawiaj z Nami, lub Naszym inteligentnym chatbotem. Oferujemy bezpłatne konsultacje projektów AI, automatyzacji i rozwoju Full Stack. Odezwiemy się do Ciebie w ciągu 24h.",
 };
 
-const SupportPage = () => {
+const ContactPage = () => {
   return (
     <div className="pt-40 pb-20">
       <Contact />
@@ -16,4 +15,4 @@ const SupportPage = () => {
   );
 };
 
-export default SupportPage;
+export default ContactPage;

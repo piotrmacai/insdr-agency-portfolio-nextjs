@@ -15,7 +15,7 @@ const Hero = () => {
 
   return (
     <>
-      <section className="pt-20 md:pt-26 xl:pt-28 pb-4 xl:pb-6 px-3 mx-2 overflow-hidden relative">
+      <section className="pt-20 md:pt-26 xl:pt-28 pb-4 xl:pb-6 px-12 sm:px-2 lg:px-6 mx-2 overflow-hidden relative">
         {/* Content Wrapper with relative positioning */}
         <div className="mx-auto max-w-c-1390 px-4 md:px-4 2xl:px-0 relative z-10">
           <div className="flex flex-col md:flex-row">

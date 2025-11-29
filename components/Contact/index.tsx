@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import { useTranslation } from 'react-i18next';
 import NotionFormEmbed from "../NotionForm";
 import BotpressSection from "@/components/BotpressSection";
+import LindyEmbed from "@/components/LindyAi";
 
 const Contact = () => {
   /**
@@ -26,18 +27,19 @@ const Contact = () => {
       {/* <!-- ===== Contact Start ===== --> */}
       <section id="support" className="px-2 md:px-4 2xl:px-0">
         <div className="mx-auto relative pt-10 lg:pt-15 xl:pt-20 px-4.5 lg:px-8 xl:px-12 overflow-hidden">
-              {/* Modern Contact Title */}
+          {/* Modern Contact Title */}
           <div className="flex flex-col items-center justify-center text-center mb-10">
             <h1 className="text-black dark:text-white text-4xl xl:text-5xl tracking-tight font-extrabold mb-4 drop-shadow-sm">
               {t('contact.pageTitle', { defaultValue: 'Contact' })}
             </h1>
-              <p className="text-lg text-gray-600 dark:text-gray-300 font-medium max-w-2xl">
+            <p className="text-lg text-gray-600 dark:text-gray-300 font-medium max-w-2xl">
               {t('contact.pageTitleDesc')}
             </p>
-            <div className="w-full max-w-2xl mt-6 rounded-2xl bg-white/40 dark:bg-black/30 shadow-lg backdrop-blur-md p-4">
-            <BotpressSection />
+            <div className="w-full max-w-2xl mt-6 rounded-2xl bg-white/40 dark:bg-black/30 shadow-lg backdrop-blur-md p-4 min-h-[60vh]">
+              <BotpressSection />
+            </div>
+
           </div>
-          </div>         
           <div className="absolute -z-1 rounded-lg left-0 top-0 w-full h-2/3 bg-gradient-to-t from-[#fff] to-[#f7faff47] dark:bg-gradient-to-t dark:from-[#24283E] dark:to-[#252A42]"></div>
           <div className="absolute -z-1 bottom-[-255px] left-0 w-full h-full">
             <Image
@@ -76,10 +78,10 @@ const Contact = () => {
               className="animate_top w-full md:w-3/5 lg:w-3/4 shadow-solid-8 rounded-lg bg-white dark:bg-black dark:border dark:border-strokedark p-7.5 xl:p-15"
             >
               <h2 className="text-black dark:text-white text-2xl xl:text-sectiontitle2 font-semibold mb-15">
-              {t('contact.header1')}
+                {t('contact.header1')}
               </h2>
               <h3 className="text-black dark:text-white text-lg xl:text-xl font-semibold mb-15">
-              {t('contact.header1.2')}
+                {t('contact.header1.2')}
               </h3>
               {/* <form
                 action="https://formspree.io/f/xovqvrlg"
@@ -157,7 +159,7 @@ const Contact = () => {
                   </button>
                 </div>
               </form> */}
-       <NotionFormEmbed />
+              <NotionFormEmbed />
             </motion.div>
 
             <motion.div
@@ -179,12 +181,12 @@ const Contact = () => {
               className="animate_top w-full md:w-2/5 lg:w-[26%] md:p-7.5 xl:pt-15"
             >
               <h2 className="text-black dark:text-white text-3xl xl:text-sectiontitle2 font-semibold mb-12.5">
-              {t('contact.header2')}
+                {t('contact.header2')}
               </h2>
 
               <div className="mb-7 5">
                 <h4 className="font-medium text-black dark:text-white text-metatitle3 mb-4">
-                {t('contact.calendly')}
+                  {t('contact.calendly')}
                 </h4>
                 <p>
                   <a href="https://calendly.com/macaipiotr/30min">{t('contact.header3')}</a>
@@ -192,15 +194,15 @@ const Contact = () => {
               </div>
               <div className="mb-7 5">
                 <h4 className="font-medium text-black dark:text-white text-metatitle3 mb-4">
-                {t('contact.email')}
+                  {t('contact.email')}
                 </h4>
                 <p>
                   <a href="mailto:piotr@ainsider.co">piotr@ainsider.co</a>
                 </p>
               </div>
               <div className="mb-7 5">
-              <h4 className="font-medium text-black dark:text-white text-metatitle3 mb-4">
-              {t('contact.number')}
+                <h4 className="font-medium text-black dark:text-white text-metatitle3 mb-4">
+                  {t('contact.number')}
                 </h4>
                 <p>
                   <a href="#">+48 730 776 541</a>
@@ -214,7 +216,7 @@ const Contact = () => {
                   <a href="https://www.facebook.com/piotrmacai/">{t('contact.mess')}</a>
                 </p>
               </div>
-       
+
             </motion.div>
           </div>
         </div>
