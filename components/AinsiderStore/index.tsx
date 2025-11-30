@@ -40,7 +40,7 @@ const AinsiderStore = () => {
         <div className="w-full min-h-screen bg-transparent dark:bg-transparent flex items-center justify-center p-2 sm:p-4 font-sans selection:bg-purple-100 dark:selection:bg-indigo-500/30">
 
             {/* Main "Big Card" Container */}
-            <div className="relative w-full max-w-7xl overflow-hidden rounded-[2.5rem] bg-white/60 dark:bg-[#151B2B]/70 backdrop-blur-2xl shadow-2xl ring-1 ring-gray-900/5 dark:ring-white/10 transition-all hover:shadow-3xl group">
+            <div className="relative w-full max-w-7xl overflow-hidden rounded-[2.5rem] bg-white/60 dark:bg-[#2A2C30] backdrop-blur-2xl shadow-2xl ring-1 ring-gray-900/5 dark:ring-white/10 transition-all hover:shadow-3xl group">
 
                 {/* SHADER-LIKE BACKGROUND */}
                 {/* Base Gradient */}
