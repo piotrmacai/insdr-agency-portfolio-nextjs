@@ -4,10 +4,9 @@ import React from 'react';
 import { ArrowUpRight, ShoppingBag, GraduationCap, Newspaper, Twitter, Linkedin, Github, ChevronRight, Globe } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
-
 const AinsiderStore = () => {
     const { t } = useTranslation();
-
+ 
     const links = [
         {
             title: "AI & Automation Store",

@@ -2,10 +2,8 @@
 
 import React from 'react';
 import Link from 'next/link';
-// Import only the necessary icons for Vibe Coding services
 import { Code, LayoutGrid, Zap, Twitter, Linkedin, Github, Globe, ChevronRight } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
-
 
 const VibeCodingSection = () => {
     const { t } = useTranslation();

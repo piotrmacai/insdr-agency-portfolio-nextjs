@@ -50,12 +50,11 @@ export default function Home() {
     <main>
       <AiwareHeroTwo />
       <AinsiderStore />
-
       <div id="services">
         <Feature />
-      </div>
+      </div> 
       <VibeCodingSection />
-      <Motion />
+      <Motion /> 
       <FeaturesTabMarketing />
       {/* <MainAbout/> */}
       <ServiceTimeline />

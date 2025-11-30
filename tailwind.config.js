@@ -43,7 +43,7 @@ module.exports = {
       alabaster: "#FBFBFB",
       zumthor: "#F3F3F3",
       socialicon: "#D1D8E0",
-    },
+    }, 
     extend: {
       fontSize: {
         metatitle: ["12px", "20px"],
