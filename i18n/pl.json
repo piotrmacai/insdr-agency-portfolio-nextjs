@@ -26,6 +26,30 @@
     "button": "Wyślij",
     "link": "https://ainsider.notion.site/26eb65ddefcf80c694e9fab2ca8d98ee?pvs=105"
   },
+  "contact": {
+    "pageTitle": "Kontakt",
+    "pageTitleDesc": "Skontaktuj się z nami przez Asystenta AI lub formularz poniżej.",
+    "headermain": "Zacznijmy Twój projekt już teraz",
+    "header1": "Indywidualna wycena dla Ciebie.",
+    "header1.2": "Wypełnij formularz i otrzymaj szczegółową ofertę!",
+    "button": "Wyślij wiadomość",
+    "consent": "Wyrażam zgodę na przetwarzanie moich danych osobowych",
+    "header2": "Poznajmy się",
+    "header3": "Umów darmową konsultację",
+    "calendly": "Kalendarz",
+    "number": "Telefon & WhatsApp",
+    "mess": "Porozmawiaj na Messengerze",
+    "contact": "Skontaktuj się",
+    "email": "E-mail",
+    "form": {
+      "name": "Twoje imię",
+      "email": "Twój adres e-mail",
+      "need": "Czego potrzebujesz?",
+      "business": "Podaj informacje o swojej firmie",
+      "details": "Opisz szczegóły projektu",
+      "deadline": "Termin oraz dodatkowe informacje"
+    }
+  },
   "ainsiderstore": {
     "badge": "Ainsider Store",
     "title": "Najlepszy katalog",
@@ -1442,18 +1466,6 @@
     "header2": "I Wycena Projektu",
     "contact": "Porozmawiajmy",
     "button": "Kontakt"
-  },
-  "contact": {
-    "contact": "Kontakt",
-    "email": "Email",
-    "form": {
-      "name": "Twoje Imię",
-      "email": "Twój Email",
-      "need": "Czego Potrzebujesz?",
-      "business": "Proszę Podaj Szczegóły Twojej działalności",
-      "details": "Proszę Podaj Szczegóły Swojego Projektu",
-      "deadline": "Termin wykonania I Inne Informacje"
-    }
   },
   "portfolio": {
     "header": "Portfolio",

@@ -49,13 +49,13 @@ const getTranslatedMenuData = () => {
           path: "/web",
           icon: "/images/icon/phone.svg",
         },
-        {
-          id: 1.4,
-          title: "Vibe Coding",
-          newTab: true,
-          path: "/vibe-coding",
-          icon: "/images/icon/phone.svg",
-        },
+        // {
+        //   id: 1.4,
+        //   title: "Vibe Coding",
+        //   newTab: true,
+        //   path: "/vibe-coding",
+        //   icon: "/images/icon/phone.svg",
+        // },
         // {
         //   id: 4,
         //   title: t('header.personal-assistant'),

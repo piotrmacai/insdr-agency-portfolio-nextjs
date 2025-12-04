@@ -26,11 +26,11 @@ const Contact = () => {
     <>
       {/* <!-- ===== Contact Start ===== --> */}
       <section id="support" className="px-2 md:px-4 2xl:px-0">
-        <div className="mx-auto relative pt-10 lg:pt-15 xl:pt-20 px-4.5 lg:px-8 xl:px-12 overflow-hidden">
+        <div className="mx-auto dark:bg-[#1A1A1C] relative pt-10 lg:pt-15 xl:pt-20 px-4.5 lg:px-8 xl:px-12 overflow-hidden">
           {/* Modern Contact Title */}
           <div className="flex flex-col items-center justify-center text-center mb-10">
             <h1 className="text-black dark:text-white text-4xl xl:text-5xl tracking-tight font-extrabold mb-4 drop-shadow-sm">
-              {t('contact.pageTitle', { defaultValue: 'Contact' })}
+              {t('contact.pageTitle')}
             </h1>
             <p className="text-lg text-gray-600 dark:text-gray-300 font-medium max-w-2xl">
               {t('contact.pageTitleDesc')}

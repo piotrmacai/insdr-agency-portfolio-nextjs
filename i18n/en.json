@@ -21,6 +21,30 @@
       }
     }
   },
+  "contact": {
+    "pageTitle": "Contact",
+    "pageTitleDesc": "Get in touch with us through the AI Assistant or the form below.",
+    "headermain": "Let's start your project now",
+    "header1": "A quote tailored to you.",
+    "header1.2": "Fill out the form and receive a detailed offer!",
+    "button": "Send Message",
+    "consent": "I consect to process my personal data",
+    "header2": "Let's get to know",
+    "header3": "Get Free Consultation",
+    "calendly": "Calendly",
+    "number": "Phone & Whatsapp",
+    "mess": "Talk in Messenger",
+    "contact": "Contact Me",
+    "email": "Email",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "need": "What Do You need?",
+      "business": "Please Provide Your Business Details",
+      "details": "Please Provide Details About Your Project",
+      "deadline": "Deadline and other informations"
+    }
+  },
   "vibecodingsection": {
     "badge": "Vibe-Coding Studio",
     "title": "Creating Applications",
@@ -1428,30 +1452,6 @@
     "header2": "or Project Pricing",
     "contact": "Contact Me",
     "button": " Contact"
-  },
-  "contact": {
-    "pageTitle": "Contact",
-    "pageTitleDesc": "Get in touch with us through the AI Assistant or the form below.",
-    "headermain": "Let's start your project now",
-    "header1": "A quote tailored to you.",
-    "header1.2": "Fill out the form and receive a detailed offer!",
-    "button": "Send Message",
-    "consent": "I consect to process my personal data",
-    "header2": "Let's get to know",
-    "header3": "Get Free Consultation",
-    "calendly": "Calendly",
-    "number": "Phone & Whatsapp",
-    "mess": "Talk in Messenger",
-    "contact": "Contact Me",
-    "email": "Email",
-    "form": {
-      "name": "Your Name",
-      "email": "Your Email",
-      "need": "What Do You need?",
-      "business": "Please Provide Your Business Details",
-      "details": "Please Provide Details About Your Project",
-      "deadline": "Deadline and other informations"
-    }
   },
   "portfolio": {
     "header": "Portfolio",
