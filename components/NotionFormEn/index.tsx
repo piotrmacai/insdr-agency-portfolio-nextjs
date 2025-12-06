@@ -1,17 +1,17 @@
 ﻿'use client';
 
 import React from 'react';
-
-const NotionFormPL: React.FC = () => {
+ 
+const NotionFormEN: React.FC = () => {
   return (
     <div className="w-full flex justify-start">
       <a
-        href="https://ainsider.notion.site/1bcb65ddefcf805d9f28f545e3680986?pvs=105"
+        href="https://www.notion.so/ainsider/2c1b65ddefcf8189addeef3e2631b3c0?pvs=106"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center gap-2.5 bg-black hover:bg-blackho ease-in-out duration-300 dark:bg-btndark font-medium text-white rounded-full px-6 py-3"
       >
-        Wypełnij brief w Notion 
+        Fill out the brief in Notion
         <svg
           className="fill-white"
           width="14"
@@ -30,4 +30,4 @@ const NotionFormPL: React.FC = () => {
   );
 };
 
-export default NotionFormPL;
+export default NotionFormEN;

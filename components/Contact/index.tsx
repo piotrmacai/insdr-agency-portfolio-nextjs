@@ -3,16 +3,18 @@ import React from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
 import { useTranslation } from 'react-i18next';
-import NotionFormEmbed from "../NotionForm";
+import NotionFormPL from "../NotionForm";
+import NotionFormEN from "../NotionFormEn";
 import BotpressSection from "@/components/BotpressSection";
 import LindyEmbed from "@/components/LindyAi";
+import "@/i18n/i18n";
 
 const Contact = () => {
   /**
    * Source: https://www.joshwcomeau.com/react/the-perils-of-rehydration/
    * Reason: To fix rehydration error
    */
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   const [hasMounted, setHasMounted] = React.useState(false);
   React.useEffect(() => {
@@ -35,9 +37,7 @@ const Contact = () => {
             <p className="text-lg text-gray-600 dark:text-gray-300 font-medium max-w-2xl">
               {t('contact.pageTitleDesc')}
             </p>
-            <div className="w-full max-w-2xl mt-6 rounded-2xl bg-white/40 dark:bg-black/30 shadow-lg backdrop-blur-md p-4 min-h-[60vh]">
-              <BotpressSection />
-            </div>
+        
 
           </div>
           <div className="absolute -z-1 rounded-lg left-0 top-0 w-full h-2/3 bg-gradient-to-t from-[#fff] to-[#f7faff47] dark:bg-gradient-to-t dark:from-[#24283E] dark:to-[#252A42]"></div>
@@ -159,7 +159,12 @@ const Contact = () => {
                   </button>
                 </div>
               </form> */}
-              <NotionFormEmbed />
+              {i18n.language?.startsWith("pl") ? <NotionFormPL /> : <NotionFormEN />}
+            
+               <div className="w-full max-w-2xl mt-6 rounded-2xl bg-white/40 dark:bg-black/30 shadow-lg backdrop-blur-md p-4 min-h-[60vh]">
+              <BotpressSection />
+            </div>
+            
             </motion.div>
 
             <motion.div
@@ -179,11 +184,11 @@ const Contact = () => {
               transition={{ duration: 2, delay: 0.1 }}
               viewport={{ once: true }}
               className="animate_top w-full md:w-2/5 lg:w-[26%] md:p-7.5 xl:pt-15"
-            >
+            > 
               <h2 className="text-black dark:text-white text-3xl xl:text-sectiontitle2 font-semibold mb-12.5">
                 {t('contact.header2')}
               </h2>
-
+  
               <div className="mb-7 5">
                 <h4 className="font-medium text-black dark:text-white text-metatitle3 mb-4">
                   {t('contact.calendly')}
