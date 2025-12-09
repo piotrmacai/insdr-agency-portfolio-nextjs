@@ -1,0 +1,5 @@
+
+import ProductAgent from "@/components/Products/Agents";
+export default function TestUseCasePage() {
+    return <ProductAgent />;
+}

@@ -21,6 +21,230 @@
       }
     }
   },
+  "archidesigner": {
+    "navigation": {
+      "overview": "Overview",
+      "features": "Features",
+      "examples": "Use Cases",
+      "integration": "How It Works",
+      "faq": "FAQ"
+    },
+    "sidebar": {
+      "onThisPage": "On this page",
+      "tryForFree": {
+        "title": "Try for Free",
+        "desc": "Generate 5 professional, full-resolution visualizations – completely free.",
+        "button": "Get Started Now"
+      }
+    },
+    "mobile": {
+      "app": "App"
+    },
+    "hero": {
+      "badge": "AI for Architecture",
+      "title": "Photorealistic Visualizations in Seconds",
+      "subtitle": "Upload a photo or sketch and let our AI instantly create stunning, professional interior or exterior visualizations. Edit them with simple text prompts – as if you were chatting with a designer.",
+      "placeholder": "3D Visualization Panel"
+    },
+    "features": {
+      "title": "What Archidesigner Can Do",
+      "list": [
+        {
+          "title": "Visualization from a Single Photo",
+          "desc": "Upload a photo of an empty interior or façade and AI instantly generates a photorealistic image complete with furniture, lighting, and details in your chosen style.",
+          "icon": "M13 10V3L4 14h7v7l9-11h-7z"
+        },
+        {
+          "title": "Sketch to Finished Visualization",
+          "desc": "Draw a simple hand sketch or use a tablet, describe what you want in words – AI turns it into a fully realistic, ready-to-use visualization.",
+          "icon": "M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"
+        },
+        {
+          "title": "Text-Based Editing – Like a Conversation",
+          "desc": "Type “change the sofa to gray Scandinavian style”, “add more plants”, or “make it evening lighting” – the visualization updates instantly.",
+          "icon": "M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"
+        },
+        {
+          "title": "Hundreds of Ready-Made Styles",
+          "desc": "From modern minimalism and Japanese wabi-sabi to classic elegance – choose a style with one click or describe your own.",
+          "icon": "M7 21a4 4 0 01-4-4V5a2 2 0 012-2h4a2 2 0 012 2v12a4 4 0 01-4 4zm0 0h12a2 2 0 002-2v-4a2 2 0 00-2-2h-2.343M11 7.343l1.657-1.657a2 2 0 012.828 0l2.829 2.829a2 2 0 010 2.828l-8.486 8.485M7 17h.01"
+        }
+      ]
+    },
+    "usecases": {
+      "title": "Who Archidesigner Is For",
+      "realestate": {
+        "tag": "Real Estate & Marketing",
+        "title": "Selling Off-Plan Properties",
+        "badge": "Most Popular",
+        "desc": "Show buyers a beautifully furnished apartment before finishing work even begins. Just one photo of the empty space is enough – AI does the rest.",
+        "benefits": [
+          "Properties sell up to 5× faster",
+          "Clients instantly see their future home"
+        ]
+      },
+      "interior": {
+        "tag": "Interior Design",
+        "title": "Fast Concepts & Client Presentations",
+        "badge": "Designers’ Favorite",
+        "desc": "Create dozens of variations in minutes. When a client says “make it warmer with more wood,” you type it and the visualization updates live.",
+        "benefits": [
+          "Fewer revisions and misunderstandings",
+          "Clients fall in love with the design at first sight"
+        ]
+      }
+    },
+    "integration": {
+      "title": "So Simple You Don’t Need Instructions",
+      "desc": "No installation, no new software to learn. Everything happens in your browser – upload a photo or sketch, describe the result, and you’re done.",
+      "tools": [
+        "Any photo",
+        "Hand-drawn sketch",
+        "Tablet / phone",
+        "Web browser"
+      ],
+      "code": {
+        "step1": "# Brief and Needs Audit",
+        "step2": "# Google Cloud Configuration",
+        "step3": "# Implementation and Testing",
+        "step4": "# Full Onboarding and Optimization"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What can I upload as starting material?",
+          "a": "Any photo of an interior or exterior, or even a very simple hand-drawn sketch on paper or tablet."
+        },
+        {
+          "q": "Can I use the renders commercially?",
+          "a": "Yes, 100%. All generated visualizations belong to you and can be used in listings, websites, social media, and print."
+        },
+        {
+          "q": "Do I need a powerful computer?",
+          "a": "No. Everything runs in the cloud. A regular laptop, tablet, or even a phone with internet access is enough."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready for Visualizations That Sell Themselves?",
+      "subtitle": "Join thousands of designers and agents who can’t imagine working without AI anymore.",
+      "button": "Try for Free"
+    }
+  },
+  "productai": {
+    "navigation": {
+      "overview": "Overview",
+      "features": "Features",
+      "examples": "Use Cases",
+      "integration": "How It Works",
+      "faq": "FAQ"
+    },
+    "sidebar": {
+      "onThisPage": "On this page",
+      "tryForFree": {
+        "title": "Try for Free",
+        "desc": "Generate 5 professional, full-resolution product photos – completely free.",
+        "button": "Get Started Now"
+      }
+    },
+    "mobile": {
+      "app": "App"
+    },
+    "hero": {
+      "badge": "AI for E-commerce",
+      "title": "Professional Product Photos in Seconds",
+      "subtitle": "Upload any photo of your product (even taken with a phone) and let AI instantly create perfect studio, lifestyle, or catalog shots. Edit everything with text prompts or by drawing directly on the image.",
+      "placeholder": "Product Photo Editing Panel"
+    },
+    "features": {
+      "title": "What ProductAI Can Do",
+      "list": [
+        {
+          "title": "From Phone Snap to Studio Perfection",
+          "desc": "Upload a casual photo taken with your phone — AI automatically removes the background, adds perfect lighting, shadows, and reflections, delivering marketplace-ready images for Amazon, Shopify, Etsy, or your own store.",
+          "icon": "M13 10V3L4 14h7v7l9-11h-7z"
+        },
+        {
+          "title": "Text Editing — Like Talking to a Photographer",
+          "desc": "Just type: “pure white background”, “add a model holding the bag”, “make it mint green”, “place it on a café table” — and watch it happen instantly.",
+          "icon": "M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"
+        },
+        {
+          "title": "Draw & Paint Directly on the Image",
+          "desc": "Scribble with your finger or mouse and write “grass and picnic basket here” or “replace background with sunset beach” — AI understands exactly what you drew and generates it perfectly.",
+          "icon": "M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"
+        },
+        {
+          "title": "Hundreds of Ultra-Realistic Shots & Scenes",
+          "desc": "Generate hundreds of photorealistic variations of your exact product in seconds: clean white background, 360° packshot, flat lay on marble, lifestyle in a real kitchen or luxury living room, on a billboard in the city, Instagram post, rainy street with reflections, snowy scene, golden hour light, industrial loft, picnic blanket, high-end restaurant, held by a model, in a shopping basket — every image looks like an expensive professional shoot because it’s built 100% from your original product photo.",
+          "icon": "M7 21a4 4 0 01-4-4V5a2 2 0 012-2h4a2 2 0 012 2v12a4 4 0 01-4 4zm0 0h12a2 2 0 002-2v-4a2 2 0 00-2-2h-2.343M11 7.343l1.657-1.657a2 2 0 012.828 0l2.829 2.829a2 2 0 010 2.828l-8.486 8.485M7 17h.01"
+        }
+      ]
+    },
+    "usecases": {
+      "title": "Who ProductAI Is For",
+      "realestate": {
+        "tag": "E-commerce & Marketplaces",
+        "title": "Online Store & Marketplace Listings",
+        "badge": "Most Popular",
+        "desc": "No more expensive photoshoots. One phone photo becomes a full set of professional images — white background, lifestyle, 360° — fully compliant with Amazon, Shopify, Etsy, and every other platform.",
+        "benefits": [
+          "Save up to 90% on product photography",
+          "Images ready in seconds instead of days"
+        ]
+      },
+      "interior": {
+        "tag": "Marketing & Social Media",
+        "title": "Ads & Posts That Actually Sell",
+        "badge": "Brands Love It",
+        "desc": "Create unlimited color variants, seasonal campaigns, and lifestyle scenes instantly. Just type “Valentine’s version”, “Christmas edition”, “summer sale vibe” and it’s done.",
+        "benefits": [
+          "Higher conversion on ads and posts",
+          "React to trends in minutes"
+        ]
+      }
+    },
+    "integration": {
+      "title": "Simpler Than Photoshop, Faster Than a Photographer",
+      "desc": "Works entirely in your browser — no installation needed. Upload a photo, describe or draw what you want changed, download the finished files.",
+      "tools": [
+        "Photo from your phone",
+        "Draw with your finger",
+        "Any web browser",
+        "Export PNG / JPG / WEBP"
+      ],
+      "code": {
+        "step1": "# Brief and Needs Audit",
+        "step2": "# Google Cloud Configuration",
+        "step3": "# Implementation and Testing",
+        "step4": "# Full Onboarding and Optimization"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What kind of photos can I upload?",
+          "a": "Anything — even quick snaps taken with your phone in bad lighting or messy backgrounds. The AI handles everything."
+        },
+        {
+          "q": "Can I use the images commercially?",
+          "a": "Yes, 100%. All generated and edited photos are fully yours to use anywhere — online stores, ads, social media, print."
+        },
+        {
+          "q": "Do I need a powerful computer?",
+          "a": "No. Everything happens in the cloud. Use your phone, tablet, or even an old laptop."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready for Photos That Sell Themselves?",
+      "subtitle": "Join thousands of brands and sellers who never pay for product shoots again.",
+      "button": "Try for Free"
+    }
+  },
   "contact": {
     "pageTitle": "Contact",
     "pageTitleDesc": "Get in touch with us through the AI Assistant or the form below.",

@@ -26,6 +26,230 @@
     "button": "Wyślij",
     "link": "https://ainsider.notion.site/26eb65ddefcf80c694e9fab2ca8d98ee?pvs=105"
   },
+  "archidesigner": {
+    "navigation": {
+      "overview": "Przegląd",
+      "features": "Możliwości",
+      "examples": "Zastosowania",
+      "integration": "Jak to działa",
+      "faq": "FAQ"
+    },
+    "sidebar": {
+      "onThisPage": "Na tej stronie",
+      "tryForFree": {
+        "title": "Wypróbuj za darmo",
+        "desc": "Wygeneruj 5 profesjonalnych wizualizacji w pełnej rozdzielczości – zupełnie bezpłatnie.",
+        "button": "Zacznij teraz"
+      }
+    },
+    "mobile": {
+      "app": "Aplikacja"
+    },
+    "hero": {
+      "badge": "AI dla architektury",
+      "title": "Fotorealistyczne wizualizacje w kilka sekund",
+      "subtitle": "Wrzuć zdjęcie lub szkic, a nasza sztuczna inteligencja stworzy piękną, profesjonalną wizualizację wnętrza lub elewacji. Edytuj ją słowami – tak jakbyś rozmawiał z projektantem.",
+      "placeholder": "Panel wizualizacji 3D"
+    },
+    "features": {
+      "title": "Co potrafi Archidesigner",
+      "list": [
+        {
+          "title": "Wizualizacja z jednego zdjęcia",
+          "desc": "Wgraj zdjęcie pustego wnętrza lub elewacji, a AI natychmiast stworzy fotorealistyczny obraz z meblami, oświetleniem i detalami w wybranym stylu.",
+          "icon": "M13 10V3L4 14h7v7l9-11h-7z"
+        },
+        {
+          "title": "Szkic → gotowa wizualizacja",
+          "desc": "Narysuj prosty szkic odręcznie lub w tablecie, opisz słowami czego oczekujesz – AI zamieni go w pełnoprawną, realistyczną wizualizację.",
+          "icon": "M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"
+        },
+        {
+          "title": "Edycja tekstem – jak rozmowa",
+          "desc": "Wpisz „zmień sofę na szarą w stylu skandynawskim”, „dodaj więcej zieleni”, „zrób wieczorne oświetlenie” – wizualizacja zmienia się natychmiast.",
+          "icon": "M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"
+        },
+        {
+          "title": "Setki gotowych stylów",
+          "desc": "Od nowoczesnego minimalizmu, przez japoński wabi-sabi, po klasyczną elegancję – wybierz styl jednym kliknięciem lub stwórz własny opis.",
+          "icon": "M7 21a4 4 0 01-4-4V5a2 2 0 012-2h4a2 2 0 012 2v12a4 4 0 01-4 4zm0 0h12a2 2 0 002-2v-4a2 2 0 00-2-2h-2.343M11 7.343l1.657-1.657a2 2 0 012.828 0l2.829 2.829a2 2 0 010 2.828l-8.486 8.485M7 17h.01"
+        }
+      ]
+    },
+    "usecases": {
+      "title": "Dla kogo jest Archidesigner",
+      "realestate": {
+        "tag": "Nieruchomości i marketing",
+        "title": "Sprzedaż mieszkań z rynku pierwotnego",
+        "badge": "Najpopularniejsze",
+        "desc": "Pokaż klientom piękne, umeblowane mieszkanie jeszcze przed rozpoczęciem prac wykończeniowych. Zdjęcie pustych ścian wystarczy – resztę zrobi AI.",
+        "benefits": [
+          "Oferty sprzedają się nawet 5× szybciej",
+          "Klienci widzą swoje przyszłe mieszkanie od razu"
+        ]
+      },
+      "interior": {
+        "tag": "Projektowanie wnętrz",
+        "title": "Szybkie koncepcje i prezentacje dla klientów",
+        "badge": "Ulubione projektantów",
+        "desc": "Twórz dziesiątki wariantów w kilka minut. Klient mówi „chcę cieplej i więcej drewna” – Ty wpisujesz, a wizualizacja zmienia się na żywo.",
+        "benefits": [
+          "Mniej nieporozumień i poprawek",
+          "Klienci zakochują się w projekcie od pierwszego spojrzenia"
+        ]
+      }
+    },
+    "integration": {
+      "title": "Tak proste, że nie potrzebujesz instrukcji",
+      "desc": "Nie wymaga instalacji, nie wymaga nauki nowych programów. Pracujesz w przeglądarce – wrzucasz zdjęcie lub szkic, opisujesz efekt i gotowe.",
+      "tools": [
+        "Dowolne zdjęcie",
+        "Szkic odręcznie",
+        "Tablet / telefon",
+        "Przeglądarka internetowa"
+      ],
+      "code": {
+        "step1": "# Brief i audyt potrzeb",
+        "step2": "# Konfiguracja Google Cloud",
+        "step3": "# Implementacja i testy",
+        "step4": "# Szkolenie i optymalizacja"
+      }
+    },
+    "faq": {
+      "title": "Najczęściej zadawane pytania",
+      "items": [
+        {
+          "q": "Co mogę wrzucić jako materiał startowy?",
+          "a": "Każde zdjęcie wnętrza, elewacji lub nawet bardzo prosty szkic odręcznie wykonany na kartce czy w tablecie."
+        },
+        {
+          "q": "Czy rendery mogę wykorzystywać komercyjnie?",
+          "a": "Tak, w 100%. Wszystkie wygenerowane wizualizacje należą do Ciebie i możesz ich używać w ofertach, na stronach, w social mediach i druku."
+        },
+        {
+          "q": "Czy potrzebuję mocnego komputera?",
+          "a": "Nie. Wszystko dzieje się w chmurze. Wystarczy zwykły laptop, tablet lub nawet telefon z dostępem do internetu."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Gotowy na wizualizacje, które sprzedają same?",
+      "subtitle": "Dołącz do tysięcy projektantów i agentów, którzy już nie wyobrażają sobie pracy bez AI.",
+      "button": "Wypróbuj za darmo"
+    }
+  },
+  "productai": {
+    "navigation": {
+      "overview": "Przegląd",
+      "features": "Możliwości",
+      "examples": "Zastosowania",
+      "integration": "Jak to działa",
+      "faq": "FAQ"
+    },
+    "sidebar": {
+      "onThisPage": "Na tej stronie",
+      "tryForFree": {
+        "title": "Wypróbuj za darmo",
+        "desc": "Wygeneruj 5 profesjonalnych zdjęć produktowych w pełnej rozdzielczości – zupełnie za darmo.",
+        "button": "Zacznij teraz"
+      }
+    },
+    "mobile": {
+      "app": "Aplikacja"
+    },
+    "hero": {
+      "badge": "AI dla e-commerce",
+      "title": "Profesjonalne zdjęcia produktowe w kilka sekund",
+      "subtitle": "Wrzuć zwykłe zdjęcie produktu (nawet z telefonu), a AI stworzy perfekcyjne ujęcia studyjne, lifestyle’owe lub katalogowe. Edytuj wszystko słowami albo rysując palcem po ekranie.",
+      "placeholder": "Panel edycji zdjęć produktowych"
+    },
+    "features": {
+      "title": "Co potrafi ProductAI",
+      "list": [
+        {
+          "title": "Od zwykłego zdjęcia do studyjnego ideału",
+          "desc": "Wrzuć zdjęcie zrobione telefonem – AI automatycznie wyczyści tło, doda perfekcyjne oświetlenie, cienie i odbicia, tworząc zdjęcie gotowe do Allegro, Amazon czy własnej strony.",
+          "icon": "M13 10V3L4 14h7v7l9-11h-7z"
+        },
+        {
+          "title": "Edycja tekstem – jak rozmowa",
+          "desc": "Wpisz „zmień tło na białe”, „dodaj modelkę trzymającą torebkę”, „zrób wersję w kolorze miętowym”, „wstaw produkt na drewniany stolik w kawiarni” – AI wykona to natychmiast.",
+          "icon": "M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"
+        },
+        {
+          "title": "Rysowanie i malowanie po zdjęciu",
+          "desc": "Zaznacz palcem lub myszką obszar i napisz „tutaj trawa i piknikowy kosz” albo „zamień tło na plażę o zachodzie słońca” – AI zrozumie i wygeneruje dokładnie to, co narysowałeś.",
+          "icon": "M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"
+        },
+        {
+          "title": "Ultrarealistyczne ujęcia i sceny",
+          "desc": "Wygeneruj setki perfekcyjnych, fotorealistycznych wariantów Twojego produktu: czyste białe tło, packshot 360°, flat lay, lifestyle w realnych wnętrzach, reklama na bilbordzie, post na Instagramie lub dowolna inna scena – wszystko w 100% oparte na wrzuconym zdjęciu i wyglądające jak prawdziwa sesja zdjęciowa.",
+          "icon": "M7 21a4 4 0 01-4-4V5a2 2 0 012-2h4a2 2 0 012 2v12a4 4 0 01-4 4zm0 0h12a2 2 0 002-2v-4a2 2 0 00-2-2h-2.343M11 7.343l1.657-1.657a2 2 0 012.828 0l2.829 2.829a2 2 0 010 2.828l-8.486 8.485M7 17h.01"
+        }
+      ]
+    },
+    "usecases": {
+      "title": "Dla kogo jest ProductAI",
+      "realestate": {
+        "tag": "E-commerce i marketplace",
+        "title": "Zdjęcia do sklepów internetowych",
+        "badge": "Najpopularniejsze",
+        "desc": "Koniec z drogimi sesjami zdjęciowymi. Jedno zdjęcie z telefonu zamienia się w pełny zestaw profesjonalnych ujęć – białe tło, lifestyle, 360° – wszystko zgodne z wymaganiami platform.",
+        "benefits": [
+          "Oszczędność nawet 90% kosztów zdjęć",
+          "Zdjęcia gotowe w kilka sekund zamiast dni"
+        ]
+      },
+      "interior": {
+        "tag": "Marketing i social media",
+        "title": "Reklamy i posty, które sprzedają",
+        "badge": "Ulubione marek",
+        "desc": "Twórz nieograniczone warianty kolorystyczne, sezonowe kampanie i lifestyle’owe sceny. „Wersja walentynkowa”, „świąteczna”, „letnia wyprzedaż” – wpisujesz i masz gotowe.",
+        "benefits": [
+          "Wyższa konwersja reklam i postów",
+          "Natychmiastowa reakcja na trendy"
+        ]
+      }
+    },
+    "integration": {
+      "title": "Prostsze niż Photoshop, szybsze niż fotograf",
+      "desc": "Działa w przeglądarce, nie wymaga instalacji. Wystarczy wrzucić zdjęcie, opisać lub narysować co chcesz zmienić i pobrać gotowe pliki.",
+      "tools": [
+        "Zdjęcie z telefonu",
+        "Rysowanie palcem",
+        "Dowolna przeglądarka",
+        "Eksport PNG / JPG / WEBP"
+      ],
+      "code": {
+        "step1": "# Brief i audyt potrzeb",
+        "step2": "# Konfiguracja Google Cloud",
+        "step3": "# Implementacja i testy",
+        "step4": "# Szkolenie i optymalizacja"
+      }
+    },
+    "faq": {
+      "title": "Najczęściej zadawane pytania",
+      "items": [
+        {
+          "q": "Jakie zdjęcia mogę wrzucić?",
+          "a": "Każde – nawet zrobione telefonem na kolanie, z nieidealnym światłem czy tłem. AI poradzi sobie z każdym."
+        },
+        {
+          "q": "Czy mogę używać zdjęć komercyjnie?",
+          "a": "Tak, w 100%. Wszystkie wygenerowane i edytowane zdjęcia są Twoje i możesz ich używać wszędzie – sklepy, reklamy, social media, druk."
+        },
+        {
+          "q": "Czy potrzebuję mocnego komputera?",
+          "a": "Nie. Cała magia dzieje się w chmurze. Pracujesz z telefonu, tabletu albo starego laptopa."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Gotowy na zdjęcia, które sprzedają same?",
+      "subtitle": "Dołącz do tysięcy marek i sprzedawców, którzy już nigdy nie płacą za sesje produktowe.",
+      "button": "Wypróbuj za darmo"
+    }
+  },
   "contact": {
     "pageTitle": "Kontakt",
     "pageTitleDesc": "Skontaktuj się z nami przez Asystenta AI lub formularz poniżej.",
